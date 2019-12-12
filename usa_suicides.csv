@@ -1,0 +1,1873 @@
+Notes,State,State Code,Ten-Year Age Groups,Ten-Year Age Groups Code,Race,Race Code,Gender,Gender Code,Deaths,Population,CrudeRate,% of Total Deaths
+,Alabama,1,5-14 years,5-14,Black or African American,2054-5,Male,M,27,1923557,1.4,0.0%
+,Alabama,1,5-14 years,5-14,White,2106-3,Female,F,24,3806104,0.6,0.0%
+,Alabama,1,5-14 years,5-14,White,2106-3,Male,M,43,4016345,1.1,0.0%
+,Alabama,1,15-24 years,15-24,Asian or Pacific Islander,A-PI,Male,M,10,92376,0,0.0%
+,Alabama,1,15-24 years,15-24,Black or African American,2054-5,Female,F,24,2065832,1.2,0.0%
+,Alabama,1,15-24 years,15-24,Black or African American,2054-5,Male,M,281,1979316,14.2,0.0%
+,Alabama,1,15-24 years,15-24,White,2106-3,Female,F,160,4017108,4,0.0%
+,Alabama,1,15-24 years,15-24,White,2106-3,Male,M,964,4203447,22.9,0.1%
+,Alabama,1,25-34 years,25-34,Asian or Pacific Islander,A-PI,Male,M,11,102739,0,0.0%
+,Alabama,1,25-34 years,25-34,Black or African American,2054-5,Female,F,36,1775298,2,0.0%
+,Alabama,1,25-34 years,25-34,Black or African American,2054-5,Male,M,276,1507624,18.3,0.0%
+,Alabama,1,25-34 years,25-34,White,2106-3,Female,F,291,3923644,7.4,0.0%
+,Alabama,1,25-34 years,25-34,White,2106-3,Male,M,1302,4021694,32.4,0.2%
+,Alabama,1,35-44 years,35-44,Black or African American,2054-5,Female,F,33,1733739,1.9,0.0%
+,Alabama,1,35-44 years,35-44,Black or African American,2054-5,Male,M,164,1425130,11.5,0.0%
+,Alabama,1,35-44 years,35-44,White,2106-3,Female,F,481,4280914,11.2,0.1%
+,Alabama,1,35-44 years,35-44,White,2106-3,Male,M,1521,4322711,35.2,0.2%
+,Alabama,1,45-54 years,45-54,Black or African American,2054-5,Female,F,22,1699013,1.3,0.0%
+,Alabama,1,45-54 years,45-54,Black or African American,2054-5,Male,M,127,1418077,9,0.0%
+,Alabama,1,45-54 years,45-54,White,2106-3,Female,F,524,4564025,11.5,0.1%
+,Alabama,1,45-54 years,45-54,White,2106-3,Male,M,1663,4513170,36.8,0.2%
+,Alabama,1,55-64 years,55-64,Black or African American,2054-5,Female,F,15,1260819,0,0.0%
+,Alabama,1,55-64 years,55-64,Black or African American,2054-5,Male,M,88,1033247,8.5,0.0%
+,Alabama,1,55-64 years,55-64,White,2106-3,Female,F,390,4067856,9.6,0.1%
+,Alabama,1,55-64 years,55-64,White,2106-3,Male,M,1354,3831257,35.3,0.2%
+,Alabama,1,65-74 years,65-74,Black or African American,2054-5,Female,F,13,763271,0,0.0%
+,Alabama,1,65-74 years,65-74,Black or African American,2054-5,Male,M,67,557307,12,0.0%
+,Alabama,1,65-74 years,65-74,White,2106-3,Female,F,176,3026013,5.8,0.0%
+,Alabama,1,65-74 years,65-74,White,2106-3,Male,M,890,2615869,34,0.1%
+,Alabama,1,75-84 years,75-84,Black or African American,2054-5,Male,M,35,251208,13.9,0.0%
+,Alabama,1,75-84 years,75-84,White,2106-3,Female,F,98,1944206,5,0.0%
+,Alabama,1,75-84 years,75-84,White,2106-3,Male,M,645,1347223,47.9,0.1%
+,Alabama,1,85+ years,85+,White,2106-3,Female,F,20,787063,2.5,0.0%
+,Alabama,1,85+ years,85+,White,2106-3,Male,M,223,344991,64.6,0.0%
+,Alaska,2,5-14 years,5-14,American Indian or Alaska Native,1002-5,Male,M,11,228120,0,0.0%
+,Alaska,2,5-14 years,5-14,White,2106-3,Male,M,12,648937,0,0.0%
+,Alaska,2,15-24 years,15-24,American Indian or Alaska Native,1002-5,Female,F,90,194213,46.3,0.0%
+,Alaska,2,15-24 years,15-24,American Indian or Alaska Native,1002-5,Male,M,318,208058,152.8,0.0%
+,Alaska,2,15-24 years,15-24,Asian or Pacific Islander,A-PI,Male,M,11,75279,0,0.0%
+,Alaska,2,15-24 years,15-24,Black or African American,2054-5,Male,M,17,65179,0,0.0%
+,Alaska,2,15-24 years,15-24,White,2106-3,Female,F,40,598407,6.7,0.0%
+,Alaska,2,15-24 years,15-24,White,2106-3,Male,M,251,726128,34.6,0.0%
+,Alaska,2,25-34 years,25-34,American Indian or Alaska Native,1002-5,Female,F,59,150299,39.3,0.0%
+,Alaska,2,25-34 years,25-34,American Indian or Alaska Native,1002-5,Male,M,184,154403,119.2,0.0%
+,Alaska,2,25-34 years,25-34,Asian or Pacific Islander,A-PI,Male,M,18,65754,0,0.0%
+,Alaska,2,25-34 years,25-34,Black or African American,2054-5,Male,M,21,54978,38.2,0.0%
+,Alaska,2,25-34 years,25-34,White,2106-3,Female,F,46,644570,7.1,0.0%
+,Alaska,2,25-34 years,25-34,White,2106-3,Male,M,271,723788,37.4,0.0%
+,Alaska,2,35-44 years,35-44,American Indian or Alaska Native,1002-5,Female,F,29,136643,21.2,0.0%
+,Alaska,2,35-44 years,35-44,American Indian or Alaska Native,1002-5,Male,M,107,138135,77.5,0.0%
+,Alaska,2,35-44 years,35-44,White,2106-3,Female,F,79,665370,11.9,0.0%
+,Alaska,2,35-44 years,35-44,White,2106-3,Male,M,262,724107,36.2,0.0%
+,Alaska,2,45-54 years,45-54,American Indian or Alaska Native,1002-5,Female,F,19,129926,0,0.0%
+,Alaska,2,45-54 years,45-54,American Indian or Alaska Native,1002-5,Male,M,82,128618,63.8,0.0%
+,Alaska,2,45-54 years,45-54,White,2106-3,Female,F,108,713849,15.1,0.0%
+,Alaska,2,45-54 years,45-54,White,2106-3,Male,M,280,805806,34.7,0.0%
+,Alaska,2,55-64 years,55-64,American Indian or Alaska Native,1002-5,Male,M,20,85904,23.3,0.0%
+,Alaska,2,55-64 years,55-64,White,2106-3,Female,F,59,515316,11.4,0.0%
+,Alaska,2,55-64 years,55-64,White,2106-3,Male,M,194,603116,32.2,0.0%
+,Alaska,2,65-74 years,65-74,White,2106-3,Female,F,14,237574,0,0.0%
+,Alaska,2,65-74 years,65-74,White,2106-3,Male,M,90,269135,33.4,0.0%
+,Alaska,2,75-84 years,75-84,White,2106-3,Male,M,52,98984,52.5,0.0%
+,Alaska,2,85+ years,85+,White,2106-3,Male,M,25,23544,106.2,0.0%
+,Arizona,4,5-14 years,5-14,American Indian or Alaska Native,1002-5,Female,F,17,616229,0,0.0%
+,Arizona,4,5-14 years,5-14,American Indian or Alaska Native,1002-5,Male,M,27,626275,4.3,0.0%
+,Arizona,4,5-14 years,5-14,White,2106-3,Female,F,37,6628046,0.6,0.0%
+,Arizona,4,5-14 years,5-14,White,2106-3,Male,M,83,6938880,1.2,0.0%
+,Arizona,4,15-24 years,15-24,American Indian or Alaska Native,1002-5,Female,F,96,595292,16.1,0.0%
+,Arizona,4,15-24 years,15-24,American Indian or Alaska Native,1002-5,Male,M,317,617449,51.3,0.0%
+,Arizona,4,15-24 years,15-24,Asian or Pacific Islander,A-PI,Female,F,10,272461,0,0.0%
+,Arizona,4,15-24 years,15-24,Asian or Pacific Islander,A-PI,Male,M,41,296357,13.8,0.0%
+,Arizona,4,15-24 years,15-24,Black or African American,2054-5,Female,F,14,445656,0,0.0%
+,Arizona,4,15-24 years,15-24,Black or African American,2054-5,Male,M,98,512342,19.1,0.0%
+,Arizona,4,15-24 years,15-24,White,2106-3,Female,F,343,6596088,5.2,0.0%
+,Arizona,4,15-24 years,15-24,White,2106-3,Male,M,1629,7090624,23,0.2%
+,Arizona,4,25-34 years,25-34,American Indian or Alaska Native,1002-5,Female,F,67,474164,14.1,0.0%
+,Arizona,4,25-34 years,25-34,American Indian or Alaska Native,1002-5,Male,M,251,489313,51.3,0.0%
+,Arizona,4,25-34 years,25-34,Asian or Pacific Islander,A-PI,Female,F,21,362810,5.8,0.0%
+,Arizona,4,25-34 years,25-34,Asian or Pacific Islander,A-PI,Male,M,49,351216,14,0.0%
+,Arizona,4,25-34 years,25-34,Black or African American,2054-5,Female,F,23,398073,5.8,0.0%
+,Arizona,4,25-34 years,25-34,Black or African American,2054-5,Male,M,108,458131,23.6,0.0%
+,Arizona,4,25-34 years,25-34,White,2106-3,Female,F,527,6494774,8.1,0.1%
+,Arizona,4,25-34 years,25-34,White,2106-3,Male,M,2083,6929376,30.1,0.3%
+,Arizona,4,35-44 years,35-44,American Indian or Alaska Native,1002-5,Female,F,28,422406,6.6,0.0%
+,Arizona,4,35-44 years,35-44,American Indian or Alaska Native,1002-5,Male,M,177,407206,43.5,0.0%
+,Arizona,4,35-44 years,35-44,Asian or Pacific Islander,A-PI,Female,F,13,341350,0,0.0%
+,Arizona,4,35-44 years,35-44,Asian or Pacific Islander,A-PI,Male,M,27,303593,8.9,0.0%
+,Arizona,4,35-44 years,35-44,Black or African American,2054-5,Female,F,15,353223,0,0.0%
+,Arizona,4,35-44 years,35-44,Black or African American,2054-5,Male,M,66,399026,16.5,0.0%
+,Arizona,4,35-44 years,35-44,White,2106-3,Female,F,723,6535191,11.1,0.1%
+,Arizona,4,35-44 years,35-44,White,2106-3,Male,M,2222,6708240,33.1,0.3%
+,Arizona,4,45-54 years,45-54,American Indian or Alaska Native,1002-5,Female,F,22,366692,6,0.0%
+,Arizona,4,45-54 years,45-54,American Indian or Alaska Native,1002-5,Male,M,92,331547,27.7,0.0%
+,Arizona,4,45-54 years,45-54,Asian or Pacific Islander,A-PI,Female,F,11,262988,0,0.0%
+,Arizona,4,45-54 years,45-54,Asian or Pacific Islander,A-PI,Male,M,31,212177,14.6,0.0%
+,Arizona,4,45-54 years,45-54,Black or African American,2054-5,Female,F,16,294211,0,0.0%
+,Arizona,4,45-54 years,45-54,Black or African American,2054-5,Male,M,49,321740,15.2,0.0%
+,Arizona,4,45-54 years,45-54,White,2106-3,Female,F,936,6566583,14.3,0.1%
+,Arizona,4,45-54 years,45-54,White,2106-3,Male,M,2635,6401186,41.2,0.4%
+,Arizona,4,55-64 years,55-64,American Indian or Alaska Native,1002-5,Male,M,25,211698,11.8,0.0%
+,Arizona,4,55-64 years,55-64,Asian or Pacific Islander,A-PI,Male,M,24,131691,18.2,0.0%
+,Arizona,4,55-64 years,55-64,Black or African American,2054-5,Male,M,15,202828,0,0.0%
+,Arizona,4,55-64 years,55-64,White,2106-3,Female,F,765,5919749,12.9,0.1%
+,Arizona,4,55-64 years,55-64,White,2106-3,Male,M,2011,5404075,37.2,0.3%
+,Arizona,4,65-74 years,65-74,American Indian or Alaska Native,1002-5,Male,M,12,113076,0,0.0%
+,Arizona,4,65-74 years,65-74,Black or African American,2054-5,Male,M,13,102519,0,0.0%
+,Arizona,4,65-74 years,65-74,White,2106-3,Female,F,360,4532942,7.9,0.1%
+,Arizona,4,65-74 years,65-74,White,2106-3,Male,M,1386,4105048,33.8,0.2%
+,Arizona,4,75-84 years,75-84,White,2106-3,Female,F,195,2777922,7,0.0%
+,Arizona,4,75-84 years,75-84,White,2106-3,Male,M,1211,2310634,52.4,0.2%
+,Arizona,4,85+ years,85+,White,2106-3,Female,F,73,1118425,6.5,0.0%
+,Arizona,4,85+ years,85+,White,2106-3,Male,M,507,656523,77.2,0.1%
+,Arkansas,5,5-14 years,5-14,White,2106-3,Female,F,24,2750827,0.9,0.0%
+,Arkansas,5,5-14 years,5-14,White,2106-3,Male,M,42,2904241,1.4,0.0%
+,Arkansas,5,15-24 years,15-24,Asian or Pacific Islander,A-PI,Male,M,14,69397,0,0.0%
+,Arkansas,5,15-24 years,15-24,Black or African American,2054-5,Female,F,14,752089,0,0.0%
+,Arkansas,5,15-24 years,15-24,Black or African American,2054-5,Male,M,100,749284,13.3,0.0%
+,Arkansas,5,15-24 years,15-24,White,2106-3,Female,F,134,2838272,4.7,0.0%
+,Arkansas,5,15-24 years,15-24,White,2106-3,Male,M,788,2982744,26.4,0.1%
+,Arkansas,5,25-34 years,25-34,Asian or Pacific Islander,A-PI,Male,M,18,79329,0,0.0%
+,Arkansas,5,25-34 years,25-34,Black or African American,2054-5,Female,F,10,638070,0,0.0%
+,Arkansas,5,25-34 years,25-34,Black or African American,2054-5,Male,M,102,564827,18.1,0.0%
+,Arkansas,5,25-34 years,25-34,White,2106-3,Female,F,242,2749667,8.8,0.0%
+,Arkansas,5,25-34 years,25-34,White,2106-3,Male,M,1042,2847351,36.6,0.1%
+,Arkansas,5,35-44 years,35-44,Black or African American,2054-5,Female,F,25,600570,4.2,0.0%
+,Arkansas,5,35-44 years,35-44,Black or African American,2054-5,Male,M,70,514540,13.6,0.0%
+,Arkansas,5,35-44 years,35-44,White,2106-3,Female,F,370,2894469,12.8,0.1%
+,Arkansas,5,35-44 years,35-44,White,2106-3,Male,M,1126,2942406,38.3,0.2%
+,Arkansas,5,45-54 years,45-54,Black or African American,2054-5,Female,F,14,573277,0,0.0%
+,Arkansas,5,45-54 years,45-54,Black or African American,2054-5,Male,M,53,498600,10.6,0.0%
+,Arkansas,5,45-54 years,45-54,White,2106-3,Female,F,395,3033275,13,0.1%
+,Arkansas,5,45-54 years,45-54,White,2106-3,Male,M,1156,2998775,38.5,0.2%
+,Arkansas,5,55-64 years,55-64,Black or African American,2054-5,Male,M,39,355439,11,0.0%
+,Arkansas,5,55-64 years,55-64,White,2106-3,Female,F,284,2751403,10.3,0.0%
+,Arkansas,5,55-64 years,55-64,White,2106-3,Male,M,834,2586372,32.2,0.1%
+,Arkansas,5,65-74 years,65-74,Black or African American,2054-5,Male,M,18,181507,0,0.0%
+,Arkansas,5,65-74 years,65-74,White,2106-3,Female,F,115,2084284,5.5,0.0%
+,Arkansas,5,65-74 years,65-74,White,2106-3,Male,M,590,1839859,32.1,0.1%
+,Arkansas,5,75-84 years,75-84,White,2106-3,Female,F,52,1337978,3.9,0.0%
+,Arkansas,5,75-84 years,75-84,White,2106-3,Male,M,464,978500,47.4,0.1%
+,Arkansas,5,85+ years,85+,White,2106-3,Female,F,19,580747,0,0.0%
+,Arkansas,5,85+ years,85+,White,2106-3,Male,M,166,274342,60.5,0.0%
+,California,6,5-14 years,5-14,Asian or Pacific Islander,A-PI,Female,F,18,6094140,0,0.0%
+,California,6,5-14 years,5-14,Asian or Pacific Islander,A-PI,Male,M,27,6417271,0.4,0.0%
+,California,6,5-14 years,5-14,Black or African American,2054-5,Female,F,13,4046691,0,0.0%
+,California,6,5-14 years,5-14,Black or African American,2054-5,Male,M,36,4208762,0.9,0.0%
+,California,6,5-14 years,5-14,White,2106-3,Female,F,113,36696764,0.3,0.0%
+,California,6,5-14 years,5-14,White,2106-3,Male,M,221,38416541,0.6,0.0%
+,California,6,15-24 years,15-24,American Indian or Alaska Native,1002-5,Female,F,26,1070350,2.4,0.0%
+,California,6,15-24 years,15-24,American Indian or Alaska Native,1002-5,Male,M,94,1149677,8.2,0.0%
+,California,6,15-24 years,15-24,Asian or Pacific Islander,A-PI,Female,F,230,6867599,3.3,0.0%
+,California,6,15-24 years,15-24,Asian or Pacific Islander,A-PI,Male,M,694,7102187,9.8,0.1%
+,California,6,15-24 years,15-24,Black or African American,2054-5,Female,F,126,4028670,3.1,0.0%
+,California,6,15-24 years,15-24,Black or African American,2054-5,Male,M,463,4274296,10.8,0.1%
+,California,6,15-24 years,15-24,White,2106-3,Female,F,1142,36903550,3.1,0.2%
+,California,6,15-24 years,15-24,White,2106-3,Male,M,4928,40057250,12.3,0.7%
+,California,6,25-34 years,25-34,American Indian or Alaska Native,1002-5,Female,F,23,946582,2.4,0.0%
+,California,6,25-34 years,25-34,American Indian or Alaska Native,1002-5,Male,M,86,1028873,8.4,0.0%
+,California,6,25-34 years,25-34,Asian or Pacific Islander,A-PI,Female,F,321,8447351,3.8,0.0%
+,California,6,25-34 years,25-34,Asian or Pacific Islander,A-PI,Male,M,832,7870025,10.6,0.1%
+,California,6,25-34 years,25-34,Black or African American,2054-5,Female,F,127,3694630,3.4,0.0%
+,California,6,25-34 years,25-34,Black or African American,2054-5,Male,M,570,3724785,15.3,0.1%
+,California,6,25-34 years,25-34,White,2106-3,Female,F,1560,36977518,4.2,0.2%
+,California,6,25-34 years,25-34,White,2106-3,Male,M,6690,40022374,16.7,1.0%
+,California,6,35-44 years,35-44,American Indian or Alaska Native,1002-5,Female,F,31,884416,3.5,0.0%
+,California,6,35-44 years,35-44,American Indian or Alaska Native,1002-5,Male,M,93,908650,10.2,0.0%
+,California,6,35-44 years,35-44,Asian or Pacific Islander,A-PI,Female,F,304,8406326,3.6,0.0%
+,California,6,35-44 years,35-44,Asian or Pacific Islander,A-PI,Male,M,688,7414349,9.3,0.1%
+,California,6,35-44 years,35-44,Black or African American,2054-5,Female,F,145,3653837,4,0.0%
+,California,6,35-44 years,35-44,Black or African American,2054-5,Male,M,467,3587107,13,0.1%
+,California,6,35-44 years,35-44,White,2106-3,Female,F,2333,37177240,6.3,0.3%
+,California,6,35-44 years,35-44,White,2106-3,Male,M,7719,38985244,19.8,1.1%
+,California,6,45-54 years,45-54,American Indian or Alaska Native,1002-5,Female,F,22,770379,2.9,0.0%
+,California,6,45-54 years,45-54,American Indian or Alaska Native,1002-5,Male,M,52,761351,6.8,0.0%
+,California,6,45-54 years,45-54,Asian or Pacific Islander,A-PI,Female,F,305,7578069,4,0.0%
+,California,6,45-54 years,45-54,Asian or Pacific Islander,A-PI,Male,M,740,6544627,11.3,0.1%
+,California,6,45-54 years,45-54,Black or African American,2054-5,Female,F,116,3432052,3.4,0.0%
+,California,6,45-54 years,45-54,Black or African American,2054-5,Male,M,405,3291842,12.3,0.1%
+,California,6,45-54 years,45-54,White,2106-3,Female,F,3339,35820429,9.3,0.5%
+,California,6,45-54 years,45-54,White,2106-3,Male,M,9418,36242250,26,1.4%
+,California,6,55-64 years,55-64,American Indian or Alaska Native,1002-5,Female,F,18,499935,0,0.0%
+,California,6,55-64 years,55-64,American Indian or Alaska Native,1002-5,Male,M,40,471483,8.5,0.0%
+,California,6,55-64 years,55-64,Asian or Pacific Islander,A-PI,Female,F,209,5656806,3.7,0.0%
+,California,6,55-64 years,55-64,Asian or Pacific Islander,A-PI,Male,M,557,4710973,11.8,0.1%
+,California,6,55-64 years,55-64,Black or African American,2054-5,Female,F,75,2454609,3.1,0.0%
+,California,6,55-64 years,55-64,Black or African American,2054-5,Male,M,227,2201805,10.3,0.0%
+,California,6,55-64 years,55-64,White,2106-3,Female,F,2497,27966125,8.9,0.4%
+,California,6,55-64 years,55-64,White,2106-3,Male,M,7560,26779864,28.2,1.1%
+,California,6,65-74 years,65-74,American Indian or Alaska Native,1002-5,Male,M,16,219663,0,0.0%
+,California,6,65-74 years,65-74,Asian or Pacific Islander,A-PI,Female,F,139,3548009,3.9,0.0%
+,California,6,65-74 years,65-74,Asian or Pacific Islander,A-PI,Male,M,345,2808503,12.3,0.0%
+,California,6,65-74 years,65-74,Black or African American,2054-5,Female,F,23,1465171,1.6,0.0%
+,California,6,65-74 years,65-74,Black or African American,2054-5,Male,M,111,1177622,9.4,0.0%
+,California,6,65-74 years,65-74,White,2106-3,Female,F,1143,18313802,6.2,0.2%
+,California,6,65-74 years,65-74,White,2106-3,Male,M,4300,16015158,26.8,0.6%
+,California,6,75-84 years,75-84,American Indian or Alaska Native,1002-5,Male,M,11,88372,0,0.0%
+,California,6,75-84 years,75-84,Asian or Pacific Islander,A-PI,Female,F,126,2033675,6.2,0.0%
+,California,6,75-84 years,75-84,Asian or Pacific Islander,A-PI,Male,M,244,1462408,16.7,0.0%
+,California,6,75-84 years,75-84,Black or African American,2054-5,Male,M,79,541503,14.6,0.0%
+,California,6,75-84 years,75-84,White,2106-3,Female,F,727,12291597,5.9,0.1%
+,California,6,75-84 years,75-84,White,2106-3,Male,M,3898,9073966,43,0.6%
+,California,6,85+ years,85+,Asian or Pacific Islander,A-PI,Female,F,68,768809,8.8,0.0%
+,California,6,85+ years,85+,Asian or Pacific Islander,A-PI,Male,M,101,460892,21.9,0.0%
+,California,6,85+ years,85+,Black or African American,2054-5,Male,M,14,148275,0,0.0%
+,California,6,85+ years,85+,White,2106-3,Female,F,374,5882341,6.4,0.1%
+,California,6,85+ years,85+,White,2106-3,Male,M,1959,3088084,63.4,0.3%
+,California,6,Not Stated,NS,White,2106-3,Male,M,16,0,0,0.0%
+,Colorado,8,5-14 years,5-14,Black or African American,2054-5,Male,M,10,404834,0,0.0%
+,Colorado,8,5-14 years,5-14,White,2106-3,Female,F,51,5402601,0.9,0.0%
+,Colorado,8,5-14 years,5-14,White,2106-3,Male,M,128,5694083,2.2,0.0%
+,Colorado,8,15-24 years,15-24,American Indian or Alaska Native,1002-5,Female,F,17,136935,0,0.0%
+,Colorado,8,15-24 years,15-24,American Indian or Alaska Native,1002-5,Male,M,29,144617,20.1,0.0%
+,Colorado,8,15-24 years,15-24,Asian or Pacific Islander,A-PI,Female,F,12,232466,0,0.0%
+,Colorado,8,15-24 years,15-24,Asian or Pacific Islander,A-PI,Male,M,39,231569,16.8,0.0%
+,Colorado,8,15-24 years,15-24,Black or African American,2054-5,Female,F,26,350720,7.4,0.0%
+,Colorado,8,15-24 years,15-24,Black or African American,2054-5,Male,M,70,398296,17.6,0.0%
+,Colorado,8,15-24 years,15-24,White,2106-3,Female,F,411,5492688,7.5,0.1%
+,Colorado,8,15-24 years,15-24,White,2106-3,Male,M,1651,5997642,27.5,0.2%
+,Colorado,8,25-34 years,25-34,American Indian or Alaska Native,1002-5,Male,M,33,132980,24.8,0.0%
+,Colorado,8,25-34 years,25-34,Asian or Pacific Islander,A-PI,Female,F,23,300031,7.7,0.0%
+,Colorado,8,25-34 years,25-34,Asian or Pacific Islander,A-PI,Male,M,48,276279,17.4,0.0%
+,Colorado,8,25-34 years,25-34,Black or African American,2054-5,Female,F,13,321432,0,0.0%
+,Colorado,8,25-34 years,25-34,Black or African American,2054-5,Male,M,95,380976,24.9,0.0%
+,Colorado,8,25-34 years,25-34,White,2106-3,Female,F,507,5898489,8.6,0.1%
+,Colorado,8,25-34 years,25-34,White,2106-3,Male,M,2039,6377642,32,0.3%
+,Colorado,8,35-44 years,35-44,American Indian or Alaska Native,1002-5,Male,M,22,118985,18.5,0.0%
+,Colorado,8,35-44 years,35-44,Asian or Pacific Islander,A-PI,Female,F,13,275016,0,0.0%
+,Colorado,8,35-44 years,35-44,Asian or Pacific Islander,A-PI,Male,M,46,233448,19.7,0.0%
+,Colorado,8,35-44 years,35-44,Black or African American,2054-5,Female,F,16,293835,0,0.0%
+,Colorado,8,35-44 years,35-44,Black or African American,2054-5,Male,M,72,352541,20.4,0.0%
+,Colorado,8,35-44 years,35-44,White,2106-3,Female,F,686,6017473,11.4,0.1%
+,Colorado,8,35-44 years,35-44,White,2106-3,Male,M,2276,6263023,36.3,0.3%
+,Colorado,8,45-54 years,45-54,American Indian or Alaska Native,1002-5,Male,M,23,98682,23.3,0.0%
+,Colorado,8,45-54 years,45-54,Asian or Pacific Islander,A-PI,Female,F,17,213036,0,0.0%
+,Colorado,8,45-54 years,45-54,Asian or Pacific Islander,A-PI,Male,M,20,170397,11.7,0.0%
+,Colorado,8,45-54 years,45-54,Black or African American,2054-5,Female,F,19,253367,0,0.0%
+,Colorado,8,45-54 years,45-54,Black or African American,2054-5,Male,M,43,293480,14.7,0.0%
+,Colorado,8,45-54 years,45-54,White,2106-3,Female,F,884,6086250,14.5,0.1%
+,Colorado,8,45-54 years,45-54,White,2106-3,Male,M,2557,6077390,42.1,0.4%
+,Colorado,8,55-64 years,55-64,Asian or Pacific Islander,A-PI,Male,M,17,103282,0,0.0%
+,Colorado,8,55-64 years,55-64,Black or African American,2054-5,Male,M,25,178153,14,0.0%
+,Colorado,8,55-64 years,55-64,White,2106-3,Female,F,578,4797724,12,0.1%
+,Colorado,8,55-64 years,55-64,White,2106-3,Male,M,1773,4651495,38.1,0.3%
+,Colorado,8,65-74 years,65-74,Black or African American,2054-5,Male,M,11,84861,0,0.0%
+,Colorado,8,65-74 years,65-74,White,2106-3,Female,F,228,2899491,7.9,0.0%
+,Colorado,8,65-74 years,65-74,White,2106-3,Male,M,888,2640352,33.6,0.1%
+,Colorado,8,75-84 years,75-84,White,2106-3,Female,F,119,1729684,6.9,0.0%
+,Colorado,8,75-84 years,75-84,White,2106-3,Male,M,628,1294043,48.5,0.1%
+,Colorado,8,85+ years,85+,White,2106-3,Female,F,43,803602,5.4,0.0%
+,Colorado,8,85+ years,85+,White,2106-3,Male,M,304,394827,77,0.0%
+,Connecticut,9,5-14 years,5-14,White,2106-3,Female,F,18,3452185,0,0.0%
+,Connecticut,9,5-14 years,5-14,White,2106-3,Male,M,20,3632166,0.6,0.0%
+,Connecticut,9,15-24 years,15-24,Asian or Pacific Islander,A-PI,Female,F,11,185755,0,0.0%
+,Connecticut,9,15-24 years,15-24,Asian or Pacific Islander,A-PI,Male,M,17,187181,0,0.0%
+,Connecticut,9,15-24 years,15-24,Black or African American,2054-5,Female,F,11,638625,0,0.0%
+,Connecticut,9,15-24 years,15-24,Black or African American,2054-5,Male,M,56,665692,8.4,0.0%
+,Connecticut,9,15-24 years,15-24,White,2106-3,Female,F,113,3421868,3.3,0.0%
+,Connecticut,9,15-24 years,15-24,White,2106-3,Male,M,458,3637172,12.6,0.1%
+,Connecticut,9,25-34 years,25-34,Asian or Pacific Islander,A-PI,Male,M,16,256702,0,0.0%
+,Connecticut,9,25-34 years,25-34,Black or African American,2054-5,Female,F,16,584829,0,0.0%
+,Connecticut,9,25-34 years,25-34,Black or African American,2054-5,Male,M,56,535657,10.5,0.0%
+,Connecticut,9,25-34 years,25-34,White,2106-3,Female,F,148,3204880,4.6,0.0%
+,Connecticut,9,25-34 years,25-34,White,2106-3,Male,M,562,3250273,17.3,0.1%
+,Connecticut,9,35-44 years,35-44,Asian or Pacific Islander,A-PI,Male,M,11,229594,0,0.0%
+,Connecticut,9,35-44 years,35-44,Black or African American,2054-5,Female,F,18,593783,0,0.0%
+,Connecticut,9,35-44 years,35-44,Black or African American,2054-5,Male,M,56,508668,11,0.0%
+,Connecticut,9,35-44 years,35-44,White,2106-3,Female,F,239,4070136,5.9,0.0%
+,Connecticut,9,35-44 years,35-44,White,2106-3,Male,M,797,3952538,20.2,0.1%
+,Connecticut,9,45-54 years,45-54,Black or African American,2054-5,Female,F,13,522483,0,0.0%
+,Connecticut,9,45-54 years,45-54,Black or African American,2054-5,Male,M,28,445519,6.3,0.0%
+,Connecticut,9,45-54 years,45-54,White,2106-3,Female,F,344,4500807,7.6,0.0%
+,Connecticut,9,45-54 years,45-54,White,2106-3,Male,M,1106,4331571,25.5,0.2%
+,Connecticut,9,55-64 years,55-64,Asian or Pacific Islander,A-PI,Male,M,12,95877,0,0.0%
+,Connecticut,9,55-64 years,55-64,Black or African American,2054-5,Male,M,15,289005,0,0.0%
+,Connecticut,9,55-64 years,55-64,White,2106-3,Female,F,250,3610031,6.9,0.0%
+,Connecticut,9,55-64 years,55-64,White,2106-3,Male,M,766,3397398,22.5,0.1%
+,Connecticut,9,65-74 years,65-74,Black or African American,2054-5,Male,M,15,150714,0,0.0%
+,Connecticut,9,65-74 years,65-74,White,2106-3,Female,F,93,2385376,3.9,0.0%
+,Connecticut,9,65-74 years,65-74,White,2106-3,Male,M,336,2046887,16.4,0.0%
+,Connecticut,9,75-84 years,75-84,White,2106-3,Female,F,69,1782019,3.9,0.0%
+,Connecticut,9,75-84 years,75-84,White,2106-3,Male,M,276,1228821,22.5,0.0%
+,Connecticut,9,85+ years,85+,White,2106-3,Female,F,40,990040,4,0.0%
+,Connecticut,9,85+ years,85+,White,2106-3,Male,M,111,450552,24.6,0.0%
+,Delaware,10,15-24 years,15-24,Black or African American,2054-5,Male,M,37,307099,12,0.0%
+,Delaware,10,15-24 years,15-24,White,2106-3,Female,F,31,781280,4,0.0%
+,Delaware,10,15-24 years,15-24,White,2106-3,Male,M,154,797444,19.3,0.0%
+,Delaware,10,25-34 years,25-34,Black or African American,2054-5,Male,M,38,235328,16.1,0.0%
+,Delaware,10,25-34 years,25-34,White,2106-3,Female,F,54,757779,7.1,0.0%
+,Delaware,10,25-34 years,25-34,White,2106-3,Male,M,188,767010,24.5,0.0%
+,Delaware,10,35-44 years,35-44,Black or African American,2054-5,Male,M,32,238709,13.4,0.0%
+,Delaware,10,35-44 years,35-44,White,2106-3,Female,F,66,822496,8,0.0%
+,Delaware,10,35-44 years,35-44,White,2106-3,Male,M,257,813580,31.6,0.0%
+,Delaware,10,45-54 years,45-54,Black or African American,2054-5,Male,M,31,221961,14,0.0%
+,Delaware,10,45-54 years,45-54,White,2106-3,Female,F,93,899577,10.3,0.0%
+,Delaware,10,45-54 years,45-54,White,2106-3,Male,M,337,866004,38.9,0.0%
+,Delaware,10,55-64 years,55-64,Black or African American,2054-5,Male,M,12,151322,0,0.0%
+,Delaware,10,55-64 years,55-64,White,2106-3,Female,F,67,815561,8.2,0.0%
+,Delaware,10,55-64 years,55-64,White,2106-3,Male,M,208,743406,28,0.0%
+,Delaware,10,65-74 years,65-74,White,2106-3,Female,F,26,611088,4.3,0.0%
+,Delaware,10,65-74 years,65-74,White,2106-3,Male,M,99,538378,18.4,0.0%
+,Delaware,10,75-84 years,75-84,White,2106-3,Female,F,20,381021,5.2,0.0%
+,Delaware,10,75-84 years,75-84,White,2106-3,Male,M,77,288697,26.7,0.0%
+,Delaware,10,85+ years,85+,White,2106-3,Male,M,45,79877,56.3,0.0%
+,District of Columbia,11,15-24 years,15-24,Black or African American,2054-5,Female,F,11,490901,0,0.0%
+,District of Columbia,11,15-24 years,15-24,Black or African American,2054-5,Male,M,54,435485,12.4,0.0%
+,District of Columbia,11,15-24 years,15-24,White,2106-3,Male,M,20,356364,5.6,0.0%
+,District of Columbia,11,25-34 years,25-34,Black or African American,2054-5,Female,F,15,477938,0,0.0%
+,District of Columbia,11,25-34 years,25-34,Black or African American,2054-5,Male,M,59,392159,15,0.0%
+,District of Columbia,11,25-34 years,25-34,White,2106-3,Male,M,41,644135,6.4,0.0%
+,District of Columbia,11,35-44 years,35-44,Black or African American,2054-5,Female,F,11,448491,0,0.0%
+,District of Columbia,11,35-44 years,35-44,Black or African American,2054-5,Male,M,60,386861,15.5,0.0%
+,District of Columbia,11,35-44 years,35-44,White,2106-3,Female,F,17,329271,0,0.0%
+,District of Columbia,11,35-44 years,35-44,White,2106-3,Male,M,52,404371,12.9,0.0%
+,District of Columbia,11,45-54 years,45-54,Black or African American,2054-5,Female,F,15,477212,0,0.0%
+,District of Columbia,11,45-54 years,45-54,Black or African American,2054-5,Male,M,35,405726,8.6,0.0%
+,District of Columbia,11,45-54 years,45-54,White,2106-3,Male,M,47,274720,17.1,0.0%
+,District of Columbia,11,55-64 years,55-64,Black or African American,2054-5,Male,M,36,313880,11.5,0.0%
+,District of Columbia,11,55-64 years,55-64,White,2106-3,Female,F,11,208111,0,0.0%
+,District of Columbia,11,55-64 years,55-64,White,2106-3,Male,M,38,208028,18.3,0.0%
+,District of Columbia,11,65-74 years,65-74,Black or African American,2054-5,Male,M,22,185703,11.8,0.0%
+,District of Columbia,11,65-74 years,65-74,White,2106-3,Female,F,11,124174,0,0.0%
+,District of Columbia,11,65-74 years,65-74,White,2106-3,Male,M,24,118562,20.2,0.0%
+,District of Columbia,11,85+ years,85+,White,2106-3,Male,M,10,23169,0,0.0%
+,Florida,12,5-14 years,5-14,Black or African American,2054-5,Female,F,12,4747157,0,0.0%
+,Florida,12,5-14 years,5-14,Black or African American,2054-5,Male,M,40,4901169,0.8,0.0%
+,Florida,12,5-14 years,5-14,White,2106-3,Female,F,62,14920753,0.4,0.0%
+,Florida,12,5-14 years,5-14,White,2106-3,Male,M,138,15714606,0.9,0.0%
+,Florida,12,15-24 years,15-24,American Indian or Alaska Native,1002-5,Male,M,11,152124,0,0.0%
+,Florida,12,15-24 years,15-24,Asian or Pacific Islander,A-PI,Female,F,29,668521,4.3,0.0%
+,Florida,12,15-24 years,15-24,Asian or Pacific Islander,A-PI,Male,M,57,677555,8.4,0.0%
+,Florida,12,15-24 years,15-24,Black or African American,2054-5,Female,F,98,4942573,2,0.0%
+,Florida,12,15-24 years,15-24,Black or African American,2054-5,Male,M,492,4991860,9.9,0.1%
+,Florida,12,15-24 years,15-24,White,2106-3,Female,F,680,15832881,4.3,0.1%
+,Florida,12,15-24 years,15-24,White,2106-3,Male,M,2937,16910981,17.4,0.4%
+,Florida,12,25-34 years,25-34,American Indian or Alaska Native,1002-5,Male,M,13,150642,0,0.0%
+,Florida,12,25-34 years,25-34,Asian or Pacific Islander,A-PI,Female,F,25,855551,2.9,0.0%
+,Florida,12,25-34 years,25-34,Asian or Pacific Islander,A-PI,Male,M,86,756856,11.4,0.0%
+,Florida,12,25-34 years,25-34,Black or African American,2054-5,Female,F,99,4399631,2.3,0.0%
+,Florida,12,25-34 years,25-34,Black or African American,2054-5,Male,M,589,4082792,14.4,0.1%
+,Florida,12,25-34 years,25-34,White,2106-3,Female,F,1177,16344484,7.2,0.2%
+,Florida,12,25-34 years,25-34,White,2106-3,Male,M,4315,17093918,25.2,0.6%
+,Florida,12,35-44 years,35-44,American Indian or Alaska Native,1002-5,Male,M,13,140370,0,0.0%
+,Florida,12,35-44 years,35-44,Asian or Pacific Islander,A-PI,Female,F,35,864408,4,0.0%
+,Florida,12,35-44 years,35-44,Asian or Pacific Islander,A-PI,Male,M,65,723710,9,0.0%
+,Florida,12,35-44 years,35-44,Black or African American,2054-5,Female,F,104,4212932,2.5,0.0%
+,Florida,12,35-44 years,35-44,Black or African American,2054-5,Male,M,450,3794639,11.9,0.1%
+,Florida,12,35-44 years,35-44,White,2106-3,Female,F,2047,18572432,11,0.3%
+,Florida,12,35-44 years,35-44,White,2106-3,Male,M,5729,18825353,30.4,0.8%
+,Florida,12,45-54 years,45-54,American Indian or Alaska Native,1002-5,Male,M,11,127492,0,0.0%
+,Florida,12,45-54 years,45-54,Asian or Pacific Islander,A-PI,Female,F,40,744320,5.4,0.0%
+,Florida,12,45-54 years,45-54,Asian or Pacific Islander,A-PI,Male,M,59,588202,10,0.0%
+,Florida,12,45-54 years,45-54,Black or African American,2054-5,Female,F,91,3836307,2.4,0.0%
+,Florida,12,45-54 years,45-54,Black or African American,2054-5,Male,M,339,3422853,9.9,0.0%
+,Florida,12,45-54 years,45-54,White,2106-3,Female,F,2842,20002807,14.2,0.4%
+,Florida,12,45-54 years,45-54,White,2106-3,Male,M,7569,19438722,38.9,1.1%
+,Florida,12,55-64 years,55-64,Asian or Pacific Islander,A-PI,Female,F,21,541911,3.9,0.0%
+,Florida,12,55-64 years,55-64,Asian or Pacific Islander,A-PI,Male,M,57,409169,13.9,0.0%
+,Florida,12,55-64 years,55-64,Black or African American,2054-5,Female,F,42,2723943,1.5,0.0%
+,Florida,12,55-64 years,55-64,Black or African American,2054-5,Male,M,172,2314280,7.4,0.0%
+,Florida,12,55-64 years,55-64,White,2106-3,Female,F,2083,18549740,11.2,0.3%
+,Florida,12,55-64 years,55-64,White,2106-3,Male,M,6101,16756105,36.4,0.9%
+,Florida,12,65-74 years,65-74,Asian or Pacific Islander,A-PI,Female,F,14,317602,0,0.0%
+,Florida,12,65-74 years,65-74,Asian or Pacific Islander,A-PI,Male,M,32,243554,13.1,0.0%
+,Florida,12,65-74 years,65-74,Black or African American,2054-5,Female,F,19,1649674,0,0.0%
+,Florida,12,65-74 years,65-74,Black or African American,2054-5,Male,M,95,1293884,7.3,0.0%
+,Florida,12,65-74 years,65-74,White,2106-3,Female,F,1081,15652058,6.9,0.2%
+,Florida,12,65-74 years,65-74,White,2106-3,Male,M,4135,13769198,30,0.6%
+,Florida,12,75-84 years,75-84,Asian or Pacific Islander,A-PI,Male,M,12,99606,0,0.0%
+,Florida,12,75-84 years,75-84,Black or African American,2054-5,Female,F,11,884404,0,0.0%
+,Florida,12,75-84 years,75-84,Black or African American,2054-5,Male,M,61,566236,10.8,0.0%
+,Florida,12,75-84 years,75-84,White,2106-3,Female,F,652,10861373,6,0.1%
+,Florida,12,75-84 years,75-84,White,2106-3,Male,M,3621,8670833,41.8,0.5%
+,Florida,12,85+ years,85+,Black or African American,2054-5,Male,M,17,147081,0,0.0%
+,Florida,12,85+ years,85+,White,2106-3,Female,F,330,4726102,7,0.0%
+,Florida,12,85+ years,85+,White,2106-3,Male,M,1764,2762301,63.9,0.3%
+,Florida,12,Not Stated,NS,White,2106-3,Male,M,11,0,0,0.0%
+,Georgia,13,5-14 years,5-14,Black or African American,2054-5,Female,F,14,4553238,0,0.0%
+,Georgia,13,5-14 years,5-14,Black or African American,2054-5,Male,M,34,4654476,0.7,0.0%
+,Georgia,13,5-14 years,5-14,White,2106-3,Female,F,38,7369320,0.5,0.0%
+,Georgia,13,5-14 years,5-14,White,2106-3,Male,M,88,7773696,1.1,0.0%
+,Georgia,13,15-24 years,15-24,Asian or Pacific Islander,A-PI,Female,F,17,434647,0,0.0%
+,Georgia,13,15-24 years,15-24,Asian or Pacific Islander,A-PI,Male,M,44,465632,9.4,0.0%
+,Georgia,13,15-24 years,15-24,Black or African American,2054-5,Female,F,82,4618587,1.8,0.0%
+,Georgia,13,15-24 years,15-24,Black or African American,2054-5,Male,M,585,4540108,12.9,0.1%
+,Georgia,13,15-24 years,15-24,White,2106-3,Female,F,313,7325508,4.3,0.0%
+,Georgia,13,15-24 years,15-24,White,2106-3,Male,M,1555,7998291,19.4,0.2%
+,Georgia,13,25-34 years,25-34,Asian or Pacific Islander,A-PI,Female,F,17,592375,0,0.0%
+,Georgia,13,25-34 years,25-34,Asian or Pacific Islander,A-PI,Male,M,61,544401,11.2,0.0%
+,Georgia,13,25-34 years,25-34,Black or African American,2054-5,Female,F,101,4420257,2.3,0.0%
+,Georgia,13,25-34 years,25-34,Black or African American,2054-5,Male,M,623,3836419,16.2,0.1%
+,Georgia,13,25-34 years,25-34,White,2106-3,Female,F,525,7716896,6.8,0.1%
+,Georgia,13,25-34 years,25-34,White,2106-3,Male,M,2037,8188362,24.9,0.3%
+,Georgia,13,35-44 years,35-44,Asian or Pacific Islander,A-PI,Female,F,20,566908,3.5,0.0%
+,Georgia,13,35-44 years,35-44,Asian or Pacific Islander,A-PI,Male,M,47,521858,9,0.0%
+,Georgia,13,35-44 years,35-44,Black or African American,2054-5,Female,F,106,4459042,2.4,0.0%
+,Georgia,13,35-44 years,35-44,Black or African American,2054-5,Male,M,449,3748609,12,0.1%
+,Georgia,13,35-44 years,35-44,White,2106-3,Female,F,772,8276337,9.3,0.1%
+,Georgia,13,35-44 years,35-44,White,2106-3,Male,M,2382,8560035,27.8,0.3%
+,Georgia,13,45-54 years,45-54,Asian or Pacific Islander,A-PI,Female,F,27,420737,6.4,0.0%
+,Georgia,13,45-54 years,45-54,Asian or Pacific Islander,A-PI,Male,M,40,383670,10.4,0.0%
+,Georgia,13,45-54 years,45-54,Black or African American,2054-5,Female,F,81,3920666,2.1,0.0%
+,Georgia,13,45-54 years,45-54,Black or African American,2054-5,Male,M,334,3302151,10.1,0.0%
+,Georgia,13,45-54 years,45-54,White,2106-3,Female,F,1014,8232209,12.3,0.1%
+,Georgia,13,45-54 years,45-54,White,2106-3,Male,M,2748,8228932,33.4,0.4%
+,Georgia,13,55-64 years,55-64,Asian or Pacific Islander,A-PI,Female,F,14,270153,0,0.0%
+,Georgia,13,55-64 years,55-64,Asian or Pacific Islander,A-PI,Male,M,36,232354,15.5,0.0%
+,Georgia,13,55-64 years,55-64,Black or African American,2054-5,Female,F,41,2656905,1.5,0.0%
+,Georgia,13,55-64 years,55-64,Black or African American,2054-5,Male,M,188,2122918,8.9,0.0%
+,Georgia,13,55-64 years,55-64,White,2106-3,Female,F,676,6747764,10,0.1%
+,Georgia,13,55-64 years,55-64,White,2106-3,Male,M,2128,6418281,33.2,0.3%
+,Georgia,13,65-74 years,65-74,Asian or Pacific Islander,A-PI,Male,M,11,117557,0,0.0%
+,Georgia,13,65-74 years,65-74,Black or African American,2054-5,Female,F,17,1461283,0,0.0%
+,Georgia,13,65-74 years,65-74,Black or African American,2054-5,Male,M,92,1041181,8.8,0.0%
+,Georgia,13,65-74 years,65-74,White,2106-3,Female,F,314,4539779,6.9,0.0%
+,Georgia,13,65-74 years,65-74,White,2106-3,Male,M,1340,3984361,33.6,0.2%
+,Georgia,13,75-84 years,75-84,Asian or Pacific Islander,A-PI,Male,M,13,42612,0,0.0%
+,Georgia,13,75-84 years,75-84,Black or African American,2054-5,Male,M,46,402266,11.4,0.0%
+,Georgia,13,75-84 years,75-84,White,2106-3,Female,F,146,2739560,5.3,0.0%
+,Georgia,13,75-84 years,75-84,White,2106-3,Male,M,939,1899219,49.4,0.1%
+,Georgia,13,85+ years,85+,Black or African American,2054-5,Male,M,14,104737,0,0.0%
+,Georgia,13,85+ years,85+,White,2106-3,Female,F,45,1151374,3.9,0.0%
+,Georgia,13,85+ years,85+,White,2106-3,Male,M,327,496000,65.9,0.0%
+,Hawaii,15,5-14 years,5-14,Asian or Pacific Islander,A-PI,Male,M,11,1141783,0,0.0%
+,Hawaii,15,15-24 years,15-24,Asian or Pacific Islander,A-PI,Female,F,63,1063235,5.9,0.0%
+,Hawaii,15,15-24 years,15-24,Asian or Pacific Islander,A-PI,Male,M,247,1112167,22.2,0.0%
+,Hawaii,15,15-24 years,15-24,White,2106-3,Female,F,27,441169,6.1,0.0%
+,Hawaii,15,15-24 years,15-24,White,2106-3,Male,M,91,611432,14.9,0.0%
+,Hawaii,15,25-34 years,25-34,Asian or Pacific Islander,A-PI,Female,F,70,1090750,6.4,0.0%
+,Hawaii,15,25-34 years,25-34,Asian or Pacific Islander,A-PI,Male,M,274,1062781,25.8,0.0%
+,Hawaii,15,25-34 years,25-34,Black or African American,2054-5,Male,M,12,91836,0,0.0%
+,Hawaii,15,25-34 years,25-34,White,2106-3,Female,F,39,533377,7.3,0.0%
+,Hawaii,15,25-34 years,25-34,White,2106-3,Male,M,138,674680,20.5,0.0%
+,Hawaii,15,35-44 years,35-44,Asian or Pacific Islander,A-PI,Female,F,54,1177704,4.6,0.0%
+,Hawaii,15,35-44 years,35-44,Asian or Pacific Islander,A-PI,Male,M,251,1093049,23,0.0%
+,Hawaii,15,35-44 years,35-44,White,2106-3,Female,F,42,472011,8.9,0.0%
+,Hawaii,15,35-44 years,35-44,White,2106-3,Male,M,169,573443,29.5,0.0%
+,Hawaii,15,45-54 years,45-54,Asian or Pacific Islander,A-PI,Female,F,69,1200717,5.7,0.0%
+,Hawaii,15,45-54 years,45-54,Asian or Pacific Islander,A-PI,Male,M,190,1114833,17,0.0%
+,Hawaii,15,45-54 years,45-54,White,2106-3,Female,F,78,514186,15.2,0.0%
+,Hawaii,15,45-54 years,45-54,White,2106-3,Male,M,228,583328,39.1,0.0%
+,Hawaii,15,55-64 years,55-64,Asian or Pacific Islander,A-PI,Female,F,51,1005357,5.1,0.0%
+,Hawaii,15,55-64 years,55-64,Asian or Pacific Islander,A-PI,Male,M,136,903293,15.1,0.0%
+,Hawaii,15,55-64 years,55-64,White,2106-3,Female,F,52,468371,11.1,0.0%
+,Hawaii,15,55-64 years,55-64,White,2106-3,Male,M,192,521700,36.8,0.0%
+,Hawaii,15,65-74 years,65-74,Asian or Pacific Islander,A-PI,Female,F,22,739253,3,0.0%
+,Hawaii,15,65-74 years,65-74,Asian or Pacific Islander,A-PI,Male,M,79,597481,13.2,0.0%
+,Hawaii,15,65-74 years,65-74,White,2106-3,Female,F,31,280321,11.1,0.0%
+,Hawaii,15,65-74 years,65-74,White,2106-3,Male,M,98,306024,32,0.0%
+,Hawaii,15,75-84 years,75-84,Asian or Pacific Islander,A-PI,Female,F,22,530891,4.1,0.0%
+,Hawaii,15,75-84 years,75-84,Asian or Pacific Islander,A-PI,Male,M,49,372675,13.1,0.0%
+,Hawaii,15,75-84 years,75-84,White,2106-3,Female,F,27,155801,17.3,0.0%
+,Hawaii,15,75-84 years,75-84,White,2106-3,Male,M,44,140889,31.2,0.0%
+,Hawaii,15,85+ years,85+,Asian or Pacific Islander,A-PI,Male,M,35,152854,22.9,0.0%
+,Hawaii,15,85+ years,85+,White,2106-3,Male,M,29,44607,65,0.0%
+,Idaho,16,5-14 years,5-14,White,2106-3,Female,F,14,1995982,0,0.0%
+,Idaho,16,5-14 years,5-14,White,2106-3,Male,M,47,2109241,2.2,0.0%
+,Idaho,16,15-24 years,15-24,American Indian or Alaska Native,1002-5,Male,M,23,46621,49.3,0.0%
+,Idaho,16,15-24 years,15-24,White,2106-3,Female,F,117,1941459,6,0.0%
+,Idaho,16,15-24 years,15-24,White,2106-3,Male,M,600,2041968,29.4,0.1%
+,Idaho,16,25-34 years,25-34,American Indian or Alaska Native,1002-5,Male,M,18,38599,0,0.0%
+,Idaho,16,25-34 years,25-34,White,2106-3,Female,F,137,1733717,7.9,0.0%
+,Idaho,16,25-34 years,25-34,White,2106-3,Male,M,565,1807520,31.3,0.1%
+,Idaho,16,35-44 years,35-44,American Indian or Alaska Native,1002-5,Male,M,11,35384,0,0.0%
+,Idaho,16,35-44 years,35-44,White,2106-3,Female,F,216,1744799,12.4,0.0%
+,Idaho,16,35-44 years,35-44,White,2106-3,Male,M,689,1785378,38.6,0.1%
+,Idaho,16,45-54 years,45-54,American Indian or Alaska Native,1002-5,Male,M,11,30481,0,0.0%
+,Idaho,16,45-54 years,45-54,White,2106-3,Female,F,233,1790428,13,0.0%
+,Idaho,16,45-54 years,45-54,White,2106-3,Male,M,712,1785913,39.9,0.1%
+,Idaho,16,55-64 years,55-64,White,2106-3,Female,F,159,1511791,10.5,0.0%
+,Idaho,16,55-64 years,55-64,White,2106-3,Male,M,560,1490080,37.6,0.1%
+,Idaho,16,65-74 years,65-74,White,2106-3,Female,F,57,1014486,5.6,0.0%
+,Idaho,16,65-74 years,65-74,White,2106-3,Male,M,350,971043,36,0.1%
+,Idaho,16,75-84 years,75-84,White,2106-3,Female,F,23,619600,3.7,0.0%
+,Idaho,16,75-84 years,75-84,White,2106-3,Male,M,269,502738,53.5,0.0%
+,Idaho,16,85+ years,85+,White,2106-3,Male,M,129,156210,82.6,0.0%
+,Illinois,17,5-14 years,5-14,Black or African American,2054-5,Female,F,13,3086831,0,0.0%
+,Illinois,17,5-14 years,5-14,Black or African American,2054-5,Male,M,26,3179603,0.8,0.0%
+,Illinois,17,5-14 years,5-14,White,2106-3,Female,F,53,12274469,0.4,0.0%
+,Illinois,17,5-14 years,5-14,White,2106-3,Male,M,104,12896371,0.8,0.0%
+,Illinois,17,15-24 years,15-24,Asian or Pacific Islander,A-PI,Female,F,29,803055,3.6,0.0%
+,Illinois,17,15-24 years,15-24,Asian or Pacific Islander,A-PI,Male,M,66,843956,7.8,0.0%
+,Illinois,17,15-24 years,15-24,Black or African American,2054-5,Female,F,69,3069349,2.2,0.0%
+,Illinois,17,15-24 years,15-24,Black or African American,2054-5,Male,M,351,3069651,11.4,0.1%
+,Illinois,17,15-24 years,15-24,White,2106-3,Female,F,438,12467463,3.5,0.1%
+,Illinois,17,15-24 years,15-24,White,2106-3,Male,M,2005,13247726,15.1,0.3%
+,Illinois,17,25-34 years,25-34,Asian or Pacific Islander,A-PI,Female,F,34,1132856,3,0.0%
+,Illinois,17,25-34 years,25-34,Asian or Pacific Islander,A-PI,Male,M,65,1073423,6.1,0.0%
+,Illinois,17,25-34 years,25-34,Black or African American,2054-5,Female,F,51,2707154,1.9,0.0%
+,Illinois,17,25-34 years,25-34,Black or African American,2054-5,Male,M,383,2398952,16,0.1%
+,Illinois,17,25-34 years,25-34,White,2106-3,Female,F,571,12791823,4.5,0.1%
+,Illinois,17,25-34 years,25-34,White,2106-3,Male,M,2492,13379108,18.6,0.4%
+,Illinois,17,35-44 years,35-44,Asian or Pacific Islander,A-PI,Female,F,37,975378,3.8,0.0%
+,Illinois,17,35-44 years,35-44,Asian or Pacific Islander,A-PI,Male,M,59,911737,6.5,0.0%
+,Illinois,17,35-44 years,35-44,Black or African American,2054-5,Female,F,60,2717889,2.2,0.0%
+,Illinois,17,35-44 years,35-44,Black or African American,2054-5,Male,M,289,2299846,12.6,0.0%
+,Illinois,17,35-44 years,35-44,White,2106-3,Female,F,810,13348690,6.1,0.1%
+,Illinois,17,35-44 years,35-44,White,2106-3,Male,M,3024,13677899,22.1,0.4%
+,Illinois,17,45-54 years,45-54,Asian or Pacific Islander,A-PI,Female,F,23,776527,3,0.0%
+,Illinois,17,45-54 years,45-54,Asian or Pacific Islander,A-PI,Male,M,45,690296,6.5,0.0%
+,Illinois,17,45-54 years,45-54,Black or African American,2054-5,Female,F,57,2587381,2.2,0.0%
+,Illinois,17,45-54 years,45-54,Black or African American,2054-5,Male,M,181,2147126,8.4,0.0%
+,Illinois,17,45-54 years,45-54,White,2106-3,Female,F,1002,13627148,7.4,0.1%
+,Illinois,17,45-54 years,45-54,White,2106-3,Male,M,3382,13601253,24.9,0.5%
+,Illinois,17,55-64 years,55-64,Asian or Pacific Islander,A-PI,Male,M,44,515804,8.5,0.0%
+,Illinois,17,55-64 years,55-64,Black or African American,2054-5,Female,F,38,1931592,2,0.0%
+,Illinois,17,55-64 years,55-64,Black or African American,2054-5,Male,M,133,1510949,8.8,0.0%
+,Illinois,17,55-64 years,55-64,White,2106-3,Female,F,700,10940078,6.4,0.1%
+,Illinois,17,55-64 years,55-64,White,2106-3,Male,M,2382,10486915,22.7,0.3%
+,Illinois,17,65-74 years,65-74,Asian or Pacific Islander,A-PI,Female,F,12,340566,0,0.0%
+,Illinois,17,65-74 years,65-74,Asian or Pacific Islander,A-PI,Male,M,26,294722,8.8,0.0%
+,Illinois,17,65-74 years,65-74,Black or African American,2054-5,Female,F,14,1202427,0,0.0%
+,Illinois,17,65-74 years,65-74,Black or African American,2054-5,Male,M,60,851010,7.1,0.0%
+,Illinois,17,65-74 years,65-74,White,2106-3,Female,F,285,7341182,3.9,0.0%
+,Illinois,17,65-74 years,65-74,White,2106-3,Male,M,1282,6321257,20.3,0.2%
+,Illinois,17,75-84 years,75-84,Asian or Pacific Islander,A-PI,Male,M,12,114113,0,0.0%
+,Illinois,17,75-84 years,75-84,Black or African American,2054-5,Male,M,55,399523,13.8,0.0%
+,Illinois,17,75-84 years,75-84,White,2106-3,Female,F,183,5236586,3.5,0.0%
+,Illinois,17,75-84 years,75-84,White,2106-3,Male,M,1035,3596759,28.8,0.1%
+,Illinois,17,85+ years,85+,Black or African American,2054-5,Male,M,16,104051,0,0.0%
+,Illinois,17,85+ years,85+,White,2106-3,Female,F,68,2663445,2.6,0.0%
+,Illinois,17,85+ years,85+,White,2106-3,Male,M,464,1180232,39.3,0.1%
+,Indiana,18,5-14 years,5-14,White,2106-3,Female,F,26,6989817,0.4,0.0%
+,Indiana,18,5-14 years,5-14,White,2106-3,Male,M,94,7365757,1.3,0.0%
+,Indiana,18,15-24 years,15-24,Asian or Pacific Islander,A-PI,Male,M,27,228447,11.8,0.0%
+,Indiana,18,15-24 years,15-24,Black or African American,2054-5,Female,F,41,979534,4.2,0.0%
+,Indiana,18,15-24 years,15-24,Black or African American,2054-5,Male,M,154,990164,15.6,0.0%
+,Indiana,18,15-24 years,15-24,White,2106-3,Female,F,271,7341098,3.7,0.0%
+,Indiana,18,15-24 years,15-24,White,2106-3,Male,M,1531,7645730,20,0.2%
+,Indiana,18,25-34 years,25-34,Asian or Pacific Islander,A-PI,Male,M,17,200493,0,0.0%
+,Indiana,18,25-34 years,25-34,Black or African American,2054-5,Female,F,30,863130,3.5,0.0%
+,Indiana,18,25-34 years,25-34,Black or African American,2054-5,Male,M,162,794787,20.4,0.0%
+,Indiana,18,25-34 years,25-34,White,2106-3,Female,F,449,6732023,6.7,0.1%
+,Indiana,18,25-34 years,25-34,White,2106-3,Male,M,2058,6897803,29.8,0.3%
+,Indiana,18,35-44 years,35-44,Asian or Pacific Islander,A-PI,Male,M,20,163849,12.2,0.0%
+,Indiana,18,35-44 years,35-44,Black or African American,2054-5,Female,F,30,808829,3.7,0.0%
+,Indiana,18,35-44 years,35-44,Black or African American,2054-5,Male,M,120,737894,16.3,0.0%
+,Indiana,18,35-44 years,35-44,White,2106-3,Female,F,659,7304641,9,0.1%
+,Indiana,18,35-44 years,35-44,White,2106-3,Male,M,2281,7377221,30.9,0.3%
+,Indiana,18,45-54 years,45-54,Asian or Pacific Islander,A-PI,Male,M,15,106745,0,0.0%
+,Indiana,18,45-54 years,45-54,Black or African American,2054-5,Female,F,19,744115,0,0.0%
+,Indiana,18,45-54 years,45-54,Black or African American,2054-5,Male,M,74,658215,11.2,0.0%
+,Indiana,18,45-54 years,45-54,White,2106-3,Female,F,732,7645467,9.6,0.1%
+,Indiana,18,45-54 years,45-54,White,2106-3,Male,M,2531,7597156,33.3,0.4%
+,Indiana,18,55-64 years,55-64,Black or African American,2054-5,Male,M,50,446753,11.2,0.0%
+,Indiana,18,55-64 years,55-64,White,2106-3,Female,F,482,6320383,7.6,0.1%
+,Indiana,18,55-64 years,55-64,White,2106-3,Male,M,1604,6037213,26.6,0.2%
+,Indiana,18,65-74 years,65-74,Black or African American,2054-5,Male,M,14,237748,0,0.0%
+,Indiana,18,65-74 years,65-74,White,2106-3,Female,F,166,4290270,3.9,0.0%
+,Indiana,18,65-74 years,65-74,White,2106-3,Male,M,959,3706822,25.9,0.1%
+,Indiana,18,75-84 years,75-84,Black or African American,2054-5,Male,M,16,111662,0,0.0%
+,Indiana,18,75-84 years,75-84,White,2106-3,Female,F,81,2921658,2.8,0.0%
+,Indiana,18,75-84 years,75-84,White,2106-3,Male,M,742,2003307,37,0.1%
+,Indiana,18,85+ years,85+,White,2106-3,Female,F,28,1372107,2,0.0%
+,Indiana,18,85+ years,85+,White,2106-3,Male,M,302,605297,49.9,0.0%
+,Iowa,19,5-14 years,5-14,White,2106-3,Female,F,24,3439582,0.7,0.0%
+,Iowa,19,5-14 years,5-14,White,2106-3,Male,M,42,3624281,1.2,0.0%
+,Iowa,19,15-24 years,15-24,Asian or Pacific Islander,A-PI,Female,F,12,109959,0,0.0%
+,Iowa,19,15-24 years,15-24,Asian or Pacific Islander,A-PI,Male,M,12,125801,0,0.0%
+,Iowa,19,15-24 years,15-24,Black or African American,2054-5,Male,M,27,206041,13.1,0.0%
+,Iowa,19,15-24 years,15-24,White,2106-3,Female,F,128,3741031,3.4,0.0%
+,Iowa,19,15-24 years,15-24,White,2106-3,Male,M,890,3908510,22.8,0.1%
+,Iowa,19,25-34 years,25-34,Asian or Pacific Islander,A-PI,Male,M,12,115509,0,0.0%
+,Iowa,19,25-34 years,25-34,Black or African American,2054-5,Male,M,24,148971,16.1,0.0%
+,Iowa,19,25-34 years,25-34,White,2106-3,Female,F,184,3205264,5.7,0.0%
+,Iowa,19,25-34 years,25-34,White,2106-3,Male,M,867,3326084,26.1,0.1%
+,Iowa,19,35-44 years,35-44,Black or African American,2054-5,Male,M,23,123391,18.6,0.0%
+,Iowa,19,35-44 years,35-44,White,2106-3,Female,F,271,3479435,7.8,0.0%
+,Iowa,19,35-44 years,35-44,White,2106-3,Male,M,1010,3520028,28.7,0.1%
+,Iowa,19,45-54 years,45-54,White,2106-3,Female,F,337,3799019,8.9,0.0%
+,Iowa,19,45-54 years,45-54,White,2106-3,Male,M,1088,3810939,28.5,0.2%
+,Iowa,19,55-64 years,55-64,White,2106-3,Female,F,174,3200231,5.4,0.0%
+,Iowa,19,55-64 years,55-64,White,2106-3,Male,M,732,3131482,23.4,0.1%
+,Iowa,19,65-74 years,65-74,White,2106-3,Female,F,81,2270560,3.6,0.0%
+,Iowa,19,65-74 years,65-74,White,2106-3,Male,M,429,2002718,21.4,0.1%
+,Iowa,19,75-84 years,75-84,White,2106-3,Female,F,39,1718072,2.3,0.0%
+,Iowa,19,75-84 years,75-84,White,2106-3,Male,M,324,1214751,26.7,0.0%
+,Iowa,19,85+ years,85+,White,2106-3,Female,F,23,946429,2.4,0.0%
+,Iowa,19,85+ years,85+,White,2106-3,Male,M,179,419257,42.7,0.0%
+,Kansas,20,5-14 years,5-14,White,2106-3,Female,F,16,3183203,0,0.0%
+,Kansas,20,5-14 years,5-14,White,2106-3,Male,M,41,3361400,1.2,0.0%
+,Kansas,20,15-24 years,15-24,American Indian or Alaska Native,1002-5,Male,M,15,70605,0,0.0%
+,Kansas,20,15-24 years,15-24,Asian or Pacific Islander,A-PI,Male,M,11,127338,0,0.0%
+,Kansas,20,15-24 years,15-24,Black or African American,2054-5,Female,F,14,302365,0,0.0%
+,Kansas,20,15-24 years,15-24,Black or African American,2054-5,Male,M,70,348340,20.1,0.0%
+,Kansas,20,15-24 years,15-24,White,2106-3,Female,F,154,3299974,4.7,0.0%
+,Kansas,20,15-24 years,15-24,White,2106-3,Male,M,872,3528297,24.7,0.1%
+,Kansas,20,25-34 years,25-34,American Indian or Alaska Native,1002-5,Male,M,13,53521,0,0.0%
+,Kansas,20,25-34 years,25-34,Asian or Pacific Islander,A-PI,Male,M,29,136502,21.2,0.0%
+,Kansas,20,25-34 years,25-34,Black or African American,2054-5,Male,M,72,266920,27,0.0%
+,Kansas,20,25-34 years,25-34,White,2106-3,Female,F,198,2954781,6.7,0.0%
+,Kansas,20,25-34 years,25-34,White,2106-3,Male,M,969,3073390,31.5,0.1%
+,Kansas,20,35-44 years,35-44,American Indian or Alaska Native,1002-5,Male,M,17,49371,0,0.0%
+,Kansas,20,35-44 years,35-44,Asian or Pacific Islander,A-PI,Male,M,12,107500,0,0.0%
+,Kansas,20,35-44 years,35-44,Black or African American,2054-5,Male,M,39,233744,16.7,0.0%
+,Kansas,20,35-44 years,35-44,White,2106-3,Female,F,302,3104216,9.7,0.0%
+,Kansas,20,35-44 years,35-44,White,2106-3,Male,M,991,3138234,31.6,0.1%
+,Kansas,20,45-54 years,45-54,Black or African American,2054-5,Male,M,18,208040,0,0.0%
+,Kansas,20,45-54 years,45-54,White,2106-3,Female,F,330,3306662,10,0.0%
+,Kansas,20,45-54 years,45-54,White,2106-3,Male,M,1140,3285822,34.7,0.2%
+,Kansas,20,55-64 years,55-64,Black or African American,2054-5,Male,M,15,133806,0,0.0%
+,Kansas,20,55-64 years,55-64,White,2106-3,Female,F,241,2705956,8.9,0.0%
+,Kansas,20,55-64 years,55-64,White,2106-3,Male,M,739,2622632,28.2,0.1%
+,Kansas,20,65-74 years,65-74,White,2106-3,Female,F,76,1842337,4.1,0.0%
+,Kansas,20,65-74 years,65-74,White,2106-3,Male,M,443,1629148,27.2,0.1%
+,Kansas,20,75-84 years,75-84,White,2106-3,Female,F,43,1350113,3.2,0.0%
+,Kansas,20,75-84 years,75-84,White,2106-3,Male,M,375,971733,38.6,0.1%
+,Kansas,20,85+ years,85+,White,2106-3,Female,F,20,724765,2.8,0.0%
+,Kansas,20,85+ years,85+,White,2106-3,Male,M,148,336857,43.9,0.0%
+,Kentucky,21,5-14 years,5-14,White,2106-3,Female,F,19,4561752,0,0.0%
+,Kentucky,21,5-14 years,5-14,White,2106-3,Male,M,48,4813687,1,0.0%
+,Kentucky,21,15-24 years,15-24,Black or African American,2054-5,Female,F,20,557602,3.6,0.0%
+,Kentucky,21,15-24 years,15-24,Black or African American,2054-5,Male,M,95,610529,15.6,0.0%
+,Kentucky,21,15-24 years,15-24,White,2106-3,Female,F,195,4791338,4.1,0.0%
+,Kentucky,21,15-24 years,15-24,White,2106-3,Male,M,1072,5001492,21.4,0.2%
+,Kentucky,21,25-34 years,25-34,Asian or Pacific Islander,A-PI,Male,M,12,97719,0,0.0%
+,Kentucky,21,25-34 years,25-34,Black or African American,2054-5,Female,F,25,462597,5.4,0.0%
+,Kentucky,21,25-34 years,25-34,Black or African American,2054-5,Male,M,99,481000,20.6,0.0%
+,Kentucky,21,25-34 years,25-34,White,2106-3,Female,F,329,4732646,7,0.0%
+,Kentucky,21,25-34 years,25-34,White,2106-3,Male,M,1520,4787287,31.8,0.2%
+,Kentucky,21,35-44 years,35-44,Asian or Pacific Islander,A-PI,Male,M,13,86222,0,0.0%
+,Kentucky,21,35-44 years,35-44,Black or African American,2054-5,Female,F,19,451906,0,0.0%
+,Kentucky,21,35-44 years,35-44,Black or African American,2054-5,Male,M,67,446172,15,0.0%
+,Kentucky,21,35-44 years,35-44,White,2106-3,Female,F,483,5099180,9.5,0.1%
+,Kentucky,21,35-44 years,35-44,White,2106-3,Male,M,1802,5075682,35.5,0.3%
+,Kentucky,21,45-54 years,45-54,Black or African American,2054-5,Female,F,12,435746,0,0.0%
+,Kentucky,21,45-54 years,45-54,Black or African American,2054-5,Male,M,52,409960,12.7,0.0%
+,Kentucky,21,45-54 years,45-54,White,2106-3,Female,F,552,5343021,10.3,0.1%
+,Kentucky,21,45-54 years,45-54,White,2106-3,Male,M,1849,5198178,35.6,0.3%
+,Kentucky,21,55-64 years,55-64,Black or African American,2054-5,Male,M,20,274844,7.3,0.0%
+,Kentucky,21,55-64 years,55-64,White,2106-3,Female,F,337,4509174,7.5,0.0%
+,Kentucky,21,55-64 years,55-64,White,2106-3,Male,M,1282,4240394,30.2,0.2%
+,Kentucky,21,65-74 years,65-74,Black or African American,2054-5,Male,M,19,139271,0,0.0%
+,Kentucky,21,65-74 years,65-74,White,2106-3,Female,F,157,3107073,5.1,0.0%
+,Kentucky,21,65-74 years,65-74,White,2106-3,Male,M,885,2690627,32.9,0.1%
+,Kentucky,21,75-84 years,75-84,White,2106-3,Female,F,71,1966081,3.6,0.0%
+,Kentucky,21,75-84 years,75-84,White,2106-3,Male,M,598,1349197,44.3,0.1%
+,Kentucky,21,85+ years,85+,White,2106-3,Female,F,13,838781,0,0.0%
+,Kentucky,21,85+ years,85+,White,2106-3,Male,M,215,362593,59.3,0.0%
+,Louisiana,22,5-14 years,5-14,Black or African American,2054-5,Male,M,20,2434162,0.8,0.0%
+,Louisiana,22,5-14 years,5-14,White,2106-3,Female,F,18,3376574,0,0.0%
+,Louisiana,22,5-14 years,5-14,White,2106-3,Male,M,52,3550737,1.5,0.0%
+,Louisiana,22,15-24 years,15-24,Asian or Pacific Islander,A-PI,Male,M,17,125421,0,0.0%
+,Louisiana,22,15-24 years,15-24,Black or African American,2054-5,Female,F,37,2489175,1.5,0.0%
+,Louisiana,22,15-24 years,15-24,Black or African American,2054-5,Male,M,282,2427997,11.6,0.0%
+,Louisiana,22,15-24 years,15-24,White,2106-3,Female,F,183,3672612,5,0.0%
+,Louisiana,22,15-24 years,15-24,White,2106-3,Male,M,958,3817383,25.1,0.1%
+,Louisiana,22,25-34 years,25-34,Asian or Pacific Islander,A-PI,Male,M,12,133875,0,0.0%
+,Louisiana,22,25-34 years,25-34,Black or African American,2054-5,Female,F,46,2081644,2.2,0.0%
+,Louisiana,22,25-34 years,25-34,Black or African American,2054-5,Male,M,327,1868009,17.5,0.0%
+,Louisiana,22,25-34 years,25-34,White,2106-3,Female,F,306,3673553,8.3,0.0%
+,Louisiana,22,25-34 years,25-34,White,2106-3,Male,M,1248,3804666,32.8,0.2%
+,Louisiana,22,35-44 years,35-44,Black or African American,2054-5,Female,F,42,1940761,2.2,0.0%
+,Louisiana,22,35-44 years,35-44,Black or African American,2054-5,Male,M,238,1677800,14.2,0.0%
+,Louisiana,22,35-44 years,35-44,White,2106-3,Female,F,397,3767928,10.5,0.1%
+,Louisiana,22,35-44 years,35-44,White,2106-3,Male,M,1227,3837390,32,0.2%
+,Louisiana,22,45-54 years,45-54,Asian or Pacific Islander,A-PI,Male,M,17,92322,0,0.0%
+,Louisiana,22,45-54 years,45-54,Black or African American,2054-5,Female,F,45,1918748,2.3,0.0%
+,Louisiana,22,45-54 years,45-54,Black or African American,2054-5,Male,M,164,1655755,9.9,0.0%
+,Louisiana,22,45-54 years,45-54,White,2106-3,Female,F,470,4008211,11.7,0.1%
+,Louisiana,22,45-54 years,45-54,White,2106-3,Male,M,1333,3994372,33.4,0.2%
+,Louisiana,22,55-64 years,55-64,Black or African American,2054-5,Female,F,20,1432079,1.4,0.0%
+,Louisiana,22,55-64 years,55-64,Black or African American,2054-5,Male,M,107,1195423,9,0.0%
+,Louisiana,22,55-64 years,55-64,White,2106-3,Female,F,318,3408202,9.3,0.0%
+,Louisiana,22,55-64 years,55-64,White,2106-3,Male,M,960,3265384,29.4,0.1%
+,Louisiana,22,65-74 years,65-74,Black or African American,2054-5,Female,F,11,851358,0,0.0%
+,Louisiana,22,65-74 years,65-74,Black or African American,2054-5,Male,M,65,630425,10.3,0.0%
+,Louisiana,22,65-74 years,65-74,White,2106-3,Female,F,141,2394530,5.9,0.0%
+,Louisiana,22,65-74 years,65-74,White,2106-3,Male,M,663,2083875,31.8,0.1%
+,Louisiana,22,75-84 years,75-84,Black or African American,2054-5,Male,M,28,279340,10,0.0%
+,Louisiana,22,75-84 years,75-84,White,2106-3,Female,F,64,1584461,4,0.0%
+,Louisiana,22,75-84 years,75-84,White,2106-3,Male,M,481,1108250,43.4,0.1%
+,Louisiana,22,85+ years,85+,White,2106-3,Female,F,20,657989,3,0.0%
+,Louisiana,22,85+ years,85+,White,2106-3,Male,M,184,303219,60.7,0.0%
+,Maine,23,5-14 years,5-14,White,2106-3,Male,M,16,1467244,0,0.0%
+,Maine,23,15-24 years,15-24,White,2106-3,Female,F,64,1464365,4.4,0.0%
+,Maine,23,15-24 years,15-24,White,2106-3,Male,M,340,1531145,22.2,0.0%
+,Maine,23,25-34 years,25-34,White,2106-3,Female,F,78,1384110,5.6,0.0%
+,Maine,23,25-34 years,25-34,White,2106-3,Male,M,396,1352030,29.3,0.1%
+,Maine,23,35-44 years,35-44,White,2106-3,Female,F,156,1707496,9.1,0.0%
+,Maine,23,35-44 years,35-44,White,2106-3,Male,M,476,1644291,28.9,0.1%
+,Maine,23,45-54 years,45-54,White,2106-3,Female,F,197,1948686,10.1,0.0%
+,Maine,23,45-54 years,45-54,White,2106-3,Male,M,606,1879584,32.2,0.1%
+,Maine,23,55-64 years,55-64,White,2106-3,Female,F,141,1662278,8.5,0.0%
+,Maine,23,55-64 years,55-64,White,2106-3,Male,M,457,1591617,28.7,0.1%
+,Maine,23,65-74 years,65-74,White,2106-3,Female,F,48,1130625,4.2,0.0%
+,Maine,23,65-74 years,65-74,White,2106-3,Male,M,283,1020989,27.7,0.0%
+,Maine,23,75-84 years,75-84,White,2106-3,Female,F,26,751258,3.5,0.0%
+,Maine,23,75-84 years,75-84,White,2106-3,Male,M,202,546434,37,0.0%
+,Maine,23,85+ years,85+,White,2106-3,Female,F,13,359546,0,0.0%
+,Maine,23,85+ years,85+,White,2106-3,Male,M,122,165345,73.8,0.0%
+,Maryland,24,5-14 years,5-14,Black or African American,2054-5,Female,F,10,2480270,0,0.0%
+,Maryland,24,5-14 years,5-14,Black or African American,2054-5,Male,M,34,2561536,1.3,0.0%
+,Maryland,24,5-14 years,5-14,White,2106-3,Female,F,14,4134989,0,0.0%
+,Maryland,24,5-14 years,5-14,White,2106-3,Male,M,40,4336772,0.9,0.0%
+,Maryland,24,15-24 years,15-24,Asian or Pacific Islander,A-PI,Female,F,18,409515,0,0.0%
+,Maryland,24,15-24 years,15-24,Asian or Pacific Islander,A-PI,Male,M,40,419552,9.5,0.0%
+,Maryland,24,15-24 years,15-24,Black or African American,2054-5,Female,F,42,2497287,1.7,0.0%
+,Maryland,24,15-24 years,15-24,Black or African American,2054-5,Male,M,279,2470405,11.3,0.0%
+,Maryland,24,15-24 years,15-24,White,2106-3,Female,F,179,4150647,4.3,0.0%
+,Maryland,24,15-24 years,15-24,White,2106-3,Male,M,731,4429360,16.5,0.1%
+,Maryland,24,25-34 years,25-34,Asian or Pacific Islander,A-PI,Female,F,28,565255,5,0.0%
+,Maryland,24,25-34 years,25-34,Asian or Pacific Islander,A-PI,Male,M,52,502439,10.3,0.0%
+,Maryland,24,25-34 years,25-34,Black or African American,2054-5,Female,F,49,2517606,1.9,0.0%
+,Maryland,24,25-34 years,25-34,Black or African American,2054-5,Male,M,313,2160589,14.5,0.0%
+,Maryland,24,25-34 years,25-34,White,2106-3,Female,F,204,4315676,4.7,0.0%
+,Maryland,24,25-34 years,25-34,White,2106-3,Male,M,910,4426499,20.6,0.1%
+,Maryland,24,35-44 years,35-44,Asian or Pacific Islander,A-PI,Female,F,15,571313,0,0.0%
+,Maryland,24,35-44 years,35-44,Asian or Pacific Islander,A-PI,Male,M,37,500880,7.4,0.0%
+,Maryland,24,35-44 years,35-44,Black or African American,2054-5,Female,F,67,2706187,2.5,0.0%
+,Maryland,24,35-44 years,35-44,Black or African American,2054-5,Male,M,260,2268538,11.5,0.0%
+,Maryland,24,35-44 years,35-44,White,2106-3,Female,F,279,4899098,5.7,0.0%
+,Maryland,24,35-44 years,35-44,White,2106-3,Male,M,1092,4863462,22.5,0.2%
+,Maryland,24,45-54 years,45-54,Asian or Pacific Islander,A-PI,Female,F,18,476613,0,0.0%
+,Maryland,24,45-54 years,45-54,Asian or Pacific Islander,A-PI,Male,M,37,407697,9.1,0.0%
+,Maryland,24,45-54 years,45-54,Black or African American,2054-5,Female,F,58,2580492,2.2,0.0%
+,Maryland,24,45-54 years,45-54,Black or African American,2054-5,Male,M,198,2120448,9.3,0.0%
+,Maryland,24,45-54 years,45-54,White,2106-3,Female,F,424,5282998,8,0.1%
+,Maryland,24,45-54 years,45-54,White,2106-3,Male,M,1355,5160830,26.3,0.2%
+,Maryland,24,55-64 years,55-64,Asian or Pacific Islander,A-PI,Female,F,10,334742,0,0.0%
+,Maryland,24,55-64 years,55-64,Asian or Pacific Islander,A-PI,Male,M,27,287625,9.4,0.0%
+,Maryland,24,55-64 years,55-64,Black or African American,2054-5,Female,F,29,1826299,1.6,0.0%
+,Maryland,24,55-64 years,55-64,Black or African American,2054-5,Male,M,142,1429356,9.9,0.0%
+,Maryland,24,55-64 years,55-64,White,2106-3,Female,F,255,4278009,6,0.0%
+,Maryland,24,55-64 years,55-64,White,2106-3,Male,M,980,4094384,23.9,0.1%
+,Maryland,24,65-74 years,65-74,Asian or Pacific Islander,A-PI,Male,M,17,166160,0,0.0%
+,Maryland,24,65-74 years,65-74,Black or African American,2054-5,Female,F,14,1030283,0,0.0%
+,Maryland,24,65-74 years,65-74,Black or African American,2054-5,Male,M,55,742996,7.4,0.0%
+,Maryland,24,65-74 years,65-74,White,2106-3,Female,F,133,2796319,4.8,0.0%
+,Maryland,24,65-74 years,65-74,White,2106-3,Male,M,586,2453583,23.9,0.1%
+,Maryland,24,75-84 years,75-84,Asian or Pacific Islander,A-PI,Female,F,10,87642,0,0.0%
+,Maryland,24,75-84 years,75-84,Asian or Pacific Islander,A-PI,Male,M,13,68215,0,0.0%
+,Maryland,24,75-84 years,75-84,Black or African American,2054-5,Male,M,43,315305,13.6,0.0%
+,Maryland,24,75-84 years,75-84,White,2106-3,Female,F,77,1936058,4,0.0%
+,Maryland,24,75-84 years,75-84,White,2106-3,Male,M,482,1357584,35.5,0.1%
+,Maryland,24,85+ years,85+,White,2106-3,Female,F,41,951263,4.3,0.0%
+,Maryland,24,85+ years,85+,White,2106-3,Male,M,209,446698,46.8,0.0%
+,Massachusetts,25,5-14 years,5-14,White,2106-3,Female,F,17,6203913,0,0.0%
+,Massachusetts,25,5-14 years,5-14,White,2106-3,Male,M,48,6519053,0.7,0.0%
+,Massachusetts,25,15-24 years,15-24,Asian or Pacific Islander,A-PI,Female,F,26,612001,4.2,0.0%
+,Massachusetts,25,15-24 years,15-24,Asian or Pacific Islander,A-PI,Male,M,33,561698,5.9,0.0%
+,Massachusetts,25,15-24 years,15-24,Black or African American,2054-5,Female,F,20,872880,2.3,0.0%
+,Massachusetts,25,15-24 years,15-24,Black or African American,2054-5,Male,M,76,889196,8.5,0.0%
+,Massachusetts,25,15-24 years,15-24,White,2106-3,Female,F,207,7040687,2.9,0.0%
+,Massachusetts,25,15-24 years,15-24,White,2106-3,Male,M,786,7134940,11,0.1%
+,Massachusetts,25,25-34 years,25-34,Asian or Pacific Islander,A-PI,Female,F,23,747960,3.1,0.0%
+,Massachusetts,25,25-34 years,25-34,Asian or Pacific Islander,A-PI,Male,M,43,688510,6.2,0.0%
+,Massachusetts,25,25-34 years,25-34,Black or African American,2054-5,Female,F,16,794153,0,0.0%
+,Massachusetts,25,25-34 years,25-34,Black or African American,2054-5,Male,M,90,737513,12.2,0.0%
+,Massachusetts,25,25-34 years,25-34,White,2106-3,Female,F,278,6929044,4,0.0%
+,Massachusetts,25,25-34 years,25-34,White,2106-3,Male,M,1146,6852875,16.7,0.2%
+,Massachusetts,25,35-44 years,35-44,Asian or Pacific Islander,A-PI,Male,M,32,553889,5.8,0.0%
+,Massachusetts,25,35-44 years,35-44,Black or African American,2054-5,Female,F,12,752834,0,0.0%
+,Massachusetts,25,35-44 years,35-44,Black or African American,2054-5,Male,M,64,680627,9.4,0.0%
+,Massachusetts,25,35-44 years,35-44,White,2106-3,Female,F,455,7709641,5.9,0.1%
+,Massachusetts,25,35-44 years,35-44,White,2106-3,Male,M,1433,7451627,19.2,0.2%
+,Massachusetts,25,45-54 years,45-54,Asian or Pacific Islander,A-PI,Female,F,12,424223,0,0.0%
+,Massachusetts,25,45-54 years,45-54,Asian or Pacific Islander,A-PI,Male,M,28,392828,7.1,0.0%
+,Massachusetts,25,45-54 years,45-54,Black or African American,2054-5,Male,M,42,583482,7.2,0.0%
+,Massachusetts,25,45-54 years,45-54,White,2106-3,Female,F,545,8240424,6.6,0.1%
+,Massachusetts,25,45-54 years,45-54,White,2106-3,Male,M,1640,7847736,20.9,0.2%
+,Massachusetts,25,55-64 years,55-64,Asian or Pacific Islander,A-PI,Male,M,14,242773,0,0.0%
+,Massachusetts,25,55-64 years,55-64,Black or African American,2054-5,Male,M,25,369819,6.8,0.0%
+,Massachusetts,25,55-64 years,55-64,White,2106-3,Female,F,378,6661561,5.7,0.1%
+,Massachusetts,25,55-64 years,55-64,White,2106-3,Male,M,1079,6157224,17.5,0.2%
+,Massachusetts,25,65-74 years,65-74,Asian or Pacific Islander,A-PI,Female,F,10,153910,0,0.0%
+,Massachusetts,25,65-74 years,65-74,Asian or Pacific Islander,A-PI,Male,M,15,134091,0,0.0%
+,Massachusetts,25,65-74 years,65-74,White,2106-3,Female,F,138,4473996,3.1,0.0%
+,Massachusetts,25,65-74 years,65-74,White,2106-3,Male,M,489,3768321,13,0.1%
+,Massachusetts,25,75-84 years,75-84,Black or African American,2054-5,Male,M,10,81052,0,0.0%
+,Massachusetts,25,75-84 years,75-84,White,2106-3,Female,F,83,3282069,2.5,0.0%
+,Massachusetts,25,75-84 years,75-84,White,2106-3,Male,M,316,2206595,14.3,0.0%
+,Massachusetts,25,85+ years,85+,White,2106-3,Female,F,33,1753668,1.9,0.0%
+,Massachusetts,25,85+ years,85+,White,2106-3,Male,M,179,756407,23.7,0.0%
+,Michigan,26,5-14 years,5-14,Black or African American,2054-5,Female,F,19,2388927,0,0.0%
+,Michigan,26,5-14 years,5-14,Black or African American,2054-5,Male,M,24,2477903,1,0.0%
+,Michigan,26,5-14 years,5-14,White,2106-3,Female,F,57,9693563,0.6,0.0%
+,Michigan,26,5-14 years,5-14,White,2106-3,Male,M,116,10218656,1.1,0.0%
+,Michigan,26,15-24 years,15-24,American Indian or Alaska Native,1002-5,Male,M,31,140490,22.1,0.0%
+,Michigan,26,15-24 years,15-24,Asian or Pacific Islander,A-PI,Female,F,17,409493,0,0.0%
+,Michigan,26,15-24 years,15-24,Asian or Pacific Islander,A-PI,Male,M,38,426820,8.9,0.0%
+,Michigan,26,15-24 years,15-24,Black or African American,2054-5,Female,F,60,2325640,2.6,0.0%
+,Michigan,26,15-24 years,15-24,Black or African American,2054-5,Male,M,320,2345805,13.6,0.0%
+,Michigan,26,15-24 years,15-24,White,2106-3,Female,F,408,10229828,4,0.1%
+,Michigan,26,15-24 years,15-24,White,2106-3,Male,M,2049,10719777,19.1,0.3%
+,Michigan,26,25-34 years,25-34,American Indian or Alaska Native,1002-5,Male,M,28,106461,26.3,0.0%
+,Michigan,26,25-34 years,25-34,Asian or Pacific Islander,A-PI,Female,F,13,475510,0,0.0%
+,Michigan,26,25-34 years,25-34,Asian or Pacific Islander,A-PI,Male,M,41,449637,9.1,0.0%
+,Michigan,26,25-34 years,25-34,Black or African American,2054-5,Female,F,74,2018841,3.7,0.0%
+,Michigan,26,25-34 years,25-34,Black or African American,2054-5,Male,M,335,1822916,18.4,0.0%
+,Michigan,26,25-34 years,25-34,White,2106-3,Female,F,542,9165049,5.9,0.1%
+,Michigan,26,25-34 years,25-34,White,2106-3,Male,M,2507,9427661,26.6,0.4%
+,Michigan,26,35-44 years,35-44,American Indian or Alaska Native,1002-5,Female,F,17,112630,0,0.0%
+,Michigan,26,35-44 years,35-44,American Indian or Alaska Native,1002-5,Male,M,35,109711,31.9,0.0%
+,Michigan,26,35-44 years,35-44,Asian or Pacific Islander,A-PI,Female,F,19,418205,0,0.0%
+,Michigan,26,35-44 years,35-44,Asian or Pacific Islander,A-PI,Male,M,28,401207,7,0.0%
+,Michigan,26,35-44 years,35-44,Black or African American,2054-5,Female,F,88,2019445,4.4,0.0%
+,Michigan,26,35-44 years,35-44,Black or African American,2054-5,Male,M,292,1754790,16.6,0.0%
+,Michigan,26,35-44 years,35-44,White,2106-3,Female,F,865,10507299,8.2,0.1%
+,Michigan,26,35-44 years,35-44,White,2106-3,Male,M,3004,10609259,28.3,0.4%
+,Michigan,26,45-54 years,45-54,American Indian or Alaska Native,1002-5,Female,F,12,109097,0,0.0%
+,Michigan,26,45-54 years,45-54,American Indian or Alaska Native,1002-5,Male,M,19,102442,0,0.0%
+,Michigan,26,45-54 years,45-54,Asian or Pacific Islander,A-PI,Female,F,22,295630,7.4,0.0%
+,Michigan,26,45-54 years,45-54,Asian or Pacific Islander,A-PI,Male,M,23,279427,8.2,0.0%
+,Michigan,26,45-54 years,45-54,Black or African American,2054-5,Female,F,75,1923625,3.9,0.0%
+,Michigan,26,45-54 years,45-54,Black or African American,2054-5,Male,M,205,1648211,12.4,0.0%
+,Michigan,26,45-54 years,45-54,White,2106-3,Female,F,1022,11569630,8.8,0.1%
+,Michigan,26,45-54 years,45-54,White,2106-3,Male,M,3472,11494675,30.2,0.5%
+,Michigan,26,55-64 years,55-64,American Indian or Alaska Native,1002-5,Male,M,10,68440,0,0.0%
+,Michigan,26,55-64 years,55-64,Asian or Pacific Islander,A-PI,Male,M,19,177891,0,0.0%
+,Michigan,26,55-64 years,55-64,Black or African American,2054-5,Female,F,40,1444029,2.8,0.0%
+,Michigan,26,55-64 years,55-64,Black or African American,2054-5,Male,M,104,1180586,8.8,0.0%
+,Michigan,26,55-64 years,55-64,White,2106-3,Female,F,691,9602920,7.2,0.1%
+,Michigan,26,55-64 years,55-64,White,2106-3,Male,M,2353,9277490,25.4,0.3%
+,Michigan,26,65-74 years,65-74,Black or African American,2054-5,Female,F,13,860182,0,0.0%
+,Michigan,26,65-74 years,65-74,Black or African American,2054-5,Male,M,59,632639,9.3,0.0%
+,Michigan,26,65-74 years,65-74,White,2106-3,Female,F,287,6457840,4.4,0.0%
+,Michigan,26,65-74 years,65-74,White,2106-3,Male,M,1324,5732455,23.1,0.2%
+,Michigan,26,75-84 years,75-84,Black or African American,2054-5,Male,M,44,310526,14.2,0.0%
+,Michigan,26,75-84 years,75-84,White,2106-3,Female,F,156,4437420,3.5,0.0%
+,Michigan,26,75-84 years,75-84,White,2106-3,Male,M,1034,3168823,32.6,0.1%
+,Michigan,26,85+ years,85+,Black or African American,2054-5,Male,M,14,90975,0,0.0%
+,Michigan,26,85+ years,85+,White,2106-3,Female,F,50,2106060,2.4,0.0%
+,Michigan,26,85+ years,85+,White,2106-3,Male,M,442,980906,45.1,0.1%
+,Minnesota,27,5-14 years,5-14,Black or African American,2054-5,Male,M,12,592733,0,0.0%
+,Minnesota,27,5-14 years,5-14,White,2106-3,Female,F,28,5553718,0.5,0.0%
+,Minnesota,27,5-14 years,5-14,White,2106-3,Male,M,78,5845199,1.3,0.0%
+,Minnesota,27,15-24 years,15-24,American Indian or Alaska Native,1002-5,Female,F,28,126065,22.2,0.0%
+,Minnesota,27,15-24 years,15-24,American Indian or Alaska Native,1002-5,Male,M,55,132615,41.5,0.0%
+,Minnesota,27,15-24 years,15-24,Asian or Pacific Islander,A-PI,Female,F,18,392496,0,0.0%
+,Minnesota,27,15-24 years,15-24,Asian or Pacific Islander,A-PI,Male,M,57,392961,14.5,0.0%
+,Minnesota,27,15-24 years,15-24,Black or African American,2054-5,Female,F,16,481481,0,0.0%
+,Minnesota,27,15-24 years,15-24,Black or African American,2054-5,Male,M,72,510811,14.1,0.0%
+,Minnesota,27,15-24 years,15-24,White,2106-3,Female,F,214,5755486,3.7,0.0%
+,Minnesota,27,15-24 years,15-24,White,2106-3,Male,M,1246,5998801,20.8,0.2%
+,Minnesota,27,25-34 years,25-34,American Indian or Alaska Native,1002-5,Female,F,19,101929,0,0.0%
+,Minnesota,27,25-34 years,25-34,American Indian or Alaska Native,1002-5,Male,M,49,104042,47.1,0.0%
+,Minnesota,27,25-34 years,25-34,Asian or Pacific Islander,A-PI,Female,F,14,429052,0,0.0%
+,Minnesota,27,25-34 years,25-34,Asian or Pacific Islander,A-PI,Male,M,53,398229,13.3,0.0%
+,Minnesota,27,25-34 years,25-34,Black or African American,2054-5,Female,F,16,451948,0,0.0%
+,Minnesota,27,25-34 years,25-34,Black or African American,2054-5,Male,M,73,457143,16,0.0%
+,Minnesota,27,25-34 years,25-34,White,2106-3,Female,F,285,5579281,5.1,0.0%
+,Minnesota,27,25-34 years,25-34,White,2106-3,Male,M,1340,5800601,23.1,0.2%
+,Minnesota,27,35-44 years,35-44,American Indian or Alaska Native,1002-5,Female,F,14,92075,0,0.0%
+,Minnesota,27,35-44 years,35-44,American Indian or Alaska Native,1002-5,Male,M,38,91222,41.7,0.0%
+,Minnesota,27,35-44 years,35-44,Asian or Pacific Islander,A-PI,Female,F,17,306142,0,0.0%
+,Minnesota,27,35-44 years,35-44,Asian or Pacific Islander,A-PI,Male,M,45,297657,15.1,0.0%
+,Minnesota,27,35-44 years,35-44,Black or African American,2054-5,Female,F,13,360627,0,0.0%
+,Minnesota,27,35-44 years,35-44,Black or African American,2054-5,Male,M,59,394205,15,0.0%
+,Minnesota,27,35-44 years,35-44,White,2106-3,Female,F,439,6128567,7.2,0.1%
+,Minnesota,27,35-44 years,35-44,White,2106-3,Male,M,1504,6233459,24.1,0.2%
+,Minnesota,27,45-54 years,45-54,American Indian or Alaska Native,1002-5,Male,M,27,78307,34.5,0.0%
+,Minnesota,27,45-54 years,45-54,Asian or Pacific Islander,A-PI,Female,F,10,203066,0,0.0%
+,Minnesota,27,45-54 years,45-54,Asian or Pacific Islander,A-PI,Male,M,26,187747,13.8,0.0%
+,Minnesota,27,45-54 years,45-54,Black or African American,2054-5,Male,M,42,290249,14.5,0.0%
+,Minnesota,27,45-54 years,45-54,White,2106-3,Female,F,517,6582729,7.9,0.1%
+,Minnesota,27,45-54 years,45-54,White,2106-3,Male,M,1721,6597458,26.1,0.2%
+,Minnesota,27,55-64 years,55-64,American Indian or Alaska Native,1002-5,Male,M,12,48399,0,0.0%
+,Minnesota,27,55-64 years,55-64,Black or African American,2054-5,Male,M,12,151229,0,0.0%
+,Minnesota,27,55-64 years,55-64,White,2106-3,Female,F,343,5237029,6.5,0.0%
+,Minnesota,27,55-64 years,55-64,White,2106-3,Male,M,1229,5141419,23.9,0.2%
+,Minnesota,27,65-74 years,65-74,White,2106-3,Female,F,109,3395954,3.2,0.0%
+,Minnesota,27,65-74 years,65-74,White,2106-3,Male,M,595,3074325,19.4,0.1%
+,Minnesota,27,75-84 years,75-84,White,2106-3,Female,F,68,2381724,2.9,0.0%
+,Minnesota,27,75-84 years,75-84,White,2106-3,Male,M,458,1751495,26.1,0.1%
+,Minnesota,27,85+ years,85+,White,2106-3,Female,F,19,1306564,0,0.0%
+,Minnesota,27,85+ years,85+,White,2106-3,Male,M,203,606703,33.5,0.0%
+,Mississippi,28,5-14 years,5-14,Black or African American,2054-5,Male,M,12,1812386,0,0.0%
+,Mississippi,28,5-14 years,5-14,White,2106-3,Male,M,30,2183001,1.4,0.0%
+,Mississippi,28,15-24 years,15-24,Black or African American,2054-5,Female,F,21,1849128,1.1,0.0%
+,Mississippi,28,15-24 years,15-24,Black or African American,2054-5,Male,M,190,1803175,10.5,0.0%
+,Mississippi,28,15-24 years,15-24,White,2106-3,Female,F,91,2195765,4.1,0.0%
+,Mississippi,28,15-24 years,15-24,White,2106-3,Male,M,599,2340068,25.6,0.1%
+,Mississippi,28,25-34 years,25-34,Black or African American,2054-5,Female,F,36,1548163,2.3,0.0%
+,Mississippi,28,25-34 years,25-34,Black or African American,2054-5,Male,M,215,1333484,16.1,0.0%
+,Mississippi,28,25-34 years,25-34,White,2106-3,Female,F,187,2082913,9,0.0%
+,Mississippi,28,25-34 years,25-34,White,2106-3,Male,M,734,2168980,33.8,0.1%
+,Mississippi,28,35-44 years,35-44,Black or African American,2054-5,Female,F,29,1488817,1.9,0.0%
+,Mississippi,28,35-44 years,35-44,Black or African American,2054-5,Male,M,187,1230691,15.2,0.0%
+,Mississippi,28,35-44 years,35-44,White,2106-3,Female,F,280,2238710,12.5,0.0%
+,Mississippi,28,35-44 years,35-44,White,2106-3,Male,M,845,2302104,36.7,0.1%
+,Mississippi,28,45-54 years,45-54,Black or African American,2054-5,Female,F,22,1405167,1.6,0.0%
+,Mississippi,28,45-54 years,45-54,Black or African American,2054-5,Male,M,112,1185543,9.4,0.0%
+,Mississippi,28,45-54 years,45-54,White,2106-3,Female,F,284,2388961,11.9,0.0%
+,Mississippi,28,45-54 years,45-54,White,2106-3,Male,M,924,2387379,38.7,0.1%
+,Mississippi,28,55-64 years,55-64,Black or African American,2054-5,Male,M,85,849313,10,0.0%
+,Mississippi,28,55-64 years,55-64,White,2106-3,Female,F,214,2141693,10,0.0%
+,Mississippi,28,55-64 years,55-64,White,2106-3,Male,M,696,2036706,34.2,0.1%
+,Mississippi,28,65-74 years,65-74,Black or African American,2054-5,Male,M,38,445192,8.5,0.0%
+,Mississippi,28,65-74 years,65-74,White,2106-3,Female,F,109,1606701,6.8,0.0%
+,Mississippi,28,65-74 years,65-74,White,2106-3,Male,M,467,1398988,33.4,0.1%
+,Mississippi,28,75-84 years,75-84,Black or African American,2054-5,Male,M,30,197802,15.2,0.0%
+,Mississippi,28,75-84 years,75-84,White,2106-3,Female,F,34,1052375,3.2,0.0%
+,Mississippi,28,75-84 years,75-84,White,2106-3,Male,M,348,717580,48.5,0.0%
+,Mississippi,28,85+ years,85+,White,2106-3,Male,M,125,184014,67.9,0.0%
+,Missouri,29,5-14 years,5-14,Black or African American,2054-5,Male,M,20,1194536,1.7,0.0%
+,Missouri,29,5-14 years,5-14,White,2106-3,Female,F,36,5973429,0.6,0.0%
+,Missouri,29,5-14 years,5-14,White,2106-3,Male,M,79,6288715,1.3,0.0%
+,Missouri,29,15-24 years,15-24,Asian or Pacific Islander,A-PI,Male,M,27,179436,15,0.0%
+,Missouri,29,15-24 years,15-24,Black or African American,2054-5,Female,F,42,1144184,3.7,0.0%
+,Missouri,29,15-24 years,15-24,Black or African American,2054-5,Male,M,201,1164330,17.3,0.0%
+,Missouri,29,15-24 years,15-24,White,2106-3,Female,F,308,6326980,4.9,0.0%
+,Missouri,29,15-24 years,15-24,White,2106-3,Male,M,1487,6554198,22.7,0.2%
+,Missouri,29,25-34 years,25-34,American Indian or Alaska Native,1002-5,Male,M,10,49907,0,0.0%
+,Missouri,29,25-34 years,25-34,Asian or Pacific Islander,A-PI,Male,M,24,201163,11.9,0.0%
+,Missouri,29,25-34 years,25-34,Black or African American,2054-5,Female,F,33,1002047,3.3,0.0%
+,Missouri,29,25-34 years,25-34,Black or African American,2054-5,Male,M,177,885489,20,0.0%
+,Missouri,29,25-34 years,25-34,White,2106-3,Female,F,420,6013032,7,0.1%
+,Missouri,29,25-34 years,25-34,White,2106-3,Male,M,1894,6108202,31,0.3%
+,Missouri,29,35-44 years,35-44,Asian or Pacific Islander,A-PI,Male,M,12,158079,0,0.0%
+,Missouri,29,35-44 years,35-44,Black or African American,2054-5,Female,F,34,962372,3.5,0.0%
+,Missouri,29,35-44 years,35-44,Black or African American,2054-5,Male,M,148,838031,17.7,0.0%
+,Missouri,29,35-44 years,35-44,White,2106-3,Female,F,667,6386064,10.4,0.1%
+,Missouri,29,35-44 years,35-44,White,2106-3,Male,M,2273,6422994,35.4,0.3%
+,Missouri,29,45-54 years,45-54,American Indian or Alaska Native,1002-5,Male,M,10,50799,0,0.0%
+,Missouri,29,45-54 years,45-54,Asian or Pacific Islander,A-PI,Male,M,11,104562,0,0.0%
+,Missouri,29,45-54 years,45-54,Black or African American,2054-5,Female,F,27,905336,3,0.0%
+,Missouri,29,45-54 years,45-54,Black or African American,2054-5,Male,M,106,780486,13.6,0.0%
+,Missouri,29,45-54 years,45-54,White,2106-3,Female,F,794,6868130,11.6,0.1%
+,Missouri,29,45-54 years,45-54,White,2106-3,Male,M,2433,6752013,36,0.3%
+,Missouri,29,55-64 years,55-64,Black or African American,2054-5,Female,F,10,662550,0,0.0%
+,Missouri,29,55-64 years,55-64,Black or African American,2054-5,Male,M,58,534853,10.8,0.0%
+,Missouri,29,55-64 years,55-64,White,2106-3,Female,F,496,5851797,8.5,0.1%
+,Missouri,29,55-64 years,55-64,White,2106-3,Male,M,1636,5521717,29.6,0.2%
+,Missouri,29,65-74 years,65-74,Black or African American,2054-5,Male,M,20,286011,7,0.0%
+,Missouri,29,65-74 years,65-74,White,2106-3,Female,F,205,4125933,5,0.0%
+,Missouri,29,65-74 years,65-74,White,2106-3,Male,M,1023,3620846,28.3,0.1%
+,Missouri,29,75-84 years,75-84,Black or African American,2054-5,Male,M,24,132939,18.1,0.0%
+,Missouri,29,75-84 years,75-84,White,2106-3,Female,F,115,2814203,4.1,0.0%
+,Missouri,29,75-84 years,75-84,White,2106-3,Male,M,829,2009540,41.3,0.1%
+,Missouri,29,85+ years,85+,White,2106-3,Female,F,48,1357817,3.5,0.0%
+,Missouri,29,85+ years,85+,White,2106-3,Male,M,359,610986,58.8,0.1%
+,Montana,30,5-14 years,5-14,White,2106-3,Male,M,37,1061241,3.5,0.0%
+,Montana,30,15-24 years,15-24,American Indian or Alaska Native,1002-5,Female,F,22,113056,19.5,0.0%
+,Montana,30,15-24 years,15-24,American Indian or Alaska Native,1002-5,Male,M,81,119381,67.8,0.0%
+,Montana,30,15-24 years,15-24,White,2106-3,Female,F,74,1101708,6.7,0.0%
+,Montana,30,15-24 years,15-24,White,2106-3,Male,M,371,1198841,30.9,0.1%
+,Montana,30,25-34 years,25-34,American Indian or Alaska Native,1002-5,Female,F,21,86054,24.4,0.0%
+,Montana,30,25-34 years,25-34,American Indian or Alaska Native,1002-5,Male,M,66,84741,77.9,0.0%
+,Montana,30,25-34 years,25-34,White,2106-3,Female,F,95,967698,9.8,0.0%
+,Montana,30,25-34 years,25-34,White,2106-3,Male,M,480,1021100,47,0.1%
+,Montana,30,35-44 years,35-44,American Indian or Alaska Native,1002-5,Female,F,15,79129,0,0.0%
+,Montana,30,35-44 years,35-44,American Indian or Alaska Native,1002-5,Male,M,45,76433,58.9,0.0%
+,Montana,30,35-44 years,35-44,White,2106-3,Female,F,159,1064766,14.9,0.0%
+,Montana,30,35-44 years,35-44,White,2106-3,Male,M,469,1078747,43.5,0.1%
+,Montana,30,45-54 years,45-54,American Indian or Alaska Native,1002-5,Male,M,25,70510,35.5,0.0%
+,Montana,30,45-54 years,45-54,White,2106-3,Female,F,152,1257402,12.1,0.0%
+,Montana,30,45-54 years,45-54,White,2106-3,Male,M,550,1255686,43.8,0.1%
+,Montana,30,55-64 years,55-64,American Indian or Alaska Native,1002-5,Male,M,16,47659,0,0.0%
+,Montana,30,55-64 years,55-64,White,2106-3,Female,F,146,1112881,13.1,0.0%
+,Montana,30,55-64 years,55-64,White,2106-3,Male,M,480,1123988,42.7,0.1%
+,Montana,30,65-74 years,65-74,White,2106-3,Female,F,53,735955,7.2,0.0%
+,Montana,30,65-74 years,65-74,White,2106-3,Male,M,271,725703,37.3,0.0%
+,Montana,30,75-84 years,75-84,White,2106-3,Female,F,19,472739,0,0.0%
+,Montana,30,75-84 years,75-84,White,2106-3,Male,M,216,385109,56.1,0.0%
+,Montana,30,85+ years,85+,White,2106-3,Male,M,131,123773,105.8,0.0%
+,Nebraska,31,5-14 years,5-14,White,2106-3,Female,F,16,2074059,0,0.0%
+,Nebraska,31,5-14 years,5-14,White,2106-3,Male,M,32,2176234,1.5,0.0%
+,Nebraska,31,15-24 years,15-24,American Indian or Alaska Native,1002-5,Male,M,15,42164,0,0.0%
+,Nebraska,31,15-24 years,15-24,Asian or Pacific Islander,A-PI,Male,M,12,63353,0,0.0%
+,Nebraska,31,15-24 years,15-24,Black or African American,2054-5,Male,M,31,163965,18.9,0.0%
+,Nebraska,31,15-24 years,15-24,White,2106-3,Female,F,88,2185706,4,0.0%
+,Nebraska,31,15-24 years,15-24,White,2106-3,Male,M,480,2291301,20.9,0.1%
+,Nebraska,31,25-34 years,25-34,Black or African American,2054-5,Male,M,31,130041,23.8,0.0%
+,Nebraska,31,25-34 years,25-34,White,2106-3,Female,F,90,1966026,4.6,0.0%
+,Nebraska,31,25-34 years,25-34,White,2106-3,Male,M,484,2055652,23.5,0.1%
+,Nebraska,31,35-44 years,35-44,White,2106-3,Female,F,141,2029035,6.9,0.0%
+,Nebraska,31,35-44 years,35-44,White,2106-3,Male,M,535,2077529,25.8,0.1%
+,Nebraska,31,45-54 years,45-54,White,2106-3,Female,F,165,2164327,7.6,0.0%
+,Nebraska,31,45-54 years,45-54,White,2106-3,Male,M,573,2169709,26.4,0.1%
+,Nebraska,31,55-64 years,55-64,White,2106-3,Female,F,108,1778918,6.1,0.0%
+,Nebraska,31,55-64 years,55-64,White,2106-3,Male,M,403,1738862,23.2,0.1%
+,Nebraska,31,65-74 years,65-74,White,2106-3,Female,F,36,1223405,2.9,0.0%
+,Nebraska,31,65-74 years,65-74,White,2106-3,Male,M,206,1088691,18.9,0.0%
+,Nebraska,31,75-84 years,75-84,White,2106-3,Female,F,25,902645,2.8,0.0%
+,Nebraska,31,75-84 years,75-84,White,2106-3,Male,M,205,650927,31.5,0.0%
+,Nebraska,31,85+ years,85+,White,2106-3,Male,M,80,225472,35.5,0.0%
+,Nevada,32,5-14 years,5-14,White,2106-3,Female,F,26,2521769,1,0.0%
+,Nevada,32,5-14 years,5-14,White,2106-3,Male,M,35,2649911,1.3,0.0%
+,Nevada,32,15-24 years,15-24,American Indian or Alaska Native,1002-5,Male,M,13,72226,0,0.0%
+,Nevada,32,15-24 years,15-24,Asian or Pacific Islander,A-PI,Female,F,14,263367,0,0.0%
+,Nevada,32,15-24 years,15-24,Asian or Pacific Islander,A-PI,Male,M,40,263444,15.2,0.0%
+,Nevada,32,15-24 years,15-24,Black or African American,2054-5,Female,F,17,344103,0,0.0%
+,Nevada,32,15-24 years,15-24,Black or African American,2054-5,Male,M,67,364405,18.4,0.0%
+,Nevada,32,15-24 years,15-24,White,2106-3,Female,F,146,2366614,6.2,0.0%
+,Nevada,32,15-24 years,15-24,White,2106-3,Male,M,611,2540883,24,0.1%
+,Nevada,32,25-34 years,25-34,American Indian or Alaska Native,1002-5,Female,F,10,66181,0,0.0%
+,Nevada,32,25-34 years,25-34,American Indian or Alaska Native,1002-5,Male,M,30,68841,43.6,0.0%
+,Nevada,32,25-34 years,25-34,Asian or Pacific Islander,A-PI,Female,F,12,352825,0,0.0%
+,Nevada,32,25-34 years,25-34,Asian or Pacific Islander,A-PI,Male,M,47,312248,15.1,0.0%
+,Nevada,32,25-34 years,25-34,Black or African American,2054-5,Female,F,25,339886,7.4,0.0%
+,Nevada,32,25-34 years,25-34,Black or African American,2054-5,Male,M,86,343695,25,0.0%
+,Nevada,32,25-34 years,25-34,White,2106-3,Female,F,242,2670923,9.1,0.0%
+,Nevada,32,25-34 years,25-34,White,2106-3,Male,M,924,2900553,31.9,0.1%
+,Nevada,32,35-44 years,35-44,American Indian or Alaska Native,1002-5,Male,M,11,62038,0,0.0%
+,Nevada,32,35-44 years,35-44,Asian or Pacific Islander,A-PI,Female,F,12,357300,0,0.0%
+,Nevada,32,35-44 years,35-44,Asian or Pacific Islander,A-PI,Male,M,35,289512,12.1,0.0%
+,Nevada,32,35-44 years,35-44,Black or African American,2054-5,Female,F,16,308622,0,0.0%
+,Nevada,32,35-44 years,35-44,Black or African American,2054-5,Male,M,60,324046,18.5,0.0%
+,Nevada,32,35-44 years,35-44,White,2106-3,Female,F,377,2668759,14.1,0.1%
+,Nevada,32,35-44 years,35-44,White,2106-3,Male,M,1121,2929937,38.3,0.2%
+,Nevada,32,45-54 years,45-54,American Indian or Alaska Native,1002-5,Male,M,19,54564,0,0.0%
+,Nevada,32,45-54 years,45-54,Asian or Pacific Islander,A-PI,Female,F,17,332864,0,0.0%
+,Nevada,32,45-54 years,45-54,Asian or Pacific Islander,A-PI,Male,M,42,248626,16.9,0.0%
+,Nevada,32,45-54 years,45-54,Black or African American,2054-5,Female,F,16,265376,0,0.0%
+,Nevada,32,45-54 years,45-54,Black or African American,2054-5,Male,M,42,274549,15.3,0.0%
+,Nevada,32,45-54 years,45-54,White,2106-3,Female,F,491,2602373,18.9,0.1%
+,Nevada,32,45-54 years,45-54,White,2106-3,Male,M,1348,2771693,48.6,0.2%
+,Nevada,32,55-64 years,55-64,Asian or Pacific Islander,A-PI,Female,F,21,268662,7.8,0.0%
+,Nevada,32,55-64 years,55-64,Asian or Pacific Islander,A-PI,Male,M,33,189191,17.4,0.0%
+,Nevada,32,55-64 years,55-64,Black or African American,2054-5,Male,M,30,182386,16.4,0.0%
+,Nevada,32,55-64 years,55-64,White,2106-3,Female,F,350,2271851,15.4,0.1%
+,Nevada,32,55-64 years,55-64,White,2106-3,Male,M,1131,2297769,49.2,0.2%
+,Nevada,32,65-74 years,65-74,Asian or Pacific Islander,A-PI,Female,F,15,170396,0,0.0%
+,Nevada,32,65-74 years,65-74,Asian or Pacific Islander,A-PI,Male,M,17,122103,0,0.0%
+,Nevada,32,65-74 years,65-74,Black or African American,2054-5,Male,M,15,108934,0,0.0%
+,Nevada,32,65-74 years,65-74,White,2106-3,Female,F,168,1552578,10.8,0.0%
+,Nevada,32,65-74 years,65-74,White,2106-3,Male,M,754,1549501,48.7,0.1%
+,Nevada,32,75-84 years,75-84,White,2106-3,Female,F,95,840631,11.3,0.0%
+,Nevada,32,75-84 years,75-84,White,2106-3,Male,M,589,737624,79.9,0.1%
+,Nevada,32,85+ years,85+,White,2106-3,Female,F,27,303580,8.9,0.0%
+,Nevada,32,85+ years,85+,White,2106-3,Male,M,196,177732,110.3,0.0%
+,New Hampshire,33,5-14 years,5-14,White,2106-3,Male,M,20,1532567,1.3,0.0%
+,New Hampshire,33,15-24 years,15-24,White,2106-3,Female,F,66,1545308,4.3,0.0%
+,New Hampshire,33,15-24 years,15-24,White,2106-3,Male,M,329,1595910,20.6,0.0%
+,New Hampshire,33,25-34 years,25-34,White,2106-3,Female,F,102,1350727,7.6,0.0%
+,New Hampshire,33,25-34 years,25-34,White,2106-3,Male,M,376,1359674,27.7,0.1%
+,New Hampshire,33,35-44 years,35-44,White,2106-3,Female,F,153,1736966,8.8,0.0%
+,New Hampshire,33,35-44 years,35-44,White,2106-3,Male,M,475,1699740,27.9,0.1%
+,New Hampshire,33,45-54 years,45-54,White,2106-3,Female,F,190,1931759,9.8,0.0%
+,New Hampshire,33,45-54 years,45-54,White,2106-3,Male,M,603,1901746,31.7,0.1%
+,New Hampshire,33,55-64 years,55-64,White,2106-3,Female,F,119,1526616,7.8,0.0%
+,New Hampshire,33,55-64 years,55-64,White,2106-3,Male,M,424,1491700,28.4,0.1%
+,New Hampshire,33,65-74 years,65-74,White,2106-3,Female,F,62,954067,6.5,0.0%
+,New Hampshire,33,65-74 years,65-74,White,2106-3,Male,M,199,877098,22.7,0.0%
+,New Hampshire,33,75-84 years,75-84,White,2106-3,Female,F,27,611492,4.4,0.0%
+,New Hampshire,33,75-84 years,75-84,White,2106-3,Male,M,146,448741,32.5,0.0%
+,New Hampshire,33,85+ years,85+,White,2106-3,Male,M,79,140806,56.1,0.0%
+,New Jersey,34,5-14 years,5-14,White,2106-3,Female,F,17,7822323,0,0.0%
+,New Jersey,34,5-14 years,5-14,White,2106-3,Male,M,33,8228244,0.4,0.0%
+,New Jersey,34,15-24 years,15-24,Asian or Pacific Islander,A-PI,Female,F,28,822122,3.4,0.0%
+,New Jersey,34,15-24 years,15-24,Asian or Pacific Islander,A-PI,Male,M,54,844215,6.4,0.0%
+,New Jersey,34,15-24 years,15-24,Black or African American,2054-5,Female,F,39,1943321,2,0.0%
+,New Jersey,34,15-24 years,15-24,Black or African American,2054-5,Male,M,203,1985758,10.2,0.0%
+,New Jersey,34,15-24 years,15-24,White,2106-3,Female,F,222,7327275,3,0.0%
+,New Jersey,34,15-24 years,15-24,White,2106-3,Male,M,859,7874245,10.9,0.1%
+,New Jersey,34,25-34 years,25-34,Asian or Pacific Islander,A-PI,Female,F,39,1279908,3,0.0%
+,New Jersey,34,25-34 years,25-34,Asian or Pacific Islander,A-PI,Male,M,70,1190171,5.9,0.0%
+,New Jersey,34,25-34 years,25-34,Black or African American,2054-5,Female,F,47,1883984,2.5,0.0%
+,New Jersey,34,25-34 years,25-34,Black or African American,2054-5,Male,M,174,1713171,10.2,0.0%
+,New Jersey,34,25-34 years,25-34,White,2106-3,Female,F,279,7544103,3.7,0.0%
+,New Jersey,34,25-34 years,25-34,White,2106-3,Male,M,1151,7829444,14.7,0.2%
+,New Jersey,34,35-44 years,35-44,Asian or Pacific Islander,A-PI,Female,F,44,1271303,3.5,0.0%
+,New Jersey,34,35-44 years,35-44,Asian or Pacific Islander,A-PI,Male,M,55,1209394,4.5,0.0%
+,New Jersey,34,35-44 years,35-44,Black or African American,2054-5,Female,F,45,1999347,2.3,0.0%
+,New Jersey,34,35-44 years,35-44,Black or African American,2054-5,Male,M,148,1746544,8.5,0.0%
+,New Jersey,34,35-44 years,35-44,White,2106-3,Female,F,414,9163308,4.5,0.1%
+,New Jersey,34,35-44 years,35-44,White,2106-3,Male,M,1579,9088661,17.4,0.2%
+,New Jersey,34,45-54 years,45-54,Asian or Pacific Islander,A-PI,Female,F,24,995776,2.4,0.0%
+,New Jersey,34,45-54 years,45-54,Asian or Pacific Islander,A-PI,Male,M,69,930704,7.4,0.0%
+,New Jersey,34,45-54 years,45-54,Black or African American,2054-5,Female,F,43,1830545,2.3,0.0%
+,New Jersey,34,45-54 years,45-54,Black or African American,2054-5,Male,M,100,1548271,6.5,0.0%
+,New Jersey,34,45-54 years,45-54,White,2106-3,Female,F,555,9726350,5.7,0.1%
+,New Jersey,34,45-54 years,45-54,White,2106-3,Male,M,1935,9434735,20.5,0.3%
+,New Jersey,34,55-64 years,55-64,Asian or Pacific Islander,A-PI,Female,F,17,682493,0,0.0%
+,New Jersey,34,55-64 years,55-64,Asian or Pacific Islander,A-PI,Male,M,57,627447,9.1,0.0%
+,New Jersey,34,55-64 years,55-64,Black or African American,2054-5,Female,F,19,1310098,0,0.0%
+,New Jersey,34,55-64 years,55-64,Black or African American,2054-5,Male,M,57,1027785,5.5,0.0%
+,New Jersey,34,55-64 years,55-64,White,2106-3,Female,F,395,7783308,5.1,0.1%
+,New Jersey,34,55-64 years,55-64,White,2106-3,Male,M,1380,7268812,19,0.2%
+,New Jersey,34,65-74 years,65-74,Asian or Pacific Islander,A-PI,Female,F,11,380000,0,0.0%
+,New Jersey,34,65-74 years,65-74,Asian or Pacific Islander,A-PI,Male,M,26,338900,7.7,0.0%
+,New Jersey,34,65-74 years,65-74,Black or African American,2054-5,Male,M,34,565768,6,0.0%
+,New Jersey,34,65-74 years,65-74,White,2106-3,Female,F,185,5339202,3.5,0.0%
+,New Jersey,34,65-74 years,65-74,White,2106-3,Male,M,698,4472385,15.6,0.1%
+,New Jersey,34,75-84 years,75-84,Asian or Pacific Islander,A-PI,Female,F,11,166295,0,0.0%
+,New Jersey,34,75-84 years,75-84,Asian or Pacific Islander,A-PI,Male,M,18,128459,0,0.0%
+,New Jersey,34,75-84 years,75-84,Black or African American,2054-5,Male,M,20,251660,7.9,0.0%
+,New Jersey,34,75-84 years,75-84,White,2106-3,Female,F,120,3964961,3,0.0%
+,New Jersey,34,75-84 years,75-84,White,2106-3,Male,M,582,2673013,21.8,0.1%
+,New Jersey,34,85+ years,85+,Asian or Pacific Islander,A-PI,Male,M,11,28828,0,0.0%
+,New Jersey,34,85+ years,85+,White,2106-3,Female,F,43,1987769,2.2,0.0%
+,New Jersey,34,85+ years,85+,White,2106-3,Male,M,266,903305,29.4,0.0%
+,New Mexico,35,5-14 years,5-14,American Indian or Alaska Native,1002-5,Female,F,10,366401,0,0.0%
+,New Mexico,35,5-14 years,5-14,American Indian or Alaska Native,1002-5,Male,M,17,371555,0,0.0%
+,New Mexico,35,5-14 years,5-14,White,2106-3,Female,F,16,2116144,0,0.0%
+,New Mexico,35,5-14 years,5-14,White,2106-3,Male,M,44,2203315,2,0.0%
+,New Mexico,35,15-24 years,15-24,American Indian or Alaska Native,1002-5,Female,F,57,358178,15.9,0.0%
+,New Mexico,35,15-24 years,15-24,American Indian or Alaska Native,1002-5,Male,M,164,363917,45.1,0.0%
+,New Mexico,35,15-24 years,15-24,Asian or Pacific Islander,A-PI,Male,M,13,51382,0,0.0%
+,New Mexico,35,15-24 years,15-24,Black or African American,2054-5,Male,M,31,102222,30.3,0.0%
+,New Mexico,35,15-24 years,15-24,White,2106-3,Female,F,146,2152465,6.8,0.0%
+,New Mexico,35,15-24 years,15-24,White,2106-3,Male,M,785,2289224,34.3,0.1%
+,New Mexico,35,25-34 years,25-34,American Indian or Alaska Native,1002-5,Female,F,36,296014,12.2,0.0%
+,New Mexico,35,25-34 years,25-34,American Indian or Alaska Native,1002-5,Male,M,177,292828,60.4,0.0%
+,New Mexico,35,25-34 years,25-34,Black or African American,2054-5,Male,M,23,85083,27,0.0%
+,New Mexico,35,25-34 years,25-34,White,2106-3,Female,F,179,1978148,9,0.0%
+,New Mexico,35,25-34 years,25-34,White,2106-3,Male,M,850,2044242,41.6,0.1%
+,New Mexico,35,35-44 years,35-44,American Indian or Alaska Native,1002-5,Female,F,18,270905,0,0.0%
+,New Mexico,35,35-44 years,35-44,American Indian or Alaska Native,1002-5,Male,M,127,253281,50.1,0.0%
+,New Mexico,35,35-44 years,35-44,Black or African American,2054-5,Male,M,11,71840,0,0.0%
+,New Mexico,35,35-44 years,35-44,White,2106-3,Female,F,289,2075671,13.9,0.0%
+,New Mexico,35,35-44 years,35-44,White,2106-3,Male,M,860,2052591,41.9,0.1%
+,New Mexico,35,45-54 years,45-54,American Indian or Alaska Native,1002-5,Female,F,16,246330,0,0.0%
+,New Mexico,35,45-54 years,45-54,American Indian or Alaska Native,1002-5,Male,M,74,218432,33.9,0.0%
+,New Mexico,35,45-54 years,45-54,Black or African American,2054-5,Male,M,11,64282,0,0.0%
+,New Mexico,35,45-54 years,45-54,White,2106-3,Female,F,378,2267228,16.7,0.1%
+,New Mexico,35,45-54 years,45-54,White,2106-3,Male,M,932,2179879,42.8,0.1%
+,New Mexico,35,55-64 years,55-64,American Indian or Alaska Native,1002-5,Male,M,18,146616,0,0.0%
+,New Mexico,35,55-64 years,55-64,White,2106-3,Female,F,261,2003110,13,0.0%
+,New Mexico,35,55-64 years,55-64,White,2106-3,Male,M,701,1864063,37.6,0.1%
+,New Mexico,35,65-74 years,65-74,American Indian or Alaska Native,1002-5,Male,M,12,77481,0,0.0%
+,New Mexico,35,65-74 years,65-74,White,2106-3,Female,F,118,1375064,8.6,0.0%
+,New Mexico,35,65-74 years,65-74,White,2106-3,Male,M,486,1248396,38.9,0.1%
+,New Mexico,35,75-84 years,75-84,White,2106-3,Female,F,46,827647,5.6,0.0%
+,New Mexico,35,75-84 years,75-84,White,2106-3,Male,M,370,658697,56.2,0.1%
+,New Mexico,35,85+ years,85+,White,2106-3,Female,F,23,347756,6.6,0.0%
+,New Mexico,35,85+ years,85+,White,2106-3,Male,M,161,192311,83.7,0.0%
+,New York,36,5-14 years,5-14,Black or African American,2054-5,Female,F,12,5000163,0,0.0%
+,New York,36,5-14 years,5-14,Black or African American,2054-5,Male,M,22,5151795,0.4,0.0%
+,New York,36,5-14 years,5-14,White,2106-3,Female,F,57,15880926,0.4,0.0%
+,New York,36,5-14 years,5-14,White,2106-3,Male,M,101,16704149,0.6,0.0%
+,New York,36,15-24 years,15-24,American Indian or Alaska Native,1002-5,Male,M,11,318174,0,0.0%
+,New York,36,15-24 years,15-24,Asian or Pacific Islander,A-PI,Female,F,67,2062016,3.2,0.0%
+,New York,36,15-24 years,15-24,Asian or Pacific Islander,A-PI,Male,M,120,2052582,5.8,0.0%
+,New York,36,15-24 years,15-24,Black or African American,2054-5,Female,F,108,5376959,2,0.0%
+,New York,36,15-24 years,15-24,Black or African American,2054-5,Male,M,394,5352495,7.4,0.1%
+,New York,36,15-24 years,15-24,White,2106-3,Female,F,504,17248408,2.9,0.1%
+,New York,36,15-24 years,15-24,White,2106-3,Male,M,2142,18043179,11.9,0.3%
+,New York,36,25-34 years,25-34,American Indian or Alaska Native,1002-5,Male,M,12,300902,0,0.0%
+,New York,36,25-34 years,25-34,Asian or Pacific Islander,A-PI,Female,F,118,2771903,4.3,0.0%
+,New York,36,25-34 years,25-34,Asian or Pacific Islander,A-PI,Male,M,170,2486371,6.8,0.0%
+,New York,36,25-34 years,25-34,Black or African American,2054-5,Female,F,122,5205156,2.3,0.0%
+,New York,36,25-34 years,25-34,Black or African American,2054-5,Male,M,480,4566828,10.5,0.1%
+,New York,36,25-34 years,25-34,White,2106-3,Female,F,627,17884922,3.5,0.1%
+,New York,36,25-34 years,25-34,White,2106-3,Male,M,2624,18163822,14.4,0.4%
+,New York,36,35-44 years,35-44,American Indian or Alaska Native,1002-5,Male,M,10,263960,0,0.0%
+,New York,36,35-44 years,35-44,Asian or Pacific Islander,A-PI,Female,F,88,2406023,3.7,0.0%
+,New York,36,35-44 years,35-44,Asian or Pacific Islander,A-PI,Male,M,149,2202524,6.8,0.0%
+,New York,36,35-44 years,35-44,Black or African American,2054-5,Female,F,122,5226237,2.3,0.0%
+,New York,36,35-44 years,35-44,Black or African American,2054-5,Male,M,402,4352945,9.2,0.1%
+,New York,36,35-44 years,35-44,White,2106-3,Female,F,817,18756709,4.4,0.1%
+,New York,36,35-44 years,35-44,White,2106-3,Male,M,3320,18844249,17.6,0.5%
+,New York,36,45-54 years,45-54,Asian or Pacific Islander,A-PI,Female,F,90,2064272,4.4,0.0%
+,New York,36,45-54 years,45-54,Asian or Pacific Islander,A-PI,Male,M,154,1924354,8,0.0%
+,New York,36,45-54 years,45-54,Black or African American,2054-5,Female,F,101,4915775,2.1,0.0%
+,New York,36,45-54 years,45-54,Black or African American,2054-5,Male,M,344,4014111,8.6,0.0%
+,New York,36,45-54 years,45-54,White,2106-3,Female,F,1170,19669055,5.9,0.2%
+,New York,36,45-54 years,45-54,White,2106-3,Male,M,3951,19106306,20.7,0.6%
+,New York,36,55-64 years,55-64,Asian or Pacific Islander,A-PI,Female,F,52,1473625,3.5,0.0%
+,New York,36,55-64 years,55-64,Asian or Pacific Islander,A-PI,Male,M,126,1359643,9.3,0.0%
+,New York,36,55-64 years,55-64,Black or African American,2054-5,Female,F,62,3671255,1.7,0.0%
+,New York,36,55-64 years,55-64,Black or African American,2054-5,Male,M,172,2774784,6.2,0.0%
+,New York,36,55-64 years,55-64,White,2106-3,Female,F,875,16418376,5.3,0.1%
+,New York,36,55-64 years,55-64,White,2106-3,Male,M,2916,15203544,19.2,0.4%
+,New York,36,65-74 years,65-74,Asian or Pacific Islander,A-PI,Female,F,46,833698,5.5,0.0%
+,New York,36,65-74 years,65-74,Asian or Pacific Islander,A-PI,Male,M,84,735790,11.4,0.0%
+,New York,36,65-74 years,65-74,Black or African American,2054-5,Female,F,16,2304883,0,0.0%
+,New York,36,65-74 years,65-74,Black or African American,2054-5,Male,M,79,1538049,5.1,0.0%
+,New York,36,65-74 years,65-74,White,2106-3,Female,F,433,11408616,3.8,0.1%
+,New York,36,65-74 years,65-74,White,2106-3,Male,M,1638,9581203,17.1,0.2%
+,New York,36,75-84 years,75-84,Asian or Pacific Islander,A-PI,Female,F,34,411877,8.3,0.0%
+,New York,36,75-84 years,75-84,Asian or Pacific Islander,A-PI,Male,M,48,320510,15,0.0%
+,New York,36,75-84 years,75-84,Black or African American,2054-5,Male,M,47,687132,6.8,0.0%
+,New York,36,75-84 years,75-84,White,2106-3,Female,F,273,8268856,3.3,0.0%
+,New York,36,75-84 years,75-84,White,2106-3,Male,M,1187,5651127,21,0.2%
+,New York,36,85+ years,85+,Asian or Pacific Islander,A-PI,Female,F,21,144540,14.5,0.0%
+,New York,36,85+ years,85+,Asian or Pacific Islander,A-PI,Male,M,20,87128,23,0.0%
+,New York,36,85+ years,85+,Black or African American,2054-5,Male,M,14,191013,0,0.0%
+,New York,36,85+ years,85+,White,2106-3,Female,F,122,4225077,2.9,0.0%
+,New York,36,85+ years,85+,White,2106-3,Male,M,489,1922959,25.4,0.1%
+,North Carolina,37,5-14 years,5-14,Black or African American,2054-5,Male,M,36,3149625,1.1,0.0%
+,North Carolina,37,5-14 years,5-14,White,2106-3,Female,F,34,7718328,0.4,0.0%
+,North Carolina,37,5-14 years,5-14,White,2106-3,Male,M,99,8132209,1.2,0.0%
+,North Carolina,37,15-24 years,15-24,American Indian or Alaska Native,1002-5,Male,M,41,227226,18,0.0%
+,North Carolina,37,15-24 years,15-24,Asian or Pacific Islander,A-PI,Female,F,10,315545,0,0.0%
+,North Carolina,37,15-24 years,15-24,Asian or Pacific Islander,A-PI,Male,M,39,330660,11.8,0.0%
+,North Carolina,37,15-24 years,15-24,Black or African American,2054-5,Female,F,76,3190813,2.4,0.0%
+,North Carolina,37,15-24 years,15-24,Black or African American,2054-5,Male,M,383,3174475,12.1,0.1%
+,North Carolina,37,15-24 years,15-24,White,2106-3,Female,F,343,7954067,4.3,0.0%
+,North Carolina,37,15-24 years,15-24,White,2106-3,Male,M,1698,8661333,19.6,0.2%
+,North Carolina,37,25-34 years,25-34,American Indian or Alaska Native,1002-5,Male,M,39,206551,18.9,0.0%
+,North Carolina,37,25-34 years,25-34,Asian or Pacific Islander,A-PI,Female,F,19,426878,0,0.0%
+,North Carolina,37,25-34 years,25-34,Asian or Pacific Islander,A-PI,Male,M,39,399942,9.8,0.0%
+,North Carolina,37,25-34 years,25-34,Black or African American,2054-5,Female,F,77,2886543,2.7,0.0%
+,North Carolina,37,25-34 years,25-34,Black or African American,2054-5,Male,M,403,2515998,16,0.1%
+,North Carolina,37,25-34 years,25-34,White,2106-3,Female,F,573,8361016,6.9,0.1%
+,North Carolina,37,25-34 years,25-34,White,2106-3,Male,M,2211,8629828,25.6,0.3%
+,North Carolina,37,35-44 years,35-44,American Indian or Alaska Native,1002-5,Female,F,11,198843,0,0.0%
+,North Carolina,37,35-44 years,35-44,American Indian or Alaska Native,1002-5,Male,M,38,197603,19.2,0.0%
+,North Carolina,37,35-44 years,35-44,Asian or Pacific Islander,A-PI,Female,F,12,381094,0,0.0%
+,North Carolina,37,35-44 years,35-44,Asian or Pacific Islander,A-PI,Male,M,31,349487,8.9,0.0%
+,North Carolina,37,35-44 years,35-44,Black or African American,2054-5,Female,F,86,2989440,2.9,0.0%
+,North Carolina,37,35-44 years,35-44,Black or African American,2054-5,Male,M,329,2527991,13,0.0%
+,North Carolina,37,35-44 years,35-44,White,2106-3,Female,F,994,9041078,11,0.1%
+,North Carolina,37,35-44 years,35-44,White,2106-3,Male,M,2702,9165767,29.5,0.4%
+,North Carolina,37,45-54 years,45-54,American Indian or Alaska Native,1002-5,Female,F,10,171331,0,0.0%
+,North Carolina,37,45-54 years,45-54,American Indian or Alaska Native,1002-5,Male,M,29,164104,17.7,0.0%
+,North Carolina,37,45-54 years,45-54,Asian or Pacific Islander,A-PI,Female,F,17,264223,0,0.0%
+,North Carolina,37,45-54 years,45-54,Asian or Pacific Islander,A-PI,Male,M,15,233400,0,0.0%
+,North Carolina,37,45-54 years,45-54,Black or African American,2054-5,Female,F,57,2839964,2,0.0%
+,North Carolina,37,45-54 years,45-54,Black or African American,2054-5,Male,M,219,2411903,9.1,0.0%
+,North Carolina,37,45-54 years,45-54,White,2106-3,Female,F,1228,9214949,13.3,0.2%
+,North Carolina,37,45-54 years,45-54,White,2106-3,Male,M,3003,9020702,33.3,0.4%
+,North Carolina,37,55-64 years,55-64,American Indian or Alaska Native,1002-5,Male,M,11,114880,0,0.0%
+,North Carolina,37,55-64 years,55-64,Asian or Pacific Islander,A-PI,Male,M,18,134537,0,0.0%
+,North Carolina,37,55-64 years,55-64,Black or African American,2054-5,Female,F,38,2094046,1.8,0.0%
+,North Carolina,37,55-64 years,55-64,Black or African American,2054-5,Male,M,124,1718115,7.2,0.0%
+,North Carolina,37,55-64 years,55-64,White,2106-3,Female,F,832,7980660,10.4,0.1%
+,North Carolina,37,55-64 years,55-64,White,2106-3,Male,M,2250,7418843,30.3,0.3%
+,North Carolina,37,65-74 years,65-74,Black or African American,2054-5,Female,F,12,1266861,0,0.0%
+,North Carolina,37,65-74 years,65-74,Black or African American,2054-5,Male,M,86,922521,9.3,0.0%
+,North Carolina,37,65-74 years,65-74,White,2106-3,Female,F,357,5702460,6.3,0.1%
+,North Carolina,37,65-74 years,65-74,White,2106-3,Male,M,1535,4948711,31,0.2%
+,North Carolina,37,75-84 years,75-84,Black or African American,2054-5,Male,M,29,398169,7.3,0.0%
+,North Carolina,37,75-84 years,75-84,White,2106-3,Female,F,156,3574203,4.4,0.0%
+,North Carolina,37,75-84 years,75-84,White,2106-3,Male,M,1045,2504206,41.7,0.1%
+,North Carolina,37,85+ years,85+,Black or African American,2054-5,Male,M,11,104443,0,0.0%
+,North Carolina,37,85+ years,85+,White,2106-3,Female,F,58,1532328,3.8,0.0%
+,North Carolina,37,85+ years,85+,White,2106-3,Male,M,394,674476,58.4,0.1%
+,North Dakota,38,15-24 years,15-24,American Indian or Alaska Native,1002-5,Female,F,17,69510,0,0.0%
+,North Dakota,38,15-24 years,15-24,American Indian or Alaska Native,1002-5,Male,M,71,70579,100.6,0.0%
+,North Dakota,38,15-24 years,15-24,White,2106-3,Female,F,38,889338,4.3,0.0%
+,North Dakota,38,15-24 years,15-24,White,2106-3,Male,M,270,995936,27.1,0.0%
+,North Dakota,38,25-34 years,25-34,American Indian or Alaska Native,1002-5,Female,F,11,51615,0,0.0%
+,North Dakota,38,25-34 years,25-34,American Indian or Alaska Native,1002-5,Male,M,33,51343,64.3,0.0%
+,North Dakota,38,25-34 years,25-34,White,2106-3,Female,F,55,706325,7.8,0.0%
+,North Dakota,38,25-34 years,25-34,White,2106-3,Male,M,267,799304,33.4,0.0%
+,North Dakota,38,35-44 years,35-44,American Indian or Alaska Native,1002-5,Male,M,24,42815,56.1,0.0%
+,North Dakota,38,35-44 years,35-44,White,2106-3,Female,F,48,711072,6.8,0.0%
+,North Dakota,38,35-44 years,35-44,White,2106-3,Male,M,236,754925,31.3,0.0%
+,North Dakota,38,45-54 years,45-54,American Indian or Alaska Native,1002-5,Male,M,18,34924,0,0.0%
+,North Dakota,38,45-54 years,45-54,White,2106-3,Female,F,62,803432,7.7,0.0%
+,North Dakota,38,45-54 years,45-54,White,2106-3,Male,M,260,839230,31,0.0%
+,North Dakota,38,55-64 years,55-64,White,2106-3,Female,F,35,666568,5.3,0.0%
+,North Dakota,38,55-64 years,55-64,White,2106-3,Male,M,187,691433,27,0.0%
+,North Dakota,38,65-74 years,65-74,White,2106-3,Female,F,12,464791,0,0.0%
+,North Dakota,38,65-74 years,65-74,White,2106-3,Male,M,81,428614,18.9,0.0%
+,North Dakota,38,75-84 years,75-84,White,2106-3,Male,M,75,267384,28,0.0%
+,North Dakota,38,85+ years,85+,White,2106-3,Male,M,31,100267,30.9,0.0%
+,Ohio,39,5-14 years,5-14,Black or African American,2054-5,Female,F,13,2414311,0,0.0%
+,Ohio,39,5-14 years,5-14,Black or African American,2054-5,Male,M,41,2491821,1.6,0.0%
+,Ohio,39,5-14 years,5-14,White,2106-3,Female,F,55,11616920,0.5,0.0%
+,Ohio,39,5-14 years,5-14,White,2106-3,Male,M,147,12213953,1.2,0.0%
+,Ohio,39,15-24 years,15-24,Asian or Pacific Islander,A-PI,Female,F,13,304101,0,0.0%
+,Ohio,39,15-24 years,15-24,Asian or Pacific Islander,A-PI,Male,M,40,308239,13,0.0%
+,Ohio,39,15-24 years,15-24,Black or African American,2054-5,Female,F,86,2288328,3.8,0.0%
+,Ohio,39,15-24 years,15-24,Black or African American,2054-5,Male,M,349,2313189,15.1,0.1%
+,Ohio,39,15-24 years,15-24,White,2106-3,Female,F,478,12081929,4,0.1%
+,Ohio,39,15-24 years,15-24,White,2106-3,Male,M,2347,12505565,18.8,0.3%
+,Ohio,39,25-34 years,25-34,Asian or Pacific Islander,A-PI,Male,M,46,397362,11.6,0.0%
+,Ohio,39,25-34 years,25-34,Black or African American,2054-5,Female,F,59,1988303,3,0.0%
+,Ohio,39,25-34 years,25-34,Black or African American,2054-5,Male,M,382,1788307,21.4,0.1%
+,Ohio,39,25-34 years,25-34,White,2106-3,Female,F,650,11438769,5.7,0.1%
+,Ohio,39,25-34 years,25-34,White,2106-3,Male,M,3057,11580796,26.4,0.4%
+,Ohio,39,35-44 years,35-44,Asian or Pacific Islander,A-PI,Male,M,18,319379,0,0.0%
+,Ohio,39,35-44 years,35-44,Black or African American,2054-5,Female,F,77,1929831,4,0.0%
+,Ohio,39,35-44 years,35-44,Black or African American,2054-5,Male,M,268,1725471,15.5,0.0%
+,Ohio,39,35-44 years,35-44,White,2106-3,Female,F,1012,12696469,8,0.1%
+,Ohio,39,35-44 years,35-44,White,2106-3,Male,M,3495,12641030,27.6,0.5%
+,Ohio,39,45-54 years,45-54,Asian or Pacific Islander,A-PI,Female,F,11,250946,0,0.0%
+,Ohio,39,45-54 years,45-54,Asian or Pacific Islander,A-PI,Male,M,19,218195,0,0.0%
+,Ohio,39,45-54 years,45-54,Black or African American,2054-5,Female,F,59,1872301,3.2,0.0%
+,Ohio,39,45-54 years,45-54,Black or African American,2054-5,Male,M,213,1650259,12.9,0.0%
+,Ohio,39,45-54 years,45-54,White,2106-3,Female,F,1220,13822780,8.8,0.2%
+,Ohio,39,45-54 years,45-54,White,2106-3,Male,M,3874,13533475,28.6,0.6%
+,Ohio,39,55-64 years,55-64,Asian or Pacific Islander,A-PI,Male,M,24,145664,16.5,0.0%
+,Ohio,39,55-64 years,55-64,Black or African American,2054-5,Female,F,34,1400992,2.4,0.0%
+,Ohio,39,55-64 years,55-64,Black or African American,2054-5,Male,M,120,1165864,10.3,0.0%
+,Ohio,39,55-64 years,55-64,White,2106-3,Female,F,812,11568388,7,0.1%
+,Ohio,39,55-64 years,55-64,White,2106-3,Male,M,2795,10947005,25.5,0.4%
+,Ohio,39,65-74 years,65-74,Asian or Pacific Islander,A-PI,Male,M,14,79918,0,0.0%
+,Ohio,39,65-74 years,65-74,Black or African American,2054-5,Female,F,15,880895,0,0.0%
+,Ohio,39,65-74 years,65-74,Black or African American,2054-5,Male,M,69,652346,10.6,0.0%
+,Ohio,39,65-74 years,65-74,White,2106-3,Female,F,351,7967753,4.4,0.1%
+,Ohio,39,65-74 years,65-74,White,2106-3,Male,M,1629,6830170,23.9,0.2%
+,Ohio,39,75-84 years,75-84,Black or African American,2054-5,Male,M,44,326737,13.5,0.0%
+,Ohio,39,75-84 years,75-84,White,2106-3,Female,F,166,5624796,3,0.0%
+,Ohio,39,75-84 years,75-84,White,2106-3,Male,M,1398,3863643,36.2,0.2%
+,Ohio,39,85+ years,85+,Black or African American,2054-5,Male,M,14,86873,0,0.0%
+,Ohio,39,85+ years,85+,White,2106-3,Female,F,69,2621813,2.6,0.0%
+,Ohio,39,85+ years,85+,White,2106-3,Male,M,547,1181220,46.3,0.1%
+,Oklahoma,40,5-14 years,5-14,Black or African American,2054-5,Male,M,10,546045,0,0.0%
+,Oklahoma,40,5-14 years,5-14,White,2106-3,Female,F,21,3421232,0.6,0.0%
+,Oklahoma,40,5-14 years,5-14,White,2106-3,Male,M,71,3603942,2,0.0%
+,Oklahoma,40,15-24 years,15-24,American Indian or Alaska Native,1002-5,Female,F,39,606481,6.4,0.0%
+,Oklahoma,40,15-24 years,15-24,American Indian or Alaska Native,1002-5,Male,M,187,629879,29.7,0.0%
+,Oklahoma,40,15-24 years,15-24,Asian or Pacific Islander,A-PI,Male,M,19,141969,0,0.0%
+,Oklahoma,40,15-24 years,15-24,Black or African American,2054-5,Female,F,17,519521,0,0.0%
+,Oklahoma,40,15-24 years,15-24,Black or African American,2054-5,Male,M,103,558100,18.5,0.0%
+,Oklahoma,40,15-24 years,15-24,White,2106-3,Female,F,213,3674267,5.8,0.0%
+,Oklahoma,40,15-24 years,15-24,White,2106-3,Male,M,979,3927649,24.9,0.1%
+,Oklahoma,40,25-34 years,25-34,American Indian or Alaska Native,1002-5,Female,F,41,479285,8.6,0.0%
+,Oklahoma,40,25-34 years,25-34,American Indian or Alaska Native,1002-5,Male,M,188,477141,39.4,0.0%
+,Oklahoma,40,25-34 years,25-34,Asian or Pacific Islander,A-PI,Female,F,10,138274,0,0.0%
+,Oklahoma,40,25-34 years,25-34,Asian or Pacific Islander,A-PI,Male,M,19,135498,0,0.0%
+,Oklahoma,40,25-34 years,25-34,Black or African American,2054-5,Female,F,22,419709,5.2,0.0%
+,Oklahoma,40,25-34 years,25-34,Black or African American,2054-5,Male,M,108,431621,25,0.0%
+,Oklahoma,40,25-34 years,25-34,White,2106-3,Female,F,321,3538828,9.1,0.0%
+,Oklahoma,40,25-34 years,25-34,White,2106-3,Male,M,1347,3685139,36.6,0.2%
+,Oklahoma,40,35-44 years,35-44,American Indian or Alaska Native,1002-5,Female,F,42,442229,9.5,0.0%
+,Oklahoma,40,35-44 years,35-44,American Indian or Alaska Native,1002-5,Male,M,142,428617,33.1,0.0%
+,Oklahoma,40,35-44 years,35-44,Asian or Pacific Islander,A-PI,Male,M,14,103790,0,0.0%
+,Oklahoma,40,35-44 years,35-44,Black or African American,2054-5,Female,F,13,377331,0,0.0%
+,Oklahoma,40,35-44 years,35-44,Black or African American,2054-5,Male,M,76,375744,20.2,0.0%
+,Oklahoma,40,35-44 years,35-44,White,2106-3,Female,F,431,3627601,11.9,0.1%
+,Oklahoma,40,35-44 years,35-44,White,2106-3,Male,M,1481,3687456,40.2,0.2%
+,Oklahoma,40,45-54 years,45-54,American Indian or Alaska Native,1002-5,Female,F,32,412090,7.8,0.0%
+,Oklahoma,40,45-54 years,45-54,American Indian or Alaska Native,1002-5,Male,M,115,382769,30,0.0%
+,Oklahoma,40,45-54 years,45-54,Asian or Pacific Islander,A-PI,Male,M,16,76288,0,0.0%
+,Oklahoma,40,45-54 years,45-54,Black or African American,2054-5,Male,M,42,338412,12.4,0.0%
+,Oklahoma,40,45-54 years,45-54,White,2106-3,Female,F,552,3878266,14.2,0.1%
+,Oklahoma,40,45-54 years,45-54,White,2106-3,Male,M,1485,3831816,38.8,0.2%
+,Oklahoma,40,55-64 years,55-64,American Indian or Alaska Native,1002-5,Female,F,15,305554,0,0.0%
+,Oklahoma,40,55-64 years,55-64,American Indian or Alaska Native,1002-5,Male,M,53,274257,19.3,0.0%
+,Oklahoma,40,55-64 years,55-64,Black or African American,2054-5,Male,M,20,229276,8.7,0.0%
+,Oklahoma,40,55-64 years,55-64,White,2106-3,Female,F,326,3407207,9.6,0.0%
+,Oklahoma,40,55-64 years,55-64,White,2106-3,Male,M,1105,3217201,34.3,0.2%
+,Oklahoma,40,65-74 years,65-74,American Indian or Alaska Native,1002-5,Male,M,30,150948,19.9,0.0%
+,Oklahoma,40,65-74 years,65-74,White,2106-3,Female,F,136,2479471,5.5,0.0%
+,Oklahoma,40,65-74 years,65-74,White,2106-3,Male,M,688,2169235,31.7,0.1%
+,Oklahoma,40,75-84 years,75-84,American Indian or Alaska Native,1002-5,Male,M,12,61881,0,0.0%
+,Oklahoma,40,75-84 years,75-84,Black or African American,2054-5,Male,M,12,51413,0,0.0%
+,Oklahoma,40,75-84 years,75-84,White,2106-3,Female,F,69,1636163,4.2,0.0%
+,Oklahoma,40,75-84 years,75-84,White,2106-3,Male,M,538,1190573,45.2,0.1%
+,Oklahoma,40,85+ years,85+,White,2106-3,Female,F,22,723753,3,0.0%
+,Oklahoma,40,85+ years,85+,White,2106-3,Male,M,189,344379,54.9,0.0%
+,Oregon,41,5-14 years,5-14,White,2106-3,Female,F,28,3928556,0.7,0.0%
+,Oregon,41,5-14 years,5-14,White,2106-3,Male,M,47,4131012,1.1,0.0%
+,Oregon,41,15-24 years,15-24,American Indian or Alaska Native,1002-5,Male,M,29,129420,22.4,0.0%
+,Oregon,41,15-24 years,15-24,Asian or Pacific Islander,A-PI,Female,F,13,264736,0,0.0%
+,Oregon,41,15-24 years,15-24,Asian or Pacific Islander,A-PI,Male,M,39,263133,14.8,0.0%
+,Oregon,41,15-24 years,15-24,Black or African American,2054-5,Male,M,24,161028,14.9,0.0%
+,Oregon,41,15-24 years,15-24,White,2106-3,Female,F,208,4146756,5,0.0%
+,Oregon,41,15-24 years,15-24,White,2106-3,Male,M,980,4328933,22.6,0.1%
+,Oregon,41,25-34 years,25-34,American Indian or Alaska Native,1002-5,Male,M,31,110729,28,0.0%
+,Oregon,41,25-34 years,25-34,Asian or Pacific Islander,A-PI,Female,F,13,307050,0,0.0%
+,Oregon,41,25-34 years,25-34,Asian or Pacific Islander,A-PI,Male,M,48,274258,17.5,0.0%
+,Oregon,41,25-34 years,25-34,Black or African American,2054-5,Female,F,10,118735,0,0.0%
+,Oregon,41,25-34 years,25-34,Black or African American,2054-5,Male,M,19,144168,0,0.0%
+,Oregon,41,25-34 years,25-34,White,2106-3,Female,F,274,4251859,6.4,0.0%
+,Oregon,41,25-34 years,25-34,White,2106-3,Male,M,1259,4426275,28.4,0.2%
+,Oregon,41,35-44 years,35-44,American Indian or Alaska Native,1002-5,Female,F,11,98622,0,0.0%
+,Oregon,41,35-44 years,35-44,American Indian or Alaska Native,1002-5,Male,M,26,101202,25.7,0.0%
+,Oregon,41,35-44 years,35-44,Asian or Pacific Islander,A-PI,Female,F,16,288783,0,0.0%
+,Oregon,41,35-44 years,35-44,Asian or Pacific Islander,A-PI,Male,M,30,243673,12.3,0.0%
+,Oregon,41,35-44 years,35-44,Black or African American,2054-5,Male,M,19,128376,0,0.0%
+,Oregon,41,35-44 years,35-44,White,2106-3,Female,F,497,4343341,11.4,0.1%
+,Oregon,41,35-44 years,35-44,White,2106-3,Male,M,1503,4453364,33.7,0.2%
+,Oregon,41,45-54 years,45-54,American Indian or Alaska Native,1002-5,Female,F,11,90792,0,0.0%
+,Oregon,41,45-54 years,45-54,American Indian or Alaska Native,1002-5,Male,M,18,86831,0,0.0%
+,Oregon,41,45-54 years,45-54,Asian or Pacific Islander,A-PI,Female,F,18,226698,0,0.0%
+,Oregon,41,45-54 years,45-54,Asian or Pacific Islander,A-PI,Male,M,13,185454,0,0.0%
+,Oregon,41,45-54 years,45-54,Black or African American,2054-5,Male,M,13,106508,0,0.0%
+,Oregon,41,45-54 years,45-54,White,2106-3,Female,F,697,4673628,14.9,0.1%
+,Oregon,41,45-54 years,45-54,White,2106-3,Male,M,1794,4593035,39.1,0.3%
+,Oregon,41,55-64 years,55-64,American Indian or Alaska Native,1002-5,Male,M,14,59202,0,0.0%
+,Oregon,41,55-64 years,55-64,Asian or Pacific Islander,A-PI,Male,M,12,119278,0,0.0%
+,Oregon,41,55-64 years,55-64,Black or African American,2054-5,Male,M,14,67179,0,0.0%
+,Oregon,41,55-64 years,55-64,White,2106-3,Female,F,429,4137372,10.4,0.1%
+,Oregon,41,55-64 years,55-64,White,2106-3,Male,M,1392,3936155,35.4,0.2%
+,Oregon,41,65-74 years,65-74,White,2106-3,Female,F,200,2744177,7.3,0.0%
+,Oregon,41,65-74 years,65-74,White,2106-3,Male,M,878,2496993,35.2,0.1%
+,Oregon,41,75-84 years,75-84,White,2106-3,Female,F,124,1764671,7,0.0%
+,Oregon,41,75-84 years,75-84,White,2106-3,Male,M,745,1347893,55.3,0.1%
+,Oregon,41,85+ years,85+,White,2106-3,Female,F,50,879813,5.7,0.0%
+,Oregon,41,85+ years,85+,White,2106-3,Male,M,370,456253,81.1,0.1%
+,Pennsylvania,42,5-14 years,5-14,Black or African American,2054-5,Female,F,18,2261365,0,0.0%
+,Pennsylvania,42,5-14 years,5-14,Black or African American,2054-5,Male,M,27,2353431,1.1,0.0%
+,Pennsylvania,42,5-14 years,5-14,White,2106-3,Female,F,54,11834414,0.5,0.0%
+,Pennsylvania,42,5-14 years,5-14,White,2106-3,Male,M,140,12458365,1.1,0.0%
+,Pennsylvania,42,15-24 years,15-24,Asian or Pacific Islander,A-PI,Female,F,23,560010,4.1,0.0%
+,Pennsylvania,42,15-24 years,15-24,Asian or Pacific Islander,A-PI,Male,M,57,560983,10.2,0.0%
+,Pennsylvania,42,15-24 years,15-24,Black or African American,2054-5,Female,F,71,2311951,3.1,0.0%
+,Pennsylvania,42,15-24 years,15-24,Black or African American,2054-5,Male,M,320,2379282,13.4,0.0%
+,Pennsylvania,42,15-24 years,15-24,White,2106-3,Female,F,515,12974692,4,0.1%
+,Pennsylvania,42,15-24 years,15-24,White,2106-3,Male,M,2534,13437531,18.9,0.4%
+,Pennsylvania,42,25-34 years,25-34,Asian or Pacific Islander,A-PI,Female,F,21,663432,3.2,0.0%
+,Pennsylvania,42,25-34 years,25-34,Asian or Pacific Islander,A-PI,Male,M,68,627871,10.8,0.0%
+,Pennsylvania,42,25-34 years,25-34,Black or African American,2054-5,Female,F,71,1972986,3.6,0.0%
+,Pennsylvania,42,25-34 years,25-34,Black or African American,2054-5,Male,M,357,1852939,19.3,0.1%
+,Pennsylvania,42,25-34 years,25-34,White,2106-3,Female,F,691,11959655,5.8,0.1%
+,Pennsylvania,42,25-34 years,25-34,White,2106-3,Male,M,3109,12214226,25.5,0.4%
+,Pennsylvania,42,35-44 years,35-44,Asian or Pacific Islander,A-PI,Female,F,20,559540,3.6,0.0%
+,Pennsylvania,42,35-44 years,35-44,Asian or Pacific Islander,A-PI,Male,M,47,522261,9,0.0%
+,Pennsylvania,42,35-44 years,35-44,Black or African American,2054-5,Female,F,59,1933490,3.1,0.0%
+,Pennsylvania,42,35-44 years,35-44,Black or African American,2054-5,Male,M,275,1748615,15.7,0.0%
+,Pennsylvania,42,35-44 years,35-44,White,2106-3,Female,F,1115,13725569,8.1,0.2%
+,Pennsylvania,42,35-44 years,35-44,White,2106-3,Male,M,3969,13659279,29.1,0.6%
+,Pennsylvania,42,45-54 years,45-54,Asian or Pacific Islander,A-PI,Female,F,17,434101,0,0.0%
+,Pennsylvania,42,45-54 years,45-54,Asian or Pacific Islander,A-PI,Male,M,39,392087,9.9,0.0%
+,Pennsylvania,42,45-54 years,45-54,Black or African American,2054-5,Female,F,47,1853894,2.5,0.0%
+,Pennsylvania,42,45-54 years,45-54,Black or African American,2054-5,Male,M,215,1631158,13.2,0.0%
+,Pennsylvania,42,45-54 years,45-54,White,2106-3,Female,F,1478,15338138,9.6,0.2%
+,Pennsylvania,42,45-54 years,45-54,White,2106-3,Male,M,4855,15066909,32.2,0.7%
+,Pennsylvania,42,55-64 years,55-64,Asian or Pacific Islander,A-PI,Female,F,12,300197,0,0.0%
+,Pennsylvania,42,55-64 years,55-64,Asian or Pacific Islander,A-PI,Male,M,26,265245,9.8,0.0%
+,Pennsylvania,42,55-64 years,55-64,Black or African American,2054-5,Female,F,29,1366472,2.1,0.0%
+,Pennsylvania,42,55-64 years,55-64,Black or African American,2054-5,Male,M,114,1115683,10.2,0.0%
+,Pennsylvania,42,55-64 years,55-64,White,2106-3,Female,F,964,13039686,7.4,0.1%
+,Pennsylvania,42,55-64 years,55-64,White,2106-3,Male,M,3490,12380755,28.2,0.5%
+,Pennsylvania,42,65-74 years,65-74,Black or African American,2054-5,Female,F,16,873066,0,0.0%
+,Pennsylvania,42,65-74 years,65-74,Black or African American,2054-5,Male,M,68,609305,11.2,0.0%
+,Pennsylvania,42,65-74 years,65-74,White,2106-3,Female,F,368,9414649,3.9,0.1%
+,Pennsylvania,42,65-74 years,65-74,White,2106-3,Male,M,1951,8059144,24.2,0.3%
+,Pennsylvania,42,75-84 years,75-84,Asian or Pacific Islander,A-PI,Female,F,10,71415,0,0.0%
+,Pennsylvania,42,75-84 years,75-84,Black or African American,2054-5,Male,M,36,301650,11.9,0.0%
+,Pennsylvania,42,75-84 years,75-84,White,2106-3,Female,F,211,7207113,2.9,0.0%
+,Pennsylvania,42,75-84 years,75-84,White,2106-3,Male,M,1633,4917240,33.2,0.2%
+,Pennsylvania,42,85+ years,85+,Black or African American,2054-5,Male,M,13,82907,0,0.0%
+,Pennsylvania,42,85+ years,85+,White,2106-3,Female,F,82,3553390,2.3,0.0%
+,Pennsylvania,42,85+ years,85+,White,2106-3,Male,M,617,1590156,38.8,0.1%
+,Rhode Island,44,15-24 years,15-24,Black or African American,2054-5,Male,M,15,152372,0,0.0%
+,Rhode Island,44,15-24 years,15-24,White,2106-3,Female,F,33,1240667,2.7,0.0%
+,Rhode Island,44,15-24 years,15-24,White,2106-3,Male,M,150,1260343,11.9,0.0%
+,Rhode Island,44,25-34 years,25-34,Black or African American,2054-5,Male,M,15,116380,0,0.0%
+,Rhode Island,44,25-34 years,25-34,White,2106-3,Female,F,45,1089010,4.1,0.0%
+,Rhode Island,44,25-34 years,25-34,White,2106-3,Male,M,208,1079954,19.3,0.0%
+,Rhode Island,44,35-44 years,35-44,Black or African American,2054-5,Male,M,15,103674,0,0.0%
+,Rhode Island,44,35-44 years,35-44,White,2106-3,Female,F,84,1252122,6.7,0.0%
+,Rhode Island,44,35-44 years,35-44,White,2106-3,Male,M,297,1202149,24.7,0.0%
+,Rhode Island,44,45-54 years,45-54,White,2106-3,Female,F,120,1364260,8.8,0.0%
+,Rhode Island,44,45-54 years,45-54,White,2106-3,Male,M,358,1282117,27.9,0.1%
+,Rhode Island,44,55-64 years,55-64,White,2106-3,Female,F,72,1107424,6.5,0.0%
+,Rhode Island,44,55-64 years,55-64,White,2106-3,Male,M,235,1024322,22.9,0.0%
+,Rhode Island,44,65-74 years,65-74,White,2106-3,Female,F,26,751153,3.5,0.0%
+,Rhode Island,44,65-74 years,65-74,White,2106-3,Male,M,87,630925,13.8,0.0%
+,Rhode Island,44,75-84 years,75-84,White,2106-3,Female,F,15,587529,0,0.0%
+,Rhode Island,44,75-84 years,75-84,White,2106-3,Male,M,63,386535,16.3,0.0%
+,Rhode Island,44,85+ years,85+,White,2106-3,Male,M,34,136780,24.9,0.0%
+,South Carolina,45,5-14 years,5-14,White,2106-3,Female,F,21,3436361,0.6,0.0%
+,South Carolina,45,5-14 years,5-14,White,2106-3,Male,M,59,3609248,1.6,0.0%
+,South Carolina,45,15-24 years,15-24,Asian or Pacific Islander,A-PI,Male,M,17,104940,0,0.0%
+,South Carolina,45,15-24 years,15-24,Black or African American,2054-5,Female,F,25,2071481,1.2,0.0%
+,South Carolina,45,15-24 years,15-24,Black or African American,2054-5,Male,M,244,2040389,12,0.0%
+,South Carolina,45,15-24 years,15-24,White,2106-3,Female,F,161,3694939,4.4,0.0%
+,South Carolina,45,15-24 years,15-24,White,2106-3,Male,M,877,3976330,22.1,0.1%
+,South Carolina,45,25-34 years,25-34,Asian or Pacific Islander,A-PI,Male,M,20,108247,18.5,0.0%
+,South Carolina,45,25-34 years,25-34,Black or African American,2054-5,Female,F,27,1764452,1.5,0.0%
+,South Carolina,45,25-34 years,25-34,Black or African American,2054-5,Male,M,256,1561902,16.4,0.0%
+,South Carolina,45,25-34 years,25-34,White,2106-3,Female,F,307,3733005,8.2,0.0%
+,South Carolina,45,25-34 years,25-34,White,2106-3,Male,M,1138,3848830,29.6,0.2%
+,South Carolina,45,35-44 years,35-44,Asian or Pacific Islander,A-PI,Male,M,17,97828,0,0.0%
+,South Carolina,45,35-44 years,35-44,Black or African American,2054-5,Female,F,30,1778225,1.7,0.0%
+,South Carolina,45,35-44 years,35-44,Black or African American,2054-5,Male,M,190,1501001,12.7,0.0%
+,South Carolina,45,35-44 years,35-44,White,2106-3,Female,F,431,3973116,10.8,0.1%
+,South Carolina,45,35-44 years,35-44,White,2106-3,Male,M,1342,4032440,33.3,0.2%
+,South Carolina,45,45-54 years,45-54,Black or African American,2054-5,Female,F,45,1781731,2.5,0.0%
+,South Carolina,45,45-54 years,45-54,Black or African American,2054-5,Male,M,144,1496778,9.6,0.0%
+,South Carolina,45,45-54 years,45-54,White,2106-3,Female,F,631,4217146,15,0.1%
+,South Carolina,45,45-54 years,45-54,White,2106-3,Male,M,1529,4111318,37.2,0.2%
+,South Carolina,45,55-64 years,55-64,Black or African American,2054-5,Female,F,24,1369184,1.8,0.0%
+,South Carolina,45,55-64 years,55-64,Black or African American,2054-5,Male,M,94,1112872,8.4,0.0%
+,South Carolina,45,55-64 years,55-64,White,2106-3,Female,F,464,3870287,12,0.1%
+,South Carolina,45,55-64 years,55-64,White,2106-3,Male,M,1237,3592619,34.4,0.2%
+,South Carolina,45,65-74 years,65-74,Black or African American,2054-5,Male,M,65,614471,10.6,0.0%
+,South Carolina,45,65-74 years,65-74,White,2106-3,Female,F,191,2843569,6.7,0.0%
+,South Carolina,45,65-74 years,65-74,White,2106-3,Male,M,755,2542937,29.7,0.1%
+,South Carolina,45,75-84 years,75-84,Black or African American,2054-5,Male,M,24,261663,9.2,0.0%
+,South Carolina,45,75-84 years,75-84,White,2106-3,Female,F,83,1679307,4.9,0.0%
+,South Carolina,45,75-84 years,75-84,White,2106-3,Male,M,541,1228470,44,0.1%
+,South Carolina,45,85+ years,85+,White,2106-3,Female,F,24,684158,3.5,0.0%
+,South Carolina,45,85+ years,85+,White,2106-3,Male,M,162,306333,52.9,0.0%
+,South Dakota,46,5-14 years,5-14,American Indian or Alaska Native,1002-5,Female,F,19,158683,0,0.0%
+,South Dakota,46,5-14 years,5-14,American Indian or Alaska Native,1002-5,Male,M,14,161217,0,0.0%
+,South Dakota,46,5-14 years,5-14,White,2106-3,Male,M,20,889052,2.2,0.0%
+,South Dakota,46,15-24 years,15-24,American Indian or Alaska Native,1002-5,Female,F,64,131051,48.8,0.0%
+,South Dakota,46,15-24 years,15-24,American Indian or Alaska Native,1002-5,Male,M,149,136262,109.3,0.0%
+,South Dakota,46,15-24 years,15-24,White,2106-3,Female,F,39,913717,4.3,0.0%
+,South Dakota,46,15-24 years,15-24,White,2106-3,Male,M,280,973236,28.8,0.0%
+,South Dakota,46,25-34 years,25-34,American Indian or Alaska Native,1002-5,Female,F,26,98608,26.4,0.0%
+,South Dakota,46,25-34 years,25-34,American Indian or Alaska Native,1002-5,Male,M,94,94378,99.6,0.0%
+,South Dakota,46,25-34 years,25-34,White,2106-3,Female,F,47,795855,5.9,0.0%
+,South Dakota,46,25-34 years,25-34,White,2106-3,Male,M,245,846741,28.9,0.0%
+,South Dakota,46,35-44 years,35-44,American Indian or Alaska Native,1002-5,Female,F,16,82377,0,0.0%
+,South Dakota,46,35-44 years,35-44,American Indian or Alaska Native,1002-5,Male,M,47,79828,58.9,0.0%
+,South Dakota,46,35-44 years,35-44,White,2106-3,Female,F,68,839567,8.1,0.0%
+,South Dakota,46,35-44 years,35-44,White,2106-3,Male,M,265,867020,30.6,0.0%
+,South Dakota,46,45-54 years,45-54,American Indian or Alaska Native,1002-5,Male,M,29,65996,43.9,0.0%
+,South Dakota,46,45-54 years,45-54,White,2106-3,Female,F,81,934955,8.7,0.0%
+,South Dakota,46,45-54 years,45-54,White,2106-3,Male,M,321,957263,33.5,0.0%
+,South Dakota,46,55-64 years,55-64,White,2106-3,Female,F,47,794555,5.9,0.0%
+,South Dakota,46,55-64 years,55-64,White,2106-3,Male,M,212,806006,26.3,0.0%
+,South Dakota,46,65-74 years,65-74,White,2106-3,Female,F,18,556526,0,0.0%
+,South Dakota,46,65-74 years,65-74,White,2106-3,Male,M,131,517448,25.3,0.0%
+,South Dakota,46,75-84 years,75-84,White,2106-3,Female,F,13,416882,0,0.0%
+,South Dakota,46,75-84 years,75-84,White,2106-3,Male,M,91,315049,28.9,0.0%
+,South Dakota,46,85+ years,85+,White,2106-3,Male,M,38,110953,34.2,0.0%
+,Tennessee,47,5-14 years,5-14,Black or African American,2054-5,Male,M,13,1719330,0,0.0%
+,Tennessee,47,5-14 years,5-14,White,2106-3,Female,F,23,5747989,0.4,0.0%
+,Tennessee,47,5-14 years,5-14,White,2106-3,Male,M,61,6067490,1,0.0%
+,Tennessee,47,15-24 years,15-24,Asian or Pacific Islander,A-PI,Male,M,18,141926,0,0.0%
+,Tennessee,47,15-24 years,15-24,Black or African American,2054-5,Female,F,31,1727940,1.8,0.0%
+,Tennessee,47,15-24 years,15-24,Black or African American,2054-5,Male,M,236,1702949,13.9,0.0%
+,Tennessee,47,15-24 years,15-24,White,2106-3,Female,F,255,5989684,4.3,0.0%
+,Tennessee,47,15-24 years,15-24,White,2106-3,Male,M,1328,6238042,21.3,0.2%
+,Tennessee,47,25-34 years,25-34,Asian or Pacific Islander,A-PI,Female,F,11,187117,0,0.0%
+,Tennessee,47,25-34 years,25-34,Asian or Pacific Islander,A-PI,Male,M,25,175319,14.3,0.0%
+,Tennessee,47,25-34 years,25-34,Black or African American,2054-5,Female,F,39,1546939,2.5,0.0%
+,Tennessee,47,25-34 years,25-34,Black or African American,2054-5,Male,M,264,1379585,19.1,0.0%
+,Tennessee,47,25-34 years,25-34,White,2106-3,Female,F,498,6168766,8.1,0.1%
+,Tennessee,47,25-34 years,25-34,White,2106-3,Male,M,1917,6249483,30.7,0.3%
+,Tennessee,47,35-44 years,35-44,Asian or Pacific Islander,A-PI,Male,M,17,155022,0,0.0%
+,Tennessee,47,35-44 years,35-44,Black or African American,2054-5,Female,F,43,1500368,2.9,0.0%
+,Tennessee,47,35-44 years,35-44,Black or African American,2054-5,Male,M,176,1287007,13.7,0.0%
+,Tennessee,47,35-44 years,35-44,White,2106-3,Female,F,745,6631531,11.2,0.1%
+,Tennessee,47,35-44 years,35-44,White,2106-3,Male,M,2384,6632824,35.9,0.3%
+,Tennessee,47,45-54 years,45-54,Asian or Pacific Islander,A-PI,Male,M,10,105426,0,0.0%
+,Tennessee,47,45-54 years,45-54,Black or African American,2054-5,Female,F,33,1415523,2.3,0.0%
+,Tennessee,47,45-54 years,45-54,Black or African American,2054-5,Male,M,129,1205137,10.7,0.0%
+,Tennessee,47,45-54 years,45-54,White,2106-3,Female,F,925,6944570,13.3,0.1%
+,Tennessee,47,45-54 years,45-54,White,2106-3,Male,M,2477,6750885,36.7,0.4%
+,Tennessee,47,55-64 years,55-64,Black or African American,2054-5,Female,F,22,1010656,2.2,0.0%
+,Tennessee,47,55-64 years,55-64,Black or African American,2054-5,Male,M,65,822959,7.9,0.0%
+,Tennessee,47,55-64 years,55-64,White,2106-3,Female,F,615,6029342,10.2,0.1%
+,Tennessee,47,55-64 years,55-64,White,2106-3,Male,M,1914,5662646,33.8,0.3%
+,Tennessee,47,65-74 years,65-74,Black or African American,2054-5,Male,M,45,408892,11,0.0%
+,Tennessee,47,65-74 years,65-74,White,2106-3,Female,F,242,4277664,5.7,0.0%
+,Tennessee,47,65-74 years,65-74,White,2106-3,Male,M,1279,3751159,34.1,0.2%
+,Tennessee,47,75-84 years,75-84,Black or African American,2054-5,Male,M,20,176851,11.3,0.0%
+,Tennessee,47,75-84 years,75-84,White,2106-3,Female,F,93,2675954,3.5,0.0%
+,Tennessee,47,75-84 years,75-84,White,2106-3,Male,M,863,1848660,46.7,0.1%
+,Tennessee,47,85+ years,85+,White,2106-3,Female,F,40,1141277,3.5,0.0%
+,Tennessee,47,85+ years,85+,White,2106-3,Male,M,294,493108,59.6,0.0%
+,Texas,48,5-14 years,5-14,Black or African American,2054-5,Female,F,16,4717097,0,0.0%
+,Texas,48,5-14 years,5-14,Black or African American,2054-5,Male,M,48,4883255,1,0.0%
+,Texas,48,5-14 years,5-14,White,2106-3,Female,F,135,27587562,0.5,0.0%
+,Texas,48,5-14 years,5-14,White,2106-3,Male,M,310,28840710,1.1,0.0%
+,Texas,48,15-24 years,15-24,Asian or Pacific Islander,A-PI,Female,F,54,1317734,4.1,0.0%
+,Texas,48,15-24 years,15-24,Asian or Pacific Islander,A-PI,Male,M,150,1397207,10.7,0.0%
+,Texas,48,15-24 years,15-24,Black or African American,2054-5,Female,F,118,4690224,2.5,0.0%
+,Texas,48,15-24 years,15-24,Black or African American,2054-5,Male,M,613,4828650,12.7,0.1%
+,Texas,48,15-24 years,15-24,White,2106-3,Female,F,1129,26855139,4.2,0.2%
+,Texas,48,15-24 years,15-24,White,2106-3,Male,M,5416,28763751,18.8,0.8%
+,Texas,48,25-34 years,25-34,American Indian or Alaska Native,1002-5,Male,M,13,376209,0,0.0%
+,Texas,48,25-34 years,25-34,Asian or Pacific Islander,A-PI,Female,F,66,1838643,3.6,0.0%
+,Texas,48,25-34 years,25-34,Asian or Pacific Islander,A-PI,Male,M,151,1748019,8.6,0.0%
+,Texas,48,25-34 years,25-34,Black or African American,2054-5,Female,F,148,4530014,3.3,0.0%
+,Texas,48,25-34 years,25-34,Black or African American,2054-5,Male,M,698,4211087,16.6,0.1%
+,Texas,48,25-34 years,25-34,White,2106-3,Female,F,1583,26596482,6,0.2%
+,Texas,48,25-34 years,25-34,White,2106-3,Male,M,6364,27803548,22.9,0.9%
+,Texas,48,35-44 years,35-44,American Indian or Alaska Native,1002-5,Male,M,14,342622,0,0.0%
+,Texas,48,35-44 years,35-44,Asian or Pacific Islander,A-PI,Female,F,65,1729012,3.8,0.0%
+,Texas,48,35-44 years,35-44,Asian or Pacific Islander,A-PI,Male,M,129,1628014,7.9,0.0%
+,Texas,48,35-44 years,35-44,Black or African American,2054-5,Female,F,135,4401883,3.1,0.0%
+,Texas,48,35-44 years,35-44,Black or African American,2054-5,Male,M,512,4019718,12.7,0.1%
+,Texas,48,35-44 years,35-44,White,2106-3,Female,F,2014,26490487,7.6,0.3%
+,Texas,48,35-44 years,35-44,White,2106-3,Male,M,6742,26918837,25,1.0%
+,Texas,48,45-54 years,45-54,American Indian or Alaska Native,1002-5,Male,M,11,290891,0,0.0%
+,Texas,48,45-54 years,45-54,Asian or Pacific Islander,A-PI,Female,F,58,1316865,4.4,0.0%
+,Texas,48,45-54 years,45-54,Asian or Pacific Islander,A-PI,Male,M,101,1217900,8.3,0.0%
+,Texas,48,45-54 years,45-54,Black or African American,2054-5,Female,F,100,3907441,2.6,0.0%
+,Texas,48,45-54 years,45-54,Black or African American,2054-5,Male,M,336,3567053,9.4,0.0%
+,Texas,48,45-54 years,45-54,White,2106-3,Female,F,2495,25113407,9.9,0.4%
+,Texas,48,45-54 years,45-54,White,2106-3,Male,M,7172,24998162,28.7,1.0%
+,Texas,48,55-64 years,55-64,Asian or Pacific Islander,A-PI,Female,F,33,889242,3.7,0.0%
+,Texas,48,55-64 years,55-64,Asian or Pacific Islander,A-PI,Male,M,69,769799,9,0.0%
+,Texas,48,55-64 years,55-64,Black or African American,2054-5,Female,F,52,2659278,2,0.0%
+,Texas,48,55-64 years,55-64,Black or African American,2054-5,Male,M,154,2280310,6.8,0.0%
+,Texas,48,55-64 years,55-64,White,2106-3,Female,F,1554,19627914,7.9,0.2%
+,Texas,48,55-64 years,55-64,White,2106-3,Male,M,5162,18677006,27.6,0.7%
+,Texas,48,65-74 years,65-74,Asian or Pacific Islander,A-PI,Female,F,21,474017,4.4,0.0%
+,Texas,48,65-74 years,65-74,Asian or Pacific Islander,A-PI,Male,M,42,398577,10.5,0.0%
+,Texas,48,65-74 years,65-74,Black or African American,2054-5,Female,F,16,1477980,0,0.0%
+,Texas,48,65-74 years,65-74,Black or African American,2054-5,Male,M,93,1116718,8.3,0.0%
+,Texas,48,65-74 years,65-74,White,2106-3,Female,F,622,12888771,4.8,0.1%
+,Texas,48,65-74 years,65-74,White,2106-3,Male,M,3038,11335756,26.8,0.4%
+,Texas,48,75-84 years,75-84,Asian or Pacific Islander,A-PI,Female,F,12,196753,0,0.0%
+,Texas,48,75-84 years,75-84,Asian or Pacific Islander,A-PI,Male,M,17,148948,0,0.0%
+,Texas,48,75-84 years,75-84,Black or African American,2054-5,Male,M,52,471707,11,0.0%
+,Texas,48,75-84 years,75-84,White,2106-3,Female,F,345,7983229,4.3,0.0%
+,Texas,48,75-84 years,75-84,White,2106-3,Male,M,2271,5813628,39.1,0.3%
+,Texas,48,85+ years,85+,Black or African American,2054-5,Male,M,12,128691,0,0.0%
+,Texas,48,85+ years,85+,White,2106-3,Female,F,102,3420458,3,0.0%
+,Texas,48,85+ years,85+,White,2106-3,Male,M,979,1667471,58.7,0.1%
+,Texas,48,Not Stated,NS,White,2106-3,Male,M,12,0,0,0.0%
+,Utah,49,5-14 years,5-14,White,2106-3,Female,F,23,3871218,0.6,0.0%
+,Utah,49,5-14 years,5-14,White,2106-3,Male,M,73,4097519,1.8,0.0%
+,Utah,49,15-24 years,15-24,American Indian or Alaska Native,1002-5,Female,F,10,79326,0,0.0%
+,Utah,49,15-24 years,15-24,American Indian or Alaska Native,1002-5,Male,M,44,83145,52.9,0.0%
+,Utah,49,15-24 years,15-24,Asian or Pacific Islander,A-PI,Female,F,11,158836,0,0.0%
+,Utah,49,15-24 years,15-24,Asian or Pacific Islander,A-PI,Male,M,40,162285,24.6,0.0%
+,Utah,49,15-24 years,15-24,Black or African American,2054-5,Male,M,14,79859,0,0.0%
+,Utah,49,15-24 years,15-24,White,2106-3,Female,F,215,3999231,5.4,0.0%
+,Utah,49,15-24 years,15-24,White,2106-3,Male,M,1121,4080774,27.5,0.2%
+,Utah,49,25-34 years,25-34,American Indian or Alaska Native,1002-5,Female,F,13,62864,0,0.0%
+,Utah,49,25-34 years,25-34,American Indian or Alaska Native,1002-5,Male,M,37,67236,55,0.0%
+,Utah,49,25-34 years,25-34,Asian or Pacific Islander,A-PI,Female,F,10,157860,0,0.0%
+,Utah,49,25-34 years,25-34,Asian or Pacific Islander,A-PI,Male,M,23,155553,14.8,0.0%
+,Utah,49,25-34 years,25-34,Black or African American,2054-5,Male,M,17,66946,0,0.0%
+,Utah,49,25-34 years,25-34,White,2106-3,Female,F,314,3483898,9,0.0%
+,Utah,49,25-34 years,25-34,White,2106-3,Male,M,1307,3633722,36,0.2%
+,Utah,49,35-44 years,35-44,American Indian or Alaska Native,1002-5,Male,M,18,53905,0,0.0%
+,Utah,49,35-44 years,35-44,Black or African American,2054-5,Male,M,10,52928,0,0.0%
+,Utah,49,35-44 years,35-44,White,2106-3,Female,F,431,2922093,14.7,0.1%
+,Utah,49,35-44 years,35-44,White,2106-3,Male,M,1217,3022545,40.3,0.2%
+,Utah,49,45-54 years,45-54,Asian or Pacific Islander,A-PI,Female,F,11,94038,0,0.0%
+,Utah,49,45-54 years,45-54,Asian or Pacific Islander,A-PI,Male,M,11,81520,0,0.0%
+,Utah,49,45-54 years,45-54,White,2106-3,Female,F,388,2572743,15.1,0.1%
+,Utah,49,45-54 years,45-54,White,2106-3,Male,M,1154,2577499,44.8,0.2%
+,Utah,49,55-64 years,55-64,White,2106-3,Female,F,248,2018675,12.3,0.0%
+,Utah,49,55-64 years,55-64,White,2106-3,Male,M,745,1949111,38.2,0.1%
+,Utah,49,65-74 years,65-74,White,2106-3,Female,F,75,1309402,5.7,0.0%
+,Utah,49,65-74 years,65-74,White,2106-3,Male,M,381,1188892,32,0.1%
+,Utah,49,75-84 years,75-84,White,2106-3,Female,F,33,808838,4.1,0.0%
+,Utah,49,75-84 years,75-84,White,2106-3,Male,M,267,647537,41.2,0.0%
+,Utah,49,85+ years,85+,White,2106-3,Female,F,10,338146,0,0.0%
+,Utah,49,85+ years,85+,White,2106-3,Male,M,103,196874,52.3,0.0%
+,Vermont,50,15-24 years,15-24,White,2106-3,Female,F,35,785775,4.5,0.0%
+,Vermont,50,15-24 years,15-24,White,2106-3,Male,M,163,835177,19.5,0.0%
+,Vermont,50,25-34 years,25-34,White,2106-3,Female,F,39,645219,6,0.0%
+,Vermont,50,25-34 years,25-34,White,2106-3,Male,M,208,639959,32.5,0.0%
+,Vermont,50,35-44 years,35-44,White,2106-3,Female,F,62,790998,7.8,0.0%
+,Vermont,50,35-44 years,35-44,White,2106-3,Male,M,243,766200,31.7,0.0%
+,Vermont,50,45-54 years,45-54,White,2106-3,Female,F,94,917942,10.2,0.0%
+,Vermont,50,45-54 years,45-54,White,2106-3,Male,M,283,885881,31.9,0.0%
+,Vermont,50,55-64 years,55-64,White,2106-3,Female,F,66,766393,8.6,0.0%
+,Vermont,50,55-64 years,55-64,White,2106-3,Male,M,224,748006,29.9,0.0%
+,Vermont,50,65-74 years,65-74,White,2106-3,Female,F,27,488108,5.5,0.0%
+,Vermont,50,65-74 years,65-74,White,2106-3,Male,M,142,449384,31.6,0.0%
+,Vermont,50,75-84 years,75-84,White,2106-3,Female,F,11,313217,0,0.0%
+,Vermont,50,75-84 years,75-84,White,2106-3,Male,M,100,230095,43.5,0.0%
+,Vermont,50,85+ years,85+,White,2106-3,Male,M,46,71546,64.3,0.0%
+,Virginia,51,5-14 years,5-14,Black or African American,2054-5,Male,M,13,2352153,0,0.0%
+,Virginia,51,5-14 years,5-14,White,2106-3,Female,F,38,6505495,0.6,0.0%
+,Virginia,51,5-14 years,5-14,White,2106-3,Male,M,64,6832553,0.9,0.0%
+,Virginia,51,15-24 years,15-24,Asian or Pacific Islander,A-PI,Female,F,21,578146,3.6,0.0%
+,Virginia,51,15-24 years,15-24,Asian or Pacific Islander,A-PI,Male,M,55,597604,9.2,0.0%
+,Virginia,51,15-24 years,15-24,Black or African American,2054-5,Female,F,57,2447305,2.3,0.0%
+,Virginia,51,15-24 years,15-24,Black or African American,2054-5,Male,M,318,2480862,12.8,0.0%
+,Virginia,51,15-24 years,15-24,White,2106-3,Female,F,291,6936327,4.2,0.0%
+,Virginia,51,15-24 years,15-24,White,2106-3,Male,M,1434,7467037,19.2,0.2%
+,Virginia,51,25-34 years,25-34,Asian or Pacific Islander,A-PI,Female,F,34,825190,4.1,0.0%
+,Virginia,51,25-34 years,25-34,Asian or Pacific Islander,A-PI,Male,M,70,746659,9.4,0.0%
+,Virginia,51,25-34 years,25-34,Black or African American,2054-5,Female,F,68,2201408,3.1,0.0%
+,Virginia,51,25-34 years,25-34,Black or African American,2054-5,Male,M,394,2079384,18.9,0.1%
+,Virginia,51,25-34 years,25-34,White,2106-3,Female,F,492,7155325,6.9,0.1%
+,Virginia,51,25-34 years,25-34,White,2106-3,Male,M,1761,7452428,23.6,0.3%
+,Virginia,51,35-44 years,35-44,American Indian or Alaska Native,1002-5,Male,M,10,62683,0,0.0%
+,Virginia,51,35-44 years,35-44,Asian or Pacific Islander,A-PI,Female,F,39,805110,4.8,0.0%
+,Virginia,51,35-44 years,35-44,Asian or Pacific Islander,A-PI,Male,M,63,708051,8.9,0.0%
+,Virginia,51,35-44 years,35-44,Black or African American,2054-5,Female,F,71,2288601,3.1,0.0%
+,Virginia,51,35-44 years,35-44,Black or African American,2054-5,Male,M,272,2056424,13.2,0.0%
+,Virginia,51,35-44 years,35-44,White,2106-3,Female,F,785,7793452,10.1,0.1%
+,Virginia,51,35-44 years,35-44,White,2106-3,Male,M,2125,7862867,27,0.3%
+,Virginia,51,45-54 years,45-54,Asian or Pacific Islander,A-PI,Female,F,22,631091,3.5,0.0%
+,Virginia,51,45-54 years,45-54,Asian or Pacific Islander,A-PI,Male,M,57,526381,10.8,0.0%
+,Virginia,51,45-54 years,45-54,Black or African American,2054-5,Female,F,73,2217586,3.3,0.0%
+,Virginia,51,45-54 years,45-54,Black or African American,2054-5,Male,M,232,1965136,11.8,0.0%
+,Virginia,51,45-54 years,45-54,White,2106-3,Female,F,883,8118395,10.9,0.1%
+,Virginia,51,45-54 years,45-54,White,2106-3,Male,M,2440,7991813,30.5,0.4%
+,Virginia,51,55-64 years,55-64,Asian or Pacific Islander,A-PI,Female,F,17,425854,0,0.0%
+,Virginia,51,55-64 years,55-64,Asian or Pacific Islander,A-PI,Male,M,38,338637,11.2,0.0%
+,Virginia,51,55-64 years,55-64,Black or African American,2054-5,Female,F,24,1572149,1.5,0.0%
+,Virginia,51,55-64 years,55-64,Black or African American,2054-5,Male,M,127,1335591,9.5,0.0%
+,Virginia,51,55-64 years,55-64,White,2106-3,Female,F,603,6654044,9.1,0.1%
+,Virginia,51,55-64 years,55-64,White,2106-3,Male,M,1895,6362745,29.8,0.3%
+,Virginia,51,65-74 years,65-74,Asian or Pacific Islander,A-PI,Female,F,10,233514,0,0.0%
+,Virginia,51,65-74 years,65-74,Asian or Pacific Islander,A-PI,Male,M,16,187168,0,0.0%
+,Virginia,51,65-74 years,65-74,Black or African American,2054-5,Male,M,75,713782,10.5,0.0%
+,Virginia,51,65-74 years,65-74,White,2106-3,Female,F,268,4387327,6.1,0.0%
+,Virginia,51,65-74 years,65-74,White,2106-3,Male,M,1226,3896541,31.5,0.2%
+,Virginia,51,75-84 years,75-84,Black or African American,2054-5,Female,F,10,545810,0,0.0%
+,Virginia,51,75-84 years,75-84,Black or African American,2054-5,Male,M,44,327942,13.4,0.0%
+,Virginia,51,75-84 years,75-84,White,2106-3,Female,F,139,2783315,5,0.0%
+,Virginia,51,75-84 years,75-84,White,2106-3,Male,M,869,1979891,43.9,0.1%
+,Virginia,51,85+ years,85+,Black or African American,2054-5,Male,M,18,86827,0,0.0%
+,Virginia,51,85+ years,85+,White,2106-3,Female,F,54,1253470,4.3,0.0%
+,Virginia,51,85+ years,85+,White,2106-3,Male,M,373,572627,65.1,0.1%
+,Washington,53,5-14 years,5-14,White,2106-3,Female,F,29,6613945,0.4,0.0%
+,Washington,53,5-14 years,5-14,White,2106-3,Male,M,79,6961807,1.1,0.0%
+,Washington,53,15-24 years,15-24,American Indian or Alaska Native,1002-5,Female,F,28,225527,12.4,0.0%
+,Washington,53,15-24 years,15-24,American Indian or Alaska Native,1002-5,Male,M,89,238934,37.2,0.0%
+,Washington,53,15-24 years,15-24,Asian or Pacific Islander,A-PI,Female,F,32,791390,4,0.0%
+,Washington,53,15-24 years,15-24,Asian or Pacific Islander,A-PI,Male,M,128,803911,15.9,0.0%
+,Washington,53,15-24 years,15-24,Black or African American,2054-5,Female,F,24,457084,5.3,0.0%
+,Washington,53,15-24 years,15-24,Black or African American,2054-5,Male,M,91,524975,17.3,0.0%
+,Washington,53,15-24 years,15-24,White,2106-3,Female,F,299,6799870,4.4,0.0%
+,Washington,53,15-24 years,15-24,White,2106-3,Male,M,1573,7279617,21.6,0.2%
+,Washington,53,25-34 years,25-34,American Indian or Alaska Native,1002-5,Female,F,26,192889,13.5,0.0%
+,Washington,53,25-34 years,25-34,American Indian or Alaska Native,1002-5,Male,M,78,200211,39,0.0%
+,Washington,53,25-34 years,25-34,Asian or Pacific Islander,A-PI,Female,F,53,978869,5.4,0.0%
+,Washington,53,25-34 years,25-34,Asian or Pacific Islander,A-PI,Male,M,126,903868,13.9,0.0%
+,Washington,53,25-34 years,25-34,Black or African American,2054-5,Female,F,16,409968,0,0.0%
+,Washington,53,25-34 years,25-34,Black or African American,2054-5,Male,M,88,489919,18,0.0%
+,Washington,53,25-34 years,25-34,White,2106-3,Female,F,456,7006440,6.5,0.1%
+,Washington,53,25-34 years,25-34,White,2106-3,Male,M,1899,7374473,25.8,0.3%
+,Washington,53,35-44 years,35-44,American Indian or Alaska Native,1002-5,Female,F,20,182165,11,0.0%
+,Washington,53,35-44 years,35-44,American Indian or Alaska Native,1002-5,Male,M,74,180165,41.1,0.0%
+,Washington,53,35-44 years,35-44,Asian or Pacific Islander,A-PI,Female,F,36,918635,3.9,0.0%
+,Washington,53,35-44 years,35-44,Asian or Pacific Islander,A-PI,Male,M,100,779377,12.8,0.0%
+,Washington,53,35-44 years,35-44,Black or African American,2054-5,Female,F,14,357489,0,0.0%
+,Washington,53,35-44 years,35-44,Black or African American,2054-5,Male,M,65,445417,14.6,0.0%
+,Washington,53,35-44 years,35-44,White,2106-3,Female,F,663,7347279,9,0.1%
+,Washington,53,35-44 years,35-44,White,2106-3,Male,M,2157,7583050,28.4,0.3%
+,Washington,53,45-54 years,45-54,American Indian or Alaska Native,1002-5,Female,F,19,164419,0,0.0%
+,Washington,53,45-54 years,45-54,American Indian or Alaska Native,1002-5,Male,M,29,157643,18.4,0.0%
+,Washington,53,45-54 years,45-54,Asian or Pacific Islander,A-PI,Female,F,52,766721,6.8,0.0%
+,Washington,53,45-54 years,45-54,Asian or Pacific Islander,A-PI,Male,M,79,613941,12.9,0.0%
+,Washington,53,45-54 years,45-54,Black or African American,2054-5,Female,F,18,291495,0,0.0%
+,Washington,53,45-54 years,45-54,Black or African American,2054-5,Male,M,58,368216,15.8,0.0%
+,Washington,53,45-54 years,45-54,White,2106-3,Female,F,920,7720225,11.9,0.1%
+,Washington,53,45-54 years,45-54,White,2106-3,Male,M,2488,7748846,32.1,0.4%
+,Washington,53,55-64 years,55-64,American Indian or Alaska Native,1002-5,Female,F,11,113731,0,0.0%
+,Washington,53,55-64 years,55-64,American Indian or Alaska Native,1002-5,Male,M,26,106459,24.4,0.0%
+,Washington,53,55-64 years,55-64,Asian or Pacific Islander,A-PI,Female,F,32,540197,5.9,0.0%
+,Washington,53,55-64 years,55-64,Asian or Pacific Islander,A-PI,Male,M,62,414191,15,0.0%
+,Washington,53,55-64 years,55-64,Black or African American,2054-5,Female,F,10,187973,0,0.0%
+,Washington,53,55-64 years,55-64,Black or African American,2054-5,Male,M,27,221664,12.2,0.0%
+,Washington,53,55-64 years,55-64,White,2106-3,Female,F,667,6423603,10.4,0.1%
+,Washington,53,55-64 years,55-64,White,2106-3,Male,M,1885,6249143,30.2,0.3%
+,Washington,53,65-74 years,65-74,Asian or Pacific Islander,A-PI,Female,F,19,317094,0,0.0%
+,Washington,53,65-74 years,65-74,Asian or Pacific Islander,A-PI,Male,M,29,227533,12.7,0.0%
+,Washington,53,65-74 years,65-74,White,2106-3,Female,F,268,4046360,6.6,0.0%
+,Washington,53,65-74 years,65-74,White,2106-3,Male,M,1122,3737942,30,0.2%
+,Washington,53,75-84 years,75-84,Asian or Pacific Islander,A-PI,Female,F,14,163608,0,0.0%
+,Washington,53,75-84 years,75-84,Asian or Pacific Islander,A-PI,Male,M,15,103034,0,0.0%
+,Washington,53,75-84 years,75-84,White,2106-3,Female,F,151,2563615,5.9,0.0%
+,Washington,53,75-84 years,75-84,White,2106-3,Male,M,902,1958667,46.1,0.1%
+,Washington,53,85+ years,85+,White,2106-3,Female,F,74,1288696,5.7,0.0%
+,Washington,53,85+ years,85+,White,2106-3,Male,M,466,658927,70.7,0.1%
+,West Virginia,54,5-14 years,5-14,White,2106-3,Female,F,14,1887276,0,0.0%
+,West Virginia,54,5-14 years,5-14,White,2106-3,Male,M,29,1988566,1.5,0.0%
+,West Virginia,54,15-24 years,15-24,Black or African American,2054-5,Male,M,26,128715,20.2,0.0%
+,West Virginia,54,15-24 years,15-24,White,2106-3,Female,F,79,2086421,3.8,0.0%
+,West Virginia,54,15-24 years,15-24,White,2106-3,Male,M,483,2164847,22.3,0.1%
+,West Virginia,54,25-34 years,25-34,Black or African American,2054-5,Male,M,15,103919,0,0.0%
+,West Virginia,54,25-34 years,25-34,White,2106-3,Female,F,147,1978360,7.4,0.0%
+,West Virginia,54,25-34 years,25-34,White,2106-3,Male,M,657,1993215,33,0.1%
+,West Virginia,54,35-44 years,35-44,Black or African American,2054-5,Male,M,19,91041,0,0.0%
+,West Virginia,54,35-44 years,35-44,White,2106-3,Female,F,229,2219037,10.3,0.0%
+,West Virginia,54,35-44 years,35-44,White,2106-3,Male,M,827,2197795,37.6,0.1%
+,West Virginia,54,45-54 years,45-54,Black or African American,2054-5,Male,M,10,91305,0,0.0%
+,West Virginia,54,45-54 years,45-54,White,2106-3,Female,F,271,2470962,11,0.0%
+,West Virginia,54,45-54 years,45-54,White,2106-3,Male,M,855,2420843,35.3,0.1%
+,West Virginia,54,55-64 years,55-64,Black or African American,2054-5,Male,M,10,65783,0,0.0%
+,West Virginia,54,55-64 years,55-64,White,2106-3,Female,F,171,2230202,7.7,0.0%
+,West Virginia,54,55-64 years,55-64,White,2106-3,Male,M,674,2144750,31.4,0.1%
+,West Virginia,54,65-74 years,65-74,White,2106-3,Female,F,70,1620576,4.3,0.0%
+,West Virginia,54,65-74 years,65-74,White,2106-3,Male,M,471,1435057,32.8,0.1%
+,West Virginia,54,75-84 years,75-84,White,2106-3,Female,F,32,1076312,3,0.0%
+,West Virginia,54,75-84 years,75-84,White,2106-3,Male,M,351,754179,46.5,0.1%
+,West Virginia,54,85+ years,85+,White,2106-3,Male,M,128,202154,63.3,0.0%
+,Wisconsin,55,5-14 years,5-14,Black or African American,2054-5,Male,M,12,739332,0,0.0%
+,Wisconsin,55,5-14 years,5-14,White,2106-3,Female,F,39,5890720,0.7,0.0%
+,Wisconsin,55,5-14 years,5-14,White,2106-3,Male,M,75,6200945,1.2,0.0%
+,Wisconsin,55,15-24 years,15-24,American Indian or Alaska Native,1002-5,Male,M,31,111154,27.9,0.0%
+,Wisconsin,55,15-24 years,15-24,Asian or Pacific Islander,A-PI,Female,F,14,261058,0,0.0%
+,Wisconsin,55,15-24 years,15-24,Asian or Pacific Islander,A-PI,Male,M,34,268836,12.6,0.0%
+,Wisconsin,55,15-24 years,15-24,Black or African American,2054-5,Female,F,21,636382,3.3,0.0%
+,Wisconsin,55,15-24 years,15-24,Black or African American,2054-5,Male,M,108,668315,16.2,0.0%
+,Wisconsin,55,15-24 years,15-24,White,2106-3,Female,F,306,6347839,4.8,0.0%
+,Wisconsin,55,15-24 years,15-24,White,2106-3,Male,M,1429,6630790,21.6,0.2%
+,Wisconsin,55,25-34 years,25-34,American Indian or Alaska Native,1002-5,Male,M,32,89910,35.6,0.0%
+,Wisconsin,55,25-34 years,25-34,Asian or Pacific Islander,A-PI,Female,F,15,242847,0,0.0%
+,Wisconsin,55,25-34 years,25-34,Asian or Pacific Islander,A-PI,Male,M,32,241751,13.2,0.0%
+,Wisconsin,55,25-34 years,25-34,Black or African American,2054-5,Female,F,32,540666,5.9,0.0%
+,Wisconsin,55,25-34 years,25-34,Black or African American,2054-5,Male,M,84,506491,16.6,0.0%
+,Wisconsin,55,25-34 years,25-34,White,2106-3,Female,F,391,5729119,6.8,0.1%
+,Wisconsin,55,25-34 years,25-34,White,2106-3,Male,M,1598,6016506,26.6,0.2%
+,Wisconsin,55,35-44 years,35-44,American Indian or Alaska Native,1002-5,Female,F,10,83941,0,0.0%
+,Wisconsin,55,35-44 years,35-44,American Indian or Alaska Native,1002-5,Male,M,37,83473,44.3,0.0%
+,Wisconsin,55,35-44 years,35-44,Asian or Pacific Islander,A-PI,Female,F,12,175175,0,0.0%
+,Wisconsin,55,35-44 years,35-44,Asian or Pacific Islander,A-PI,Male,M,20,169764,11.8,0.0%
+,Wisconsin,55,35-44 years,35-44,Black or African American,2054-5,Female,F,21,477719,4.4,0.0%
+,Wisconsin,55,35-44 years,35-44,Black or African American,2054-5,Male,M,55,444860,12.4,0.0%
+,Wisconsin,55,35-44 years,35-44,White,2106-3,Female,F,537,6530933,8.2,0.1%
+,Wisconsin,55,35-44 years,35-44,White,2106-3,Male,M,1933,6682658,28.9,0.3%
+,Wisconsin,55,45-54 years,45-54,American Indian or Alaska Native,1002-5,Female,F,11,73740,0,0.0%
+,Wisconsin,55,45-54 years,45-54,American Indian or Alaska Native,1002-5,Male,M,22,72455,30.4,0.0%
+,Wisconsin,55,45-54 years,45-54,Asian or Pacific Islander,A-PI,Male,M,13,107953,0,0.0%
+,Wisconsin,55,45-54 years,45-54,Black or African American,2054-5,Female,F,14,410226,0,0.0%
+,Wisconsin,55,45-54 years,45-54,Black or African American,2054-5,Male,M,48,376278,12.8,0.0%
+,Wisconsin,55,45-54 years,45-54,White,2106-3,Female,F,667,7120576,9.4,0.1%
+,Wisconsin,55,45-54 years,45-54,White,2106-3,Male,M,2207,7206357,30.6,0.3%
+,Wisconsin,55,55-64 years,55-64,Asian or Pacific Islander,A-PI,Male,M,10,63572,0,0.0%
+,Wisconsin,55,55-64 years,55-64,Black or African American,2054-5,Male,M,22,232883,9.4,0.0%
+,Wisconsin,55,55-64 years,55-64,White,2106-3,Female,F,446,5770291,7.7,0.1%
+,Wisconsin,55,55-64 years,55-64,White,2106-3,Male,M,1465,5715992,25.6,0.2%
+,Wisconsin,55,65-74 years,65-74,Black or African American,2054-5,Male,M,10,109573,0,0.0%
+,Wisconsin,55,65-74 years,65-74,White,2106-3,Female,F,190,3874726,4.9,0.0%
+,Wisconsin,55,65-74 years,65-74,White,2106-3,Male,M,781,3522157,22.2,0.1%
+,Wisconsin,55,75-84 years,75-84,White,2106-3,Female,F,79,2766791,2.9,0.0%
+,Wisconsin,55,75-84 years,75-84,White,2106-3,Male,M,572,2014138,28.4,0.1%
+,Wisconsin,55,85+ years,85+,White,2106-3,Female,F,41,1441208,2.8,0.0%
+,Wisconsin,55,85+ years,85+,White,2106-3,Male,M,262,659976,39.7,0.0%
+,Wyoming,56,5-14 years,5-14,White,2106-3,Male,M,14,663961,0,0.0%
+,Wyoming,56,15-24 years,15-24,American Indian or Alaska Native,1002-5,Male,M,12,26229,0,0.0%
+,Wyoming,56,15-24 years,15-24,White,2106-3,Female,F,52,663377,7.8,0.0%
+,Wyoming,56,15-24 years,15-24,White,2106-3,Male,M,279,728177,38.3,0.0%
+,Wyoming,56,25-34 years,25-34,American Indian or Alaska Native,1002-5,Male,M,12,20633,0,0.0%
+,Wyoming,56,25-34 years,25-34,White,2106-3,Female,F,48,608818,7.9,0.0%
+,Wyoming,56,25-34 years,25-34,White,2106-3,Male,M,305,657340,46.4,0.0%
+,Wyoming,56,35-44 years,35-44,American Indian or Alaska Native,1002-5,Male,M,12,18564,0,0.0%
+,Wyoming,56,35-44 years,35-44,White,2106-3,Female,F,92,620204,14.8,0.0%
+,Wyoming,56,35-44 years,35-44,White,2106-3,Male,M,287,649629,44.2,0.0%
+,Wyoming,56,45-54 years,45-54,White,2106-3,Female,F,110,703525,15.6,0.0%
+,Wyoming,56,45-54 years,45-54,White,2106-3,Male,M,323,727118,44.4,0.0%
+,Wyoming,56,55-64 years,55-64,White,2106-3,Female,F,62,589567,10.5,0.0%
+,Wyoming,56,55-64 years,55-64,White,2106-3,Male,M,214,617918,34.6,0.0%
+,Wyoming,56,65-74 years,65-74,White,2106-3,Female,F,23,367972,6.3,0.0%
+,Wyoming,56,65-74 years,65-74,White,2106-3,Male,M,145,360411,40.2,0.0%
+,Wyoming,56,75-84 years,75-84,White,2106-3,Female,F,15,223518,0,0.0%
+,Wyoming,56,75-84 years,75-84,White,2106-3,Male,M,136,180818,75.2,0.0%
+,Wyoming,56,85+ years,85+,White,2106-3,Male,M,58,53857,107.7,0.0%
+---,,,,,,,,,,,,
+"Dataset: Underlying Cause of Death, 1999-2017",,,,,,,,,,,,
+Query Parameters:,,,,,,,,,,,,
+Injury Intent: Suicide,,,,,,,,,,,,
+Group By: State; Ten-Year Age Groups; Race; Gender,,,,,,,,,,,,
+Show Totals: Disabled,,,,,,,,,,,,
+Show Zero Values: False,,,,,,,,,,,,
+Show Suppressed: False,,,,,,,,,,,,
+"Calculate Rates Per: 100,000",,,,,,,,,,,,
+Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups),,,,,,,,,,,,
+---,,,,,,,,,,,,
+Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information.,,,,,,,,,,,,
+---,,,,,,,,,,,,
+"Query Date: Dec 8, 2019 1:54:42 PM",,,,,,,,,,,,
+---,,,,,,,,,,,,
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death",,,,,,,,,,,,
+"1999-2017 on CDC WONDER Online Database, released December, 2018. Data are from the Multiple Cause of Death Files, 1999-2017, as",,,,,,,,,,,,
+compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed,,,,,,,,,,,,
+"at http://wonder.cdc.gov/ucd-icd10.html on Dec 8, 2019 1:54:42 PM",,,,,,,,,,,,
+---,,,,,,,,,,,,
+Messages:,,,,,,,,,,,,
+1. Totals are not available for these results due to suppression constraints. More Information:,,,,,,,,,,,,
+http://wonder.cdc.gov/wonder/help/faq.html#Privacy.,,,,,,,,,,,,
+2. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows.,,,,,,,,,,,,
+---,,,,,,,,,,,,
+Caveats:,,,,,,,,,,,,
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:",,,,,,,,,,,,
+http://wonder.cdc.gov/wonder/help/ucd.html#2014-Revision.,,,,,,,,,,,,
+2. Circumstances in Georgia for the years 2008 and 2009 have resulted in unusually high death counts for the ICD-10 cause of,,,,,,,,,,,,
+"death code R99, ""Other ill-defined and unspecified causes of mortality."" Caution should be used in interpreting these data.",,,,,,,,,,,,
+More information: http://wonder.cdc.gov/wonder/help/ucd.html#Georgia-Reporting-Anomalies.,,,,,,,,,,,,
+3. Circumstances in New Jersey for the year 2009 have resulted in unusually high death counts for the ICD-10 cause of death code,,,,,,,,,,,,
+"R99, ""Other ill-defined and unspecified causes of mortality"" and therefore unusually low death counts in other ICD-10 codes,",,,,,,,,,,,,
+"most notably R95, ""Sudden Infant Death Syndrome"" and X40-X49, ""Unintentional poisoning."" Caution should be used in",,,,,,,,,,,,
+interpreting these data. More information: http://wonder.cdc.gov/wonder/help/ucd.html#New-Jersey-Reporting-Anomalies.,,,,,,,,,,,,
+"4. Circumstances in California resulted in unusually high death counts for the ICD-10 cause of death code R99, ""Other",,,,,,,,,,,,
+"ill-defined and unspecified causes of mortality"" for deaths occurring in years 2000 and 2001. Caution should be used in",,,,,,,,,,,,
+interpreting these data. More information: http://wonder.cdc.gov/wonder/help/ucd.html#California-Reporting-Anomalies.,,,,,,,,,,,,
+5. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:,,,,,,,,,,,,
+http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality.,,,,,,,,,,,,
+6. Death rates are flagged as 0 when the rate is calculated with a numerator of 20 or less. More information:,,,,,,,,,,,,
+http://wonder.cdc.gov/wonder/help/ucd.html#0.,,,,,,,,,,,,
+"7. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,",,,,,,,,,,,,
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:",,,,,,,,,,,,
+http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated.,,,,,,,,,,,,
+8. Information included on the death certificate about the race and Hispanic ethnicity of the decedent is reported by the,,,,,,,,,,,,
+"funeral director as provided by an informant, often the surviving next of kin, or, in the absence of an informant, on the basis",,,,,,,,,,,,
+of observation. Race and ethnicity information from the census is by self-report. To the extent that race and Hispanic origin,,,,,,,,,,,,
+"are inconsistent between these two data sources, death rates will be biased. More information:",,,,,,,,,,,,
+http://wonder.cdc.gov/wonder/help/ucd.html#Racial Differences.,,,,,,,,,,,,
+"9. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the Vintage 2017",,,,,,,,,,,,
+"postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race estimates of the July",,,,,,,,,,,,
+"1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The population figures for",,,,,,,,,,,,
+"year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal series released by NCHS",,,,,,,,,,,,
+"on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident population, from the",,,,,,,,,,,,
+"Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are bridged-race",,,,,,,,,,,,
+"estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26, 2014. The",,,,,,,,,,,,
+"population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012 postcensal",,,,,,,,,,,,
+"series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July 1 resident",,,,,,,,,,,,
+"population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010 are April 1",,,,,,,,,,,,
+"Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident population, from",,,,,,,,,,,,
+"the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population figures for 2000 are",,,,,,,,,,,,
+April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1 estimates. Population,,,,,,,,,,,,
+figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population figures for years 2001 -,,,,,,,,,,,,
+"2009 differ slightly from previously published reports, due to use of the population estimates which were available at the time",,,,,,,,,,,,
+of release.,,,,,,,,,,,,
+10. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the,,,,,,,,,,,,
+resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group.,,,,,,,,,,,,
